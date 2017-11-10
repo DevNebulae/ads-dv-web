@@ -4,12 +4,12 @@ export default function Introduction() {
   return (
     <article className="introduction">
       <p>
-        On the 22 nd of February 2017, Old-School RuneScape was introduced to
-        Jagex' game catalogue after many players requested it came back.
-        Approximately half of the player base stopped playing after a large
-        update to the combat system. Six years later, a back-up of the year 2007
-        was restored and many players are now enjoying the game they knew as
-        RuneScape. To avoid confusion, the game is now called Old-School
+        On the 22<sup>nd</sup> of February 2017, Old-School RuneScape was
+        introduced to Jagex' game catalogue after many players requested it came
+        back. Approximately half of the player base stopped playing after a
+        large update to the combat system. Six years later, a back-up of the
+        year 2007 was restored and many players are now enjoying the game they
+        knew as RuneScape. To avoid confusion, the game is now called Old-School
         RuneScape and it lives alongside the more modern RuneScape, more often
         called RuneScape 3 by the RuneScape playerbase.
       </p>
