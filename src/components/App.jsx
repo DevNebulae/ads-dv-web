@@ -26,7 +26,11 @@ class App extends Component {
             xMap={d => d.timestamp}
             yMap={d => d.sellingPrice}
           />
-          <SupplyDemandChart data={data} />
+          <SupplyDemandChart
+            data={data}
+            xMap={d => d.timestamp}
+            yMap={d => d.delta}
+          />
           <Disclaimer data={data} />
         </div>
       )
