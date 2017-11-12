@@ -1,27 +1,37 @@
 import * as d3 from "d3"
 import Axis from "./charts/Axis"
 import Chart from "./charts/Chart"
+import Label from "./charts/Label"
 import React, { Component } from "react"
+import styled from "styled-components"
+
+const Bar = styled.rect`
+  fill: ${props => (props.negative ? "#F44336" : "#00BCD4")};
+`
+const BaseLine = styled.line`
+  stroke-width: 2;
+  stroke: black;
+`
 
 export default class SupplyDemandChart extends Component {
   render() {
-    const fullWidth = 1680
-    const fullHeight = 720
+    const [pWidth, pHeight] = this.props.size
     const margin = { top: 20, right: 20, bottom: 30, left: 50 }
-    const width = fullWidth - margin.left - margin.right
-    const height = fullHeight - margin.top - margin.bottom
+    const width = pWidth - margin.left - margin.right
+    const height = pHeight - margin.top - margin.bottom
 
-    var x = d3
+    const x = d3
       .scaleBand()
-      .rangeRound([0, width])
-      .padding(0.1)
-    var y = d3.scaleLinear().range([height, 0])
-
-    const selectX = d => d.timestamp
-    const selectY = d => d.sellingPrice
-
-    const scaleX = d => x(selectX(d))
-    const scaleY = d => y(selectY(d))
+      .range([0, width])
+      .padding(0.2)
+      .domain(this.props.data.map(this.props.xMap))
+    const y = d3
+      .scaleLinear()
+      .rangeRound([height, 0])
+      .domain([
+        d3.min(this.props.data, this.props.yMap),
+        d3.max(this.props.data, this.props.yMap)
+      ])
 
     const xAxis = d3
       .axisBottom()
@@ -30,72 +40,56 @@ export default class SupplyDemandChart extends Component {
     const yAxis = d3
       .axisLeft()
       .scale(y)
-      .ticks(5)
-
-    x.domain(
-      this.props.data.map(function(d) {
-        return d.timestamp
-      })
-    )
-    y.domain([
-      0,
-      d3.max(this.props.data, function(d) {
-        return d.sellingPrice
-      })
-    ])
-
-    // svg
-    //   .append("g")
-    //   .attr("class", "x axis")
-    //   .attr("transform", "translate(0," + height + ")")
-    //   .call(xAxis)
-    //   .selectAll("text")
-    //   .style("text-anchor", "end")
-    //   .attr("dx", "-.8em")
-    //   .attr("dy", "-.55em")
-    //   .attr("transform", "rotate(-90)")
-
-    // svg
-    //   .append("g")
-    //   .attr("class", "y axis")
-    //   .call(yAxis)
-    //   .append("text")
-    //   .attr("transform", "rotate(-90)")
-    //   .attr("y", 6)
-    //   .attr("dy", ".71em")
-    //   .style("text-anchor", "end")
-    //   .text("Value ($)")
-
-    // svg
-    //   .selectAll("bar")
-    //   .data(data)
-    //   .enter()
-    //   .append("rect")
-    //   .style("fill", "steelblue")
-    //   .attr("x", function(d) {
-    //     return x(d.date)
-    //   })
-    //   .attr("width", x.rangeBand())
-    //   .attr("y", function(d) {
-    //     return y(d.value)
-    //   })
-    //   .attr("height", function(d) {
-    //     return height - y(d.value)
-    //   })
+      .tickFormat(d => `${d3.format(".2f")(d * 100)}%`)
 
     return (
       <Chart
         id="shark-supply-demand"
-        width={fullWidth}
-        height={fullHeight}
+        width={pWidth}
+        height={pHeight}
         margin={margin}
       >
         <Axis
           type="x"
           axis={xAxis}
-          style={{ transform: `translateY(${height}px)` }}
+          style={{ transform: `translate(0, ${height}px)` }}
+          styling={this.props.styling.axis}
         />
-        <Axis type="y" axis={yAxis} />
+        <BaseLine x2={width} y1={y(0)} y2={y(0)} />
+        <Axis axis={yAxis} type="y" styling={this.props.styling.axis}>
+          <Label
+            dy={this.props.styling.label.fontSize}
+            styling={this.props.styling.label}
+            type="y"
+            y={6}
+          >
+            Price change (in %)
+          </Label>
+        </Axis>
+
+        {this.props.data.map((d, index) => (
+          <Bar
+            key={`bars-${index}`}
+            negative={d.sellingPriceDelta < 0}
+            className={"bar"}
+            x={x(this.props.xMap(d))}
+            width={x.bandwidth()}
+            y={Math.min(y(this.props.yMap(d)), y(0))}
+            height={Math.abs(y(0) - y(d.sellingPriceDelta))}
+          >
+            {/*
+				The logic behind the mathematics is as follows:
+
+				The rectangle is based on a y-position and is drawn downwards.
+				If the value is positive, the y-position is lesser than the
+				0-line. If the value of the bar-chart is negative, the bar needs
+				to be drawn from the 0-line, meaning that you should pick the
+				lesser y-value of the two. If SVG accepted negative height
+				values, this would not be necessary. The height always needs to
+				be positive, so calculate the difference to the 0-line.
+			*/}
+          </Bar>
+        ))}
       </Chart>
     )
   }
