@@ -7,12 +7,8 @@ export default gql`
       store
       rsbuddy {
         timestamp
-        buyingPrice
-        buyingCompleted
         sellingPrice
-        sellingCompleted
-        overallPrice
-        overallCompleted
+        sellingPriceDelta
       }
     }
   }
