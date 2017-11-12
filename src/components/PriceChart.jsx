@@ -1,24 +1,16 @@
 import * as d3 from "d3"
 import Axis from "./charts/Axis"
 import Chart from "./charts/Chart"
+import Label from "./charts/Label"
 import Line from "./charts/Line"
 import React, { Component } from "react"
-import styled from "styled-components"
-
-const AxisLabelY = styled.text`
-  fill: black;
-  transform: rotate(-90deg);
-  dy: 0.71em;
-  text-anchor: end;
-`
 
 export default class PriceChart extends Component {
   render() {
-    const fullWidth = 1680
-    const fullHeight = 720
+    const [pWidth, pHeight] = this.props.size
     const margin = { top: 20, right: 20, bottom: 30, left: 50 }
-    const width = fullWidth - margin.left - margin.right
-    const height = fullHeight - margin.top - margin.bottom
+    const width = pWidth - margin.left - margin.right
+    const height = pHeight - margin.top - margin.bottom
 
     const x = d3
       .scaleTime()
@@ -43,24 +35,28 @@ export default class PriceChart extends Component {
 
     const line = d3
       .line()
+      .curve(d3.curveBasis)
       .x(scaleX)
       .y(scaleY)
       .defined(d => !isNaN(d.sellingPrice))
 
     return (
-      <Chart
-        id="shark-prices"
-        width={fullWidth}
-        height={fullHeight}
-        margin={margin}
-      >
+      <Chart id="shark-prices" width={pWidth} height={pHeight} margin={margin}>
         <Axis
           type="x"
           axis={xAxis}
           style={{ transform: `translateY(${height}px)` }}
+          styling={this.props.styling.axis}
         />
-        <Axis type="y" axis={yAxis}>
-          <AxisLabelY y={20}>Price (in gp)</AxisLabelY>
+        <Axis axis={yAxis} type="y" styling={this.props.styling.axis}>
+          <Label
+            dy={this.props.styling.label.fontSize}
+            styling={this.props.styling.label}
+            type="y"
+            y={6}
+          >
+            Price (in gp)
+          </Label>
         </Axis>
 
         <Line data={this.props.data} lineFunction={line} />
