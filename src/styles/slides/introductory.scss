@@ -1,0 +1,37 @@
+@import "../variables.scss";
+
+.browser-icon {
+  height: 64px;
+  width: 64px;
+}
+
+.compatibility-table {
+  padding: 16px;
+  background-color: #444444;
+
+  th {
+    padding: 0 8px;
+  }
+
+  td {
+    padding: 8px 0;
+    color: $font-bg-dark;
+    text-align: center;
+  }
+}
+
+.karambwan-video {
+  @media (max-width: 973px) {
+    transform: translate(-50%, 0%);
+  }
+
+  @media (min-width: 974px) and (max-width: 1280px) {
+    transform: translate(-40%, 0%);
+  }
+
+  @media (min-width: 1281px) and (max-width: 1680px) {
+    transform: translate(-25%, 0%);
+  }
+
+  filter: grayscale(1) contrast(1);
+}

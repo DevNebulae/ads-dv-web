@@ -1,0 +1,65 @@
+@import "./layout/flex.scss";
+@import "./variables.scss";
+
+.slide {
+  @extend .flex-column;
+
+  h1 {
+    font-size: 4em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+  }
+
+  h2 {
+    font-size: 2em;
+  }
+
+  h3 {
+    font-size: 3em;
+    text-transform: uppercase;
+  }
+
+  p {
+    font-family: $font-stack-secondary;
+  }
+
+  .bold {
+    font-weight: bold;
+  }
+
+  .italic {
+    font-style: italic;
+  }
+
+  .underline {
+    text-decoration: underline;
+  }
+}
+
+.default-textbox {
+  padding: 32px 16px;
+  box-sizing: border-box;
+  text-align: left;
+
+  h2 {
+    padding-bottom: 32px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  h3 {
+    padding-bottom: 16px;
+    font-size: 1.8em;
+    font-weight: bold;
+  }
+
+  p {
+    padding-bottom: 24px;
+  }
+
+  sup {
+    font-size: 0.7em;
+  }
+}

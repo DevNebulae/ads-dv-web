@@ -1,0 +1,37 @@
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-auto {
+  flex: 1 1 auto;
+}
+
+.flex-none {
+  flex: 0 0 auto;
+}
+
+.flex-center-all {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.flex-center-horizontal {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.flex-center-vertical {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}

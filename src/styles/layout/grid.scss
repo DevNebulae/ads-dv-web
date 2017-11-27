@@ -1,0 +1,12 @@
+.grid {
+  display: grid;
+  height: 100%;
+
+  &.text-media {
+    grid-template-columns: 1fr 2fr;
+
+    @media (max-width: 1024px) {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+}
