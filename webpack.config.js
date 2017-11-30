@@ -13,7 +13,6 @@ module.exports = {
     port: 3000
   },
   entry: {
-    vendor: ["babel-polyfill", "d3"],
     index: [path.resolve(src, "index.js")]
   },
   module: {

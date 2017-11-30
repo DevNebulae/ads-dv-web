@@ -1,0 +1,50 @@
+@import "../styles.scss";
+@import "../variables.scss";
+
+.update-price-influence {
+  .axis.y,
+  .axis.x {
+    text {
+      fill: $white-1;
+    }
+
+    .tick {
+      line {
+        stroke: $white-1;
+      }
+
+      text {
+        fill: $white-1;
+      }
+    }
+  }
+
+  .domain {
+    stroke: $white-1;
+  }
+
+  .graph-line {
+    stroke: yellow;
+    stroke-width: 1.5;
+  }
+
+  .update-line {
+    stroke-width: 1.5;
+    stroke: #d500f9;
+    fill: none;
+  }
+
+  .grid.y .tick {
+    line {
+      stroke: $white-3;
+    }
+  }
+
+  .left {
+    @extend .bg-indigo-500;
+  }
+
+  .right {
+    @extend .bg-indigo-a400;
+  }
+}

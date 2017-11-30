@@ -1,4 +1,10 @@
-$font-bg-dark: rgba(white, 0.87);
+$black-1: rgba(black, 0.87);
+
+$white-1: rgba(white, 0.87);
+$white-2: rgba(white, 0.56);
+$white-3: rgba(white, 0.32);
+
+$font-bg-dark: $white-1;
 
 $font-stack: "Montserrat", sans-serif;
 $font-stack-secondary: "Roboto", sans-serif;

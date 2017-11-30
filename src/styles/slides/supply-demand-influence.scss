@@ -1,0 +1,11 @@
+@import "./../styles.scss";
+
+.supply-demand-influence {
+  .left {
+    @extend .bg-teal-500;
+  }
+
+  .right {
+    @extend .bg-teal-a400;
+  }
+}

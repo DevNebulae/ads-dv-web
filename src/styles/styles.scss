@@ -14,17 +14,37 @@
 .bg-black-yellow {
   @extend .bg-black;
 
-  color: #ffff00;
+  color: yellow;
 }
 
 .bg-green {
   background: #4caf50;
-  color: rgba(black, 0.87);
+  color: $black-1;
+}
+
+.bg-indigo-500 {
+  background-color: #3f51b5;
+  color: $white-1;
+}
+
+.bg-indigo-a400 {
+  background-color: #3d5afe;
+  color: $white-1;
+}
+
+.bg-teal-500 {
+  background-color: #009688;
+  color: $white-1;
+}
+
+.bg-teal-a400 {
+  background-color: #1de9b6;
+  color: black;
 }
 
 .bg-pink {
   background-color: #e91e63;
-  color: rgba(white, 0.87);
+  color: $white-1;
 }
 
 .cover-image {
@@ -37,4 +57,5 @@
   @extend .default-textbox;
   box-shadow: 0 19px 38px rgba(black, 0.3), 0 15px 12px rgba(black, 0.22);
   z-index: 2;
+  overflow-y: auto;
 }
