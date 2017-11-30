@@ -47,6 +47,10 @@
   color: $white-1;
 }
 
+.black-and-white {
+  filter: grayscale(1);
+}
+
 .cover-image {
   width: auto;
   height: 100%;

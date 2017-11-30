@@ -11,8 +11,8 @@ export default function(
   item = item.filter(
     transaction =>
       transaction.timestamp >
-        new Date("Thu Jan 01 2017 23:00:00 GMT+0000 (UTC)") &&
-      transaction.sellingPriceDelta >= 0
+      new Date("Thu Jan 01 2017 23:00:00 GMT+0000 (UTC)")
+    // && transaction.sellingPriceDelta >= 0
   )
 
   const xScale = d3
@@ -27,13 +27,13 @@ export default function(
   const yScale = d3
     .scaleLinear()
     .range([height, 0])
-    .domain([
-      d3.min(item, yMap) - lineMargin.y,
-      d3.max(item, yMap) + lineMargin.y
-    ])
+    .domain(d3.extent(item, yMap))
 
   const xAxis = d3.axisBottom(xScale2).tickFormat(d3.timeFormat("%Y %B"))
-  const yAxis = d3.axisLeft(yScale)
+  const yAxis = d3.axisLeft(yScale).tickFormat(d3.format(".0%"))
+
+  const zeroY = yScale(0)
+  const zeroYCorrected = yScale(0) + stroke / 2
 
   const svg = element
     .append("g")
@@ -41,30 +41,38 @@ export default function(
 
   svg
     .append("g")
+    .attr("class", "axis x")
     .attr("transform", "translate(0," + height + ")")
     .call(xAxis)
 
-  svg.append("g").call(yAxis)
+  svg
+    .append("g")
+    .attr("class", "axis y")
+    .call(yAxis)
 
   svg
     .append("line")
     .attr("class", "zero-line")
-    .attr("x1", margin.left)
-    .attr("y1", yScale(0))
+    .attr("y1", zeroYCorrected)
     .attr("x2", width)
-    .attr("y2", yScale(0))
+    .attr("y2", zeroYCorrected)
     .attr("stroke-width", stroke)
 
-  console.log(yScale(0))
+  const bars = svg.append("g").attr("class", "bars")
 
-  svg
-    .selectAll(".bar")
-    .data(item)
-    .enter()
-    .append("rect")
-    .attr("class", "bar price")
-    .attr("x", d => xScale(xMap(d)))
-    .attr("width", xScale.bandwidth())
-    .attr("y", d => height - yScale(yMap(d)))
-    .attr("height", d => yScale(yMap(d)))
+  item.forEach(data => {
+    const barWidth = xScale.bandwidth()
+    const barHeight = Math.abs(zeroY - yScale(yMap(data)))
+    const x = xScale(xMap(data))
+    const y = Math.min(yScale(yMap(data)), zeroY)
+
+    bars
+      .append("rect")
+      .attr("class", "bar price")
+      .classed("negative", yMap(data) < 0)
+      .attr("x", x)
+      .attr("width", barWidth)
+      .attr("y", y)
+      .attr("height", barHeight)
+  })
 }

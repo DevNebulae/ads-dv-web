@@ -24,13 +24,13 @@
   }
 
   .graph-line {
-    stroke: yellow;
+    stroke: $prices;
     stroke-width: 1.5;
   }
 
   .update-line {
     stroke-width: 1.5;
-    stroke: #d500f9;
+    stroke: $updates;
     fill: none;
   }
 

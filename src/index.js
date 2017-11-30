@@ -75,7 +75,7 @@ async function start() {
     lineMargin: {
       y: 0
     },
-    stroke: 1.5,
+    stroke: 1,
     margin: {
       top: 20,
       right: 20,

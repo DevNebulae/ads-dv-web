@@ -8,4 +8,29 @@
   .right {
     @extend .bg-teal-a400;
   }
+
+  .axis.y,
+  .axis.x {
+    text {
+      fill: $white-1;
+    }
+
+    .tick {
+      line {
+        stroke: $white-1;
+      }
+
+      text {
+        fill: $white-1;
+      }
+    }
+  }
+
+  .domain {
+    stroke: $white-1;
+  }
+
+  .zero-line {
+    stroke: black;
+  }
 }
