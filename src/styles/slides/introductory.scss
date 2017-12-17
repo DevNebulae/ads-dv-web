@@ -33,10 +33,5 @@
     transform: translate(-25%, 0%);
   }
 
-  @media (min-width: 2400px) {
-    width: 100% !important;
-    height: auto !important;
-  }
-
   filter: grayscale(1) contrast(1);
 }

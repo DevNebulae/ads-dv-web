@@ -1,0 +1,4407 @@
+{
+  "data": {
+    "item": {
+      "id": 383,
+      "name": "Raw shark",
+      "store": 300,
+      "rsbuddy": [
+        {
+          "timestamp": "Sun Jan 24 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "685.5000000000000000",
+          "sellingPriceDelta": null,
+          "sellingCompletedDelta": null,
+          "buyingCompletedDelta": null
+        },
+        {
+          "timestamp": "Mon Jan 25 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "688.7021276595744681",
+          "sellingPriceDelta": 0.00467122926269069,
+          "sellingCompletedDelta": 0.845745266076383,
+          "buyingCompletedDelta": 0.455856174904691
+        },
+        {
+          "timestamp": "Tue Jan 26 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "677.5625000000000000",
+          "sellingPriceDelta": -0.01617481232043,
+          "sellingCompletedDelta": 0.335822223200415,
+          "buyingCompletedDelta": 0.135221381335642
+        },
+        {
+          "timestamp": "Wed Jan 27 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "687.0208333333333333",
+          "sellingPriceDelta": 0.0139593518433109,
+          "sellingCompletedDelta": -0.145552922406466,
+          "buyingCompletedDelta": -0.215191751971582
+        },
+        {
+          "timestamp": "Thu Jan 28 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "695.6363636363636364",
+          "sellingPriceDelta": 0.0125404207340102,
+          "sellingCompletedDelta": -0.842766105573292,
+          "buyingCompletedDelta": -0.617761329243926
+        },
+        {
+          "timestamp": "Fri Jan 29 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "718.6097560975609756",
+          "sellingPriceDelta": 0.0330250022312037,
+          "sellingCompletedDelta": 4.87061375493748,
+          "buyingCompletedDelta": 1.59888311163836
+        },
+        {
+          "timestamp": "Sat Jan 30 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "704.1666666666666667",
+          "sellingPriceDelta": -0.0200986548099877,
+          "sellingCompletedDelta": 1.18579437121011,
+          "buyingCompletedDelta": 1.79262352359026
+        },
+        {
+          "timestamp": "Sun Jan 31 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "690.4583333333333333",
+          "sellingPriceDelta": -0.0194674556213018,
+          "sellingCompletedDelta": -0.0122223660238733,
+          "buyingCompletedDelta": -0.227840958688251
+        },
+        {
+          "timestamp": "Mon Feb 01 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "680.7916666666666667",
+          "sellingPriceDelta": -0.0140003620783296,
+          "sellingCompletedDelta": -0.462874864063746,
+          "buyingCompletedDelta": -0.374865023171538
+        },
+        {
+          "timestamp": "Tue Feb 02 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "692.3750000000000000",
+          "sellingPriceDelta": 0.0170145051716751,
+          "sellingCompletedDelta": -0.251246031856234,
+          "buyingCompletedDelta": -0.116923514748051
+        },
+        {
+          "timestamp": "Wed Feb 03 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "707.5208333333333333",
+          "sellingPriceDelta": 0.0218751880604201,
+          "sellingCompletedDelta": -0.115449579836145,
+          "buyingCompletedDelta": -0.0968248561527463
+        },
+        {
+          "timestamp": "Thu Feb 04 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "712.3191489361702128",
+          "sellingPriceDelta": 0.00678187182168282,
+          "sellingCompletedDelta": 0.0413982747366322,
+          "buyingCompletedDelta": -0.185965411489456
+        },
+        {
+          "timestamp": "Fri Feb 05 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "719.6458333333333333",
+          "sellingPriceDelta": 0.0102856765932873,
+          "sellingCompletedDelta": 0.215374888527243,
+          "buyingCompletedDelta": 0.0148166478665836
+        },
+        {
+          "timestamp": "Sat Feb 06 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "715.0000000000000000",
+          "sellingPriceDelta": -0.0064557218539212,
+          "sellingCompletedDelta": -0.184702351986297,
+          "buyingCompletedDelta": -0.00897593823076095
+        },
+        {
+          "timestamp": "Sun Feb 07 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "708.7916666666666667",
+          "sellingPriceDelta": -0.00868298368298368,
+          "sellingCompletedDelta": -0.0259472839748863,
+          "buyingCompletedDelta": 0.264949927837827
+        },
+        {
+          "timestamp": "Mon Feb 08 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "709.7083333333333333",
+          "sellingPriceDelta": 0.00129328081829405,
+          "sellingCompletedDelta": -0.294287163876205,
+          "buyingCompletedDelta": -0.160913945572891
+        },
+        {
+          "timestamp": "Tue Feb 09 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "708.8958333333333333",
+          "sellingPriceDelta": -0.00114483649386485,
+          "sellingCompletedDelta": 0.132640606327844,
+          "buyingCompletedDelta": -0.168050502110319
+        },
+        {
+          "timestamp": "Wed Feb 10 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "712.3958333333333333",
+          "sellingPriceDelta": 0.00493725570870191,
+          "sellingCompletedDelta": 0.457701888410564,
+          "buyingCompletedDelta": 0.110768594457853
+        },
+        {
+          "timestamp": "Thu Feb 11 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "718.0638297872340426",
+          "sellingPriceDelta": 0.0079562459361671,
+          "sellingCompletedDelta": -0.256311284618991,
+          "buyingCompletedDelta": -0.0869104723420914
+        },
+        {
+          "timestamp": "Fri Feb 12 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "721.0625000000000000",
+          "sellingPriceDelta": 0.00417604966073069,
+          "sellingCompletedDelta": -0.0431474343335773,
+          "buyingCompletedDelta": 0.0469048861335424
+        },
+        {
+          "timestamp": "Sat Feb 13 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "719.3958333333333333",
+          "sellingPriceDelta": -0.00231140388893704,
+          "sellingCompletedDelta": 0.0968396833836234,
+          "buyingCompletedDelta": 0.18401028071918
+        },
+        {
+          "timestamp": "Sun Feb 14 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "722.5416666666666667",
+          "sellingPriceDelta": 0.00437288233760968,
+          "sellingCompletedDelta": 0.16978813984828,
+          "buyingCompletedDelta": 0.0382841603485908
+        },
+        {
+          "timestamp": "Mon Feb 15 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "713.0625000000000000",
+          "sellingPriceDelta": -0.013119197278127,
+          "sellingCompletedDelta": -0.184246866425526,
+          "buyingCompletedDelta": 0.0327983412245148
+        },
+        {
+          "timestamp": "Tue Feb 16 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "717.4583333333333333",
+          "sellingPriceDelta": 0.00616472375609899,
+          "sellingCompletedDelta": -0.142579584031097,
+          "buyingCompletedDelta": -0.158350542410334
+        },
+        {
+          "timestamp": "Wed Feb 17 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "734.1250000000000000",
+          "sellingPriceDelta": 0.0232301527382543,
+          "sellingCompletedDelta": -0.022211464230815,
+          "buyingCompletedDelta": -0.20986613556259
+        },
+        {
+          "timestamp": "Thu Feb 18 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "740.3125000000000000",
+          "sellingPriceDelta": 0.00842840115784097,
+          "sellingCompletedDelta": 0.14992976303839,
+          "buyingCompletedDelta": -0.0954071730472384
+        },
+        {
+          "timestamp": "Fri Feb 19 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "745.8333333333333333",
+          "sellingPriceDelta": 0.0074574363303785,
+          "sellingCompletedDelta": 0.0743638550401412,
+          "buyingCompletedDelta": 0.412846192365471
+        },
+        {
+          "timestamp": "Sat Feb 20 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "780.0416666666666667",
+          "sellingPriceDelta": 0.0458659217877095,
+          "sellingCompletedDelta": -0.123750941517127,
+          "buyingCompletedDelta": -0.222703516190507
+        },
+        {
+          "timestamp": "Sun Feb 21 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "787.5833333333333333",
+          "sellingPriceDelta": 0.00966828695048342,
+          "sellingCompletedDelta": 0.0595320574299661,
+          "buyingCompletedDelta": 0.462637818226204
+        },
+        {
+          "timestamp": "Mon Feb 22 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "788.9375000000000000",
+          "sellingPriceDelta": 0.00171939477303989,
+          "sellingCompletedDelta": 0.314904445346629,
+          "buyingCompletedDelta": -0.123648333011993
+        },
+        {
+          "timestamp": "Tue Feb 23 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "799.2291666666666667",
+          "sellingPriceDelta": 0.01304497082046,
+          "sellingCompletedDelta": -0.172206616087721,
+          "buyingCompletedDelta": 0.0660181730716081
+        },
+        {
+          "timestamp": "Wed Feb 24 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "816.8333333333333333",
+          "sellingPriceDelta": 0.0220264317180617,
+          "sellingCompletedDelta": -0.186232679605517,
+          "buyingCompletedDelta": -0.0715865487786972
+        },
+        {
+          "timestamp": "Thu Feb 25 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "838.5416666666666667",
+          "sellingPriceDelta": 0.0265762089369516,
+          "sellingCompletedDelta": 0.333585257336174,
+          "buyingCompletedDelta": 0.0826924810287995
+        },
+        {
+          "timestamp": "Fri Feb 26 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "840.2083333333333333",
+          "sellingPriceDelta": 0.00198757763975155,
+          "sellingCompletedDelta": -0.244485326705756,
+          "buyingCompletedDelta": -0.149038785662482
+        },
+        {
+          "timestamp": "Sat Feb 27 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "844.1041666666666667",
+          "sellingPriceDelta": 0.0046367468385817,
+          "sellingCompletedDelta": 0.164559510662439,
+          "buyingCompletedDelta": 0.101463810468685
+        },
+        {
+          "timestamp": "Sun Feb 28 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "815.9791666666666667",
+          "sellingPriceDelta": -0.0333193474344102,
+          "sellingCompletedDelta": 0.116376066109514,
+          "buyingCompletedDelta": 0.0877144132220057
+        },
+        {
+          "timestamp": "Mon Feb 29 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "786.8750000000000000",
+          "sellingPriceDelta": -0.0356677815507953,
+          "sellingCompletedDelta": -0.174612989036363,
+          "buyingCompletedDelta": -0.0269984044325215
+        },
+        {
+          "timestamp": "Tue Mar 01 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "821.7500000000000000",
+          "sellingPriceDelta": 0.0443208895949166,
+          "sellingCompletedDelta": -0.0490514744574564,
+          "buyingCompletedDelta": -0.280399863664119
+        },
+        {
+          "timestamp": "Wed Mar 02 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "817.8125000000000000",
+          "sellingPriceDelta": -0.00479160328567082,
+          "sellingCompletedDelta": 0.128313559102019,
+          "buyingCompletedDelta": 0.242766439714607
+        },
+        {
+          "timestamp": "Thu Mar 03 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "843.9791666666666667",
+          "sellingPriceDelta": 0.0319959240861037,
+          "sellingCompletedDelta": 0.0880319028294302,
+          "buyingCompletedDelta": -0.0883425304627926
+        },
+        {
+          "timestamp": "Fri Mar 04 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "854.1250000000000000",
+          "sellingPriceDelta": 0.0120214262792822,
+          "sellingCompletedDelta": -0.196529238815584,
+          "buyingCompletedDelta": -0.0534421044920518
+        },
+        {
+          "timestamp": "Sat Mar 05 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "886.3750000000000000",
+          "sellingPriceDelta": 0.0377579394116786,
+          "sellingCompletedDelta": 0.17897372844074,
+          "buyingCompletedDelta": 0.0351595389096673
+        },
+        {
+          "timestamp": "Sun Mar 06 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "882.2291666666666667",
+          "sellingPriceDelta": -0.00467729046208809,
+          "sellingCompletedDelta": 0.103507684221672,
+          "buyingCompletedDelta": 0.359516287247467
+        },
+        {
+          "timestamp": "Mon Mar 07 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "899.6458333333333333",
+          "sellingPriceDelta": 0.0197416582048315,
+          "sellingCompletedDelta": -0.297655015829178,
+          "buyingCompletedDelta": -0.24627180891637
+        },
+        {
+          "timestamp": "Tue Mar 08 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "903.4166666666666667",
+          "sellingPriceDelta": 0.00419146423361045,
+          "sellingCompletedDelta": -0.0640073081607795,
+          "buyingCompletedDelta": 0.061621533226619
+        },
+        {
+          "timestamp": "Wed Mar 09 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "932.5625000000000000",
+          "sellingPriceDelta": 0.0322617839682686,
+          "sellingCompletedDelta": 0.148972220317135,
+          "buyingCompletedDelta": -0.153394656517494
+        },
+        {
+          "timestamp": "Thu Mar 10 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "931.4000000000000000",
+          "sellingPriceDelta": -0.00124656524361638,
+          "sellingCompletedDelta": -0.269792681442957,
+          "buyingCompletedDelta": -0.129958886614531
+        },
+        {
+          "timestamp": "Fri Mar 11 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "916.4583333333333333",
+          "sellingPriceDelta": -0.0160421587574261,
+          "sellingCompletedDelta": 0.275925238894723,
+          "buyingCompletedDelta": 0.46586614138395
+        },
+        {
+          "timestamp": "Sat Mar 12 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "907.5416666666666667",
+          "sellingPriceDelta": -0.00972948397363037,
+          "sellingCompletedDelta": 0.0190255201360198,
+          "buyingCompletedDelta": 0.0553136058180605
+        },
+        {
+          "timestamp": "Sun Mar 13 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "906.0625000000000000",
+          "sellingPriceDelta": -0.00162986088792985,
+          "sellingCompletedDelta": 0.176747676387779,
+          "buyingCompletedDelta": 0.0161838951369283
+        },
+        {
+          "timestamp": "Mon Mar 14 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "891.8958333333333333",
+          "sellingPriceDelta": -0.0156354188222851,
+          "sellingCompletedDelta": -0.183233646959543,
+          "buyingCompletedDelta": -0.132894766464933
+        },
+        {
+          "timestamp": "Tue Mar 15 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "865.9791666666666667",
+          "sellingPriceDelta": -0.0290579523954124,
+          "sellingCompletedDelta": -0.0622849412994053,
+          "buyingCompletedDelta": 0.190344769798432
+        },
+        {
+          "timestamp": "Wed Mar 16 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "865.2083333333333333",
+          "sellingPriceDelta": -0.000890129189020136,
+          "sellingCompletedDelta": 0.283871937095421,
+          "buyingCompletedDelta": -0.075700041343659
+        },
+        {
+          "timestamp": "Thu Mar 17 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "886.1875000000000000",
+          "sellingPriceDelta": 0.0242475319046472,
+          "sellingCompletedDelta": -0.0730906567953935,
+          "buyingCompletedDelta": -0.110568705407735
+        },
+        {
+          "timestamp": "Fri Mar 18 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "870.0000000000000000",
+          "sellingPriceDelta": -0.0182664503843713,
+          "sellingCompletedDelta": -0.108087126236547,
+          "buyingCompletedDelta": 0.130509161383379
+        },
+        {
+          "timestamp": "Sat Mar 19 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "872.8125000000000000",
+          "sellingPriceDelta": 0.00323275862068966,
+          "sellingCompletedDelta": 0.0621537953383811,
+          "buyingCompletedDelta": -0.0677797767983584
+        },
+        {
+          "timestamp": "Sun Mar 20 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "881.3125000000000000",
+          "sellingPriceDelta": 0.00973863229502327,
+          "sellingCompletedDelta": 0.330206685589443,
+          "buyingCompletedDelta": -0.0308393787838303
+        },
+        {
+          "timestamp": "Mon Mar 21 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "883.7083333333333333",
+          "sellingPriceDelta": 0.00271848332269579,
+          "sellingCompletedDelta": -0.160320680721943,
+          "buyingCompletedDelta": 0.0300879543095722
+        },
+        {
+          "timestamp": "Tue Mar 22 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "902.6458333333333333",
+          "sellingPriceDelta": 0.0214295817813193,
+          "sellingCompletedDelta": -0.215662711357611,
+          "buyingCompletedDelta": -0.00558288122751172
+        },
+        {
+          "timestamp": "Wed Mar 23 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "935.2916666666666667",
+          "sellingPriceDelta": 0.0361668243820251,
+          "sellingCompletedDelta": 0.475471144547111,
+          "buyingCompletedDelta": -0.120611023153706
+        },
+        {
+          "timestamp": "Thu Mar 24 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "955.7291666666666667",
+          "sellingPriceDelta": 0.0218514723571079,
+          "sellingCompletedDelta": -0.164977507195856,
+          "buyingCompletedDelta": -0.062576108114485
+        },
+        {
+          "timestamp": "Fri Mar 25 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "983.5416666666666667",
+          "sellingPriceDelta": 0.0291008174386921,
+          "sellingCompletedDelta": -0.0613379156456665,
+          "buyingCompletedDelta": 0.304200062643675
+        },
+        {
+          "timestamp": "Sat Mar 26 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "977.1458333333333333",
+          "sellingPriceDelta": -0.00650285956365177,
+          "sellingCompletedDelta": 0.147400672441036,
+          "buyingCompletedDelta": 0.143468497324721
+        },
+        {
+          "timestamp": "Sun Mar 27 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "968.1666666666666667",
+          "sellingPriceDelta": -0.00918917766454171,
+          "sellingCompletedDelta": -0.0276738804508564,
+          "buyingCompletedDelta": -0.0469156476598434
+        },
+        {
+          "timestamp": "Mon Mar 28 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "952.9791666666666667",
+          "sellingPriceDelta": -0.0156868652091582,
+          "sellingCompletedDelta": -0.0445763582615824,
+          "buyingCompletedDelta": 0.135752751641934
+        },
+        {
+          "timestamp": "Tue Mar 29 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "968.9166666666666667",
+          "sellingPriceDelta": 0.0167238703189559,
+          "sellingCompletedDelta": -0.00347162537592135,
+          "buyingCompletedDelta": -0.317526718866463
+        },
+        {
+          "timestamp": "Wed Mar 30 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "967.2916666666666667",
+          "sellingPriceDelta": -0.00167713081620366,
+          "sellingCompletedDelta": -0.022366275589785,
+          "buyingCompletedDelta": 0.0758219972636052
+        },
+        {
+          "timestamp": "Thu Mar 31 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "951.9565217391304348",
+          "sellingPriceDelta": -0.0158536927960745,
+          "sellingCompletedDelta": 0.116360063758526,
+          "buyingCompletedDelta": -0.022414049393727
+        },
+        {
+          "timestamp": "Fri Apr 01 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "943.9791666666666667",
+          "sellingPriceDelta": -0.00837995737230723,
+          "sellingCompletedDelta": -0.127559052990827,
+          "buyingCompletedDelta": -0.0351709248538869
+        },
+        {
+          "timestamp": "Sat Apr 02 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "932.1458333333333333",
+          "sellingPriceDelta": -0.0125355873849617,
+          "sellingCompletedDelta": 0.102294931703254,
+          "buyingCompletedDelta": 0.033880136836378
+        },
+        {
+          "timestamp": "Sun Apr 03 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "940.3125000000000000",
+          "sellingPriceDelta": 0.00876114699506068,
+          "sellingCompletedDelta": -0.121210631442032,
+          "buyingCompletedDelta": 0.000757335630342785
+        },
+        {
+          "timestamp": "Mon Apr 04 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "959.3750000000000000",
+          "sellingPriceDelta": 0.0202725157859754,
+          "sellingCompletedDelta": 0.0732618004485057,
+          "buyingCompletedDelta": -0.0384963636715312
+        },
+        {
+          "timestamp": "Tue Apr 05 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "971.6041666666666667",
+          "sellingPriceDelta": 0.0127470141150923,
+          "sellingCompletedDelta": 0.0340805518654649,
+          "buyingCompletedDelta": 0.0649137155527001
+        },
+        {
+          "timestamp": "Wed Apr 06 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "980.1250000000000000",
+          "sellingPriceDelta": 0.0087698608401055,
+          "sellingCompletedDelta": 0.00764885821600571,
+          "buyingCompletedDelta": 0.0532182360313273
+        },
+        {
+          "timestamp": "Thu Apr 07 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "999.4166666666666667",
+          "sellingPriceDelta": 0.0196828635803256,
+          "sellingCompletedDelta": -0.147538886578253,
+          "buyingCompletedDelta": -0.10069848856983
+        },
+        {
+          "timestamp": "Fri Apr 08 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1018.2708333333333333",
+          "sellingPriceDelta": 0.0188651713499541,
+          "sellingCompletedDelta": 0.0195444436154454,
+          "buyingCompletedDelta": -0.0396396834359835
+        },
+        {
+          "timestamp": "Sat Apr 09 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1007.3750000000000000",
+          "sellingPriceDelta": -0.0107003293982855,
+          "sellingCompletedDelta": 0.150496018286692,
+          "buyingCompletedDelta": 0.142906279995094
+        },
+        {
+          "timestamp": "Sun Apr 10 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "995.0416666666666667",
+          "sellingPriceDelta": -0.0122430409066468,
+          "sellingCompletedDelta": 0.0285395535785754,
+          "buyingCompletedDelta": 0.162532267168178
+        },
+        {
+          "timestamp": "Mon Apr 11 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1020.7708333333333333",
+          "sellingPriceDelta": 0.0258573761567774,
+          "sellingCompletedDelta": -0.202054130600793,
+          "buyingCompletedDelta": -0.183943809193527
+        },
+        {
+          "timestamp": "Tue Apr 12 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1068.9583333333333333",
+          "sellingPriceDelta": 0.0472069718554197,
+          "sellingCompletedDelta": 0.0316685577644003,
+          "buyingCompletedDelta": -0.101614872629764
+        },
+        {
+          "timestamp": "Wed Apr 13 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1092.8333333333333333",
+          "sellingPriceDelta": 0.0223348275190021,
+          "sellingCompletedDelta": -0.0284199775476269,
+          "buyingCompletedDelta": -0.00331256870648589
+        },
+        {
+          "timestamp": "Thu Apr 14 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1091.7083333333333333",
+          "sellingPriceDelta": -0.00102943419246607,
+          "sellingCompletedDelta": 0.218831338070995,
+          "buyingCompletedDelta": 0.117317901733849
+        },
+        {
+          "timestamp": "Fri Apr 15 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1084.0625000000000000",
+          "sellingPriceDelta": -0.00700354948284417,
+          "sellingCompletedDelta": 0.00595959365564511,
+          "buyingCompletedDelta": 0.275071897231381
+        },
+        {
+          "timestamp": "Sat Apr 16 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1068.4791666666666667",
+          "sellingPriceDelta": -0.0143749399442683,
+          "sellingCompletedDelta": 0.015570651076412,
+          "buyingCompletedDelta": 0.067505575337793
+        },
+        {
+          "timestamp": "Sun Apr 17 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1052.0000000000000000",
+          "sellingPriceDelta": -0.0154230116793729,
+          "sellingCompletedDelta": 0.272873345408168,
+          "buyingCompletedDelta": 0.0659187836491317
+        },
+        {
+          "timestamp": "Mon Apr 18 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1026.9583333333333333",
+          "sellingPriceDelta": -0.023803865652725,
+          "sellingCompletedDelta": -0.0772949190112416,
+          "buyingCompletedDelta": -0.11232947659629
+        },
+        {
+          "timestamp": "Tue Apr 19 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1010.8541666666666667",
+          "sellingPriceDelta": -0.0156814216740374,
+          "sellingCompletedDelta": -0.227120192613283,
+          "buyingCompletedDelta": -0.00622475258931126
+        },
+        {
+          "timestamp": "Wed Apr 20 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1020.0000000000000000",
+          "sellingPriceDelta": 0.00904762886172997,
+          "sellingCompletedDelta": 0.0663120799049994,
+          "buyingCompletedDelta": -0.169375813351682
+        },
+        {
+          "timestamp": "Thu Apr 21 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1022.2916666666666667",
+          "sellingPriceDelta": 0.00224673202614379,
+          "sellingCompletedDelta": -0.0522914684427529,
+          "buyingCompletedDelta": 0.0280728056091586
+        },
+        {
+          "timestamp": "Fri Apr 22 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "988.5833333333333333",
+          "sellingPriceDelta": -0.0329733034440595,
+          "sellingCompletedDelta": 0.0385700975452074,
+          "buyingCompletedDelta": 0.218466363957336
+        },
+        {
+          "timestamp": "Sat Apr 23 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "968.8958333333333333",
+          "sellingPriceDelta": -0.0199148613335581,
+          "sellingCompletedDelta": 0.0000373493393560974,
+          "buyingCompletedDelta": 0.0312978309808409
+        },
+        {
+          "timestamp": "Sun Apr 24 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "954.8750000000000000",
+          "sellingPriceDelta": -0.0144709398585159,
+          "sellingCompletedDelta": 0.26576797259979,
+          "buyingCompletedDelta": 0.264962510955722
+        },
+        {
+          "timestamp": "Mon Apr 25 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "929.0833333333333333",
+          "sellingPriceDelta": -0.0270105162106733,
+          "sellingCompletedDelta": 0.0559216825681693,
+          "buyingCompletedDelta": -0.115634985655266
+        },
+        {
+          "timestamp": "Tue Apr 26 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "960.3333333333333333",
+          "sellingPriceDelta": 0.033635303614674,
+          "sellingCompletedDelta": -0.240331683935936,
+          "buyingCompletedDelta": -0.215647884439107
+        },
+        {
+          "timestamp": "Wed Apr 27 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "986.8333333333333333",
+          "sellingPriceDelta": 0.0275945852134675,
+          "sellingCompletedDelta": 0.010334812139239,
+          "buyingCompletedDelta": -0.197991528436137
+        },
+        {
+          "timestamp": "Thu Apr 28 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1010.2916666666666667",
+          "sellingPriceDelta": 0.0237713224117548,
+          "sellingCompletedDelta": 0.196967750041405,
+          "buyingCompletedDelta": -0.0443842620677702
+        },
+        {
+          "timestamp": "Fri Apr 29 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "997.0416666666666667",
+          "sellingPriceDelta": -0.0131150245391182,
+          "sellingCompletedDelta": -0.113743959940885,
+          "buyingCompletedDelta": 0.306310117058427
+        },
+        {
+          "timestamp": "Sat Apr 30 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "979.0000000000000000",
+          "sellingPriceDelta": -0.0180951982949559,
+          "sellingCompletedDelta": -0.158066762897837,
+          "buyingCompletedDelta": 0.0438072862223474
+        },
+        {
+          "timestamp": "Sun May 01 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "943.2083333333333333",
+          "sellingPriceDelta": -0.0365594143684031,
+          "sellingCompletedDelta": 0.302906123088408,
+          "buyingCompletedDelta": 0.267991340498278
+        },
+        {
+          "timestamp": "Mon May 02 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "910.0833333333333333",
+          "sellingPriceDelta": -0.035119494632681,
+          "sellingCompletedDelta": 0.14966676645678,
+          "buyingCompletedDelta": -0.0483128113192349
+        },
+        {
+          "timestamp": "Tue May 03 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "928.7083333333333333",
+          "sellingPriceDelta": 0.0204651588682355,
+          "sellingCompletedDelta": -0.130417521762934,
+          "buyingCompletedDelta": -0.128528652425423
+        },
+        {
+          "timestamp": "Wed May 04 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "976.5416666666666667",
+          "sellingPriceDelta": 0.0515052267934856,
+          "sellingCompletedDelta": -0.0488939942858826,
+          "buyingCompletedDelta": -0.201493548675629
+        },
+        {
+          "timestamp": "Thu May 05 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "984.5416666666666667",
+          "sellingPriceDelta": 0.00819217476639502,
+          "sellingCompletedDelta": -0.0427312047732598,
+          "buyingCompletedDelta": 0.03130259552833
+        },
+        {
+          "timestamp": "Fri May 06 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "977.3333333333333333",
+          "sellingPriceDelta": -0.00732151170172246,
+          "sellingCompletedDelta": -0.244002976270711,
+          "buyingCompletedDelta": -0.104401222634985
+        },
+        {
+          "timestamp": "Sat May 07 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "907.2291666666666667",
+          "sellingPriceDelta": -0.0717300477489768,
+          "sellingCompletedDelta": 0.403586520460016,
+          "buyingCompletedDelta": 0.766858381874644
+        },
+        {
+          "timestamp": "Sun May 08 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "937.7500000000000000",
+          "sellingPriceDelta": 0.033641812294762,
+          "sellingCompletedDelta": 0.139672625115679,
+          "buyingCompletedDelta": -0.184357001566234
+        },
+        {
+          "timestamp": "Mon May 09 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "908.1458333333333333",
+          "sellingPriceDelta": -0.0315693592819693,
+          "sellingCompletedDelta": -0.216165153730917,
+          "buyingCompletedDelta": 0.116123383592065
+        },
+        {
+          "timestamp": "Tue May 10 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "925.7916666666666667",
+          "sellingPriceDelta": 0.0194306164116446,
+          "sellingCompletedDelta": 0.344569757074254,
+          "buyingCompletedDelta": -0.069112348883853
+        },
+        {
+          "timestamp": "Wed May 11 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "951.3541666666666667",
+          "sellingPriceDelta": 0.0276115036680319,
+          "sellingCompletedDelta": 0.0187265937408451,
+          "buyingCompletedDelta": -0.0124108680898864
+        },
+        {
+          "timestamp": "Thu May 12 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "979.2083333333333333",
+          "sellingPriceDelta": 0.029278440819008,
+          "sellingCompletedDelta": -0.15996951933254,
+          "buyingCompletedDelta": -0.150829753145126
+        },
+        {
+          "timestamp": "Fri May 13 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "929.2708333333333333",
+          "sellingPriceDelta": -0.0509978298795796,
+          "sellingCompletedDelta": -0.0827261598810103,
+          "buyingCompletedDelta": 0.425311341964229
+        },
+        {
+          "timestamp": "Sat May 14 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "890.3617021276595745",
+          "sellingPriceDelta": -0.0418706041446551,
+          "sellingCompletedDelta": 0.0201850424678796,
+          "buyingCompletedDelta": 0.0740602834088182
+        },
+        {
+          "timestamp": "Sun May 15 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "834.3333333333333333",
+          "sellingPriceDelta": -0.0629276491345457,
+          "sellingCompletedDelta": 0.247767566771594,
+          "buyingCompletedDelta": 0.332334417324486
+        },
+        {
+          "timestamp": "Mon May 16 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "802.4166666666666667",
+          "sellingPriceDelta": -0.0382540950858969,
+          "sellingCompletedDelta": 0.0989414122512097,
+          "buyingCompletedDelta": 0.0210120961849868
+        },
+        {
+          "timestamp": "Tue May 17 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "823.1041666666666667",
+          "sellingPriceDelta": 0.025781493405338,
+          "sellingCompletedDelta": -0.125175290577842,
+          "buyingCompletedDelta": -0.339314462151646
+        },
+        {
+          "timestamp": "Wed May 18 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "846.7291666666666667",
+          "sellingPriceDelta": 0.0287023209901541,
+          "sellingCompletedDelta": -0.094635694110873,
+          "buyingCompletedDelta": -0.108771806672176
+        },
+        {
+          "timestamp": "Thu May 19 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "884.7500000000000000",
+          "sellingPriceDelta": 0.0449031813596437,
+          "sellingCompletedDelta": 0.22800422204144,
+          "buyingCompletedDelta": 0.0261524930255908
+        },
+        {
+          "timestamp": "Fri May 20 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "899.4166666666666667",
+          "sellingPriceDelta": 0.0165771875294339,
+          "sellingCompletedDelta": -0.178280349418057,
+          "buyingCompletedDelta": -0.144614076111733
+        },
+        {
+          "timestamp": "Sat May 21 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "882.9375000000000000",
+          "sellingPriceDelta": -0.01832206059483,
+          "sellingCompletedDelta": -0.035861650924183,
+          "buyingCompletedDelta": 0.22591549729825
+        },
+        {
+          "timestamp": "Sun May 22 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "878.8750000000000000",
+          "sellingPriceDelta": -0.00460111842570963,
+          "sellingCompletedDelta": 0.118893626754644,
+          "buyingCompletedDelta": -0.0357837992505054
+        },
+        {
+          "timestamp": "Mon May 23 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "846.9791666666666667",
+          "sellingPriceDelta": -0.03629166074053,
+          "sellingCompletedDelta": -0.228388910796412,
+          "buyingCompletedDelta": 0.00870706422408786
+        },
+        {
+          "timestamp": "Tue May 24 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "870.2916666666666667",
+          "sellingPriceDelta": 0.0275242897552577,
+          "sellingCompletedDelta": 0.156052631388454,
+          "buyingCompletedDelta": -0.233463591108415
+        },
+        {
+          "timestamp": "Wed May 25 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "876.1875000000000000",
+          "sellingPriceDelta": 0.00677454876238809,
+          "sellingCompletedDelta": 0.0301596018126067,
+          "buyingCompletedDelta": 0.0502749776988152
+        },
+        {
+          "timestamp": "Thu May 26 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "894.6250000000000000",
+          "sellingPriceDelta": 0.0210428703901848,
+          "sellingCompletedDelta": 0.0613127984814032,
+          "buyingCompletedDelta": -0.0115367600853407
+        },
+        {
+          "timestamp": "Fri May 27 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "896.1250000000000000",
+          "sellingPriceDelta": 0.00167668017325695,
+          "sellingCompletedDelta": -0.18457740933236,
+          "buyingCompletedDelta": -0.0316889585382175
+        },
+        {
+          "timestamp": "Sat May 28 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "891.5000000000000000",
+          "sellingPriceDelta": -0.00516111033616962,
+          "sellingCompletedDelta": 0.0606171279592692,
+          "buyingCompletedDelta": 0.00285401838982261
+        },
+        {
+          "timestamp": "Sun May 29 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "905.2708333333333333",
+          "sellingPriceDelta": 0.0154468124883156,
+          "sellingCompletedDelta": 0.126362248732696,
+          "buyingCompletedDelta": 0.0893112646039084
+        },
+        {
+          "timestamp": "Mon May 30 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "919.8750000000000000",
+          "sellingPriceDelta": 0.0161323729086599,
+          "sellingCompletedDelta": 0.0386809679972062,
+          "buyingCompletedDelta": 0.0668628724123825
+        },
+        {
+          "timestamp": "Tue May 31 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "922.0833333333333333",
+          "sellingPriceDelta": 0.00240068849934321,
+          "sellingCompletedDelta": -0.138059678260176,
+          "buyingCompletedDelta": -0.181419880631227
+        },
+        {
+          "timestamp": "Wed Jun 01 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "961.1875000000000000",
+          "sellingPriceDelta": 0.0424084952553095,
+          "sellingCompletedDelta": -0.0439907906246142,
+          "buyingCompletedDelta": -0.26217485044801
+        },
+        {
+          "timestamp": "Thu Jun 02 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "980.5416666666666667",
+          "sellingPriceDelta": 0.0201356828575763,
+          "sellingCompletedDelta": -0.0252004558296532,
+          "buyingCompletedDelta": 0.16516974005543
+        },
+        {
+          "timestamp": "Fri Jun 03 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1013.5111111111111111",
+          "sellingPriceDelta": 0.0336237057182113,
+          "sellingCompletedDelta": -0.12540024804104,
+          "buyingCompletedDelta": -0.248236944124691
+        },
+        {
+          "timestamp": "Sat Jun 04 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1009.5000000000000000",
+          "sellingPriceDelta": -0.00395763901069988,
+          "sellingCompletedDelta": 0.322985234804159,
+          "buyingCompletedDelta": 0.313566962803554
+        },
+        {
+          "timestamp": "Sun Jun 05 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1001.9583333333333333",
+          "sellingPriceDelta": -0.00747069506356282,
+          "sellingCompletedDelta": -0.0393096631687798,
+          "buyingCompletedDelta": 0.25832202048919
+        },
+        {
+          "timestamp": "Mon Jun 06 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1018.1875000000000000",
+          "sellingPriceDelta": 0.0161974466669439,
+          "sellingCompletedDelta": -0.054033271822153,
+          "buyingCompletedDelta": -0.159084705007725
+        },
+        {
+          "timestamp": "Tue Jun 07 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1046.6458333333333333",
+          "sellingPriceDelta": 0.0279499928385816,
+          "sellingCompletedDelta": -0.0798483368112935,
+          "buyingCompletedDelta": 0.0044750648236882
+        },
+        {
+          "timestamp": "Wed Jun 08 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1051.4680851063829787",
+          "sellingPriceDelta": 0.0046073386235073,
+          "sellingCompletedDelta": -0.072964824120603,
+          "buyingCompletedDelta": -0.0776326797235815
+        },
+        {
+          "timestamp": "Thu Jun 09 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1101.1250000000000000",
+          "sellingPriceDelta": 0.0472262692486695,
+          "sellingCompletedDelta": 0.283912006485916,
+          "buyingCompletedDelta": -0.0157128950355253
+        },
+        {
+          "timestamp": "Fri Jun 10 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1142.2708333333333333",
+          "sellingPriceDelta": 0.0373670866916411,
+          "sellingCompletedDelta": -0.228564155938878,
+          "buyingCompletedDelta": -0.225822454374011
+        },
+        {
+          "timestamp": "Sat Jun 11 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1128.5208333333333333",
+          "sellingPriceDelta": -0.0120374254500356,
+          "sellingCompletedDelta": 0.111917148583834,
+          "buyingCompletedDelta": 0.230927515673278
+        },
+        {
+          "timestamp": "Sun Jun 12 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1155.6875000000000000",
+          "sellingPriceDelta": 0.0240728091712972,
+          "sellingCompletedDelta": 0.223993197628301,
+          "buyingCompletedDelta": 0.198225937631634
+        },
+        {
+          "timestamp": "Mon Jun 13 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1190.2083333333333333",
+          "sellingPriceDelta": 0.02987038739567,
+          "sellingCompletedDelta": -0.0227423723914138,
+          "buyingCompletedDelta": 0.033548663111063
+        },
+        {
+          "timestamp": "Tue Jun 14 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1263.0416666666666667",
+          "sellingPriceDelta": 0.0611937685979345,
+          "sellingCompletedDelta": -0.0192629151462058,
+          "buyingCompletedDelta": -0.0951061524458007
+        },
+        {
+          "timestamp": "Wed Jun 15 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1283.7708333333333333",
+          "sellingPriceDelta": 0.0164121004189622,
+          "sellingCompletedDelta": 0.0444572003979209,
+          "buyingCompletedDelta": 0.0435165479429062
+        },
+        {
+          "timestamp": "Thu Jun 16 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1308.7391304347826087",
+          "sellingPriceDelta": 0.019449185519053,
+          "sellingCompletedDelta": -0.0708621030937438,
+          "buyingCompletedDelta": 0.00600344121781504
+        },
+        {
+          "timestamp": "Fri Jun 17 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1341.5208333333333333",
+          "sellingPriceDelta": 0.0250483095799697,
+          "sellingCompletedDelta": 0.0421863437478657,
+          "buyingCompletedDelta": -0.119902333787848
+        },
+        {
+          "timestamp": "Sat Jun 18 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1357.2916666666666667",
+          "sellingPriceDelta": 0.0117559362042458,
+          "sellingCompletedDelta": 0.0781977670492464,
+          "buyingCompletedDelta": 0.192999705106645
+        },
+        {
+          "timestamp": "Sun Jun 19 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1347.2708333333333333",
+          "sellingPriceDelta": -0.00738296239447429,
+          "sellingCompletedDelta": 0.087010562449605,
+          "buyingCompletedDelta": 0.00634320095185548
+        },
+        {
+          "timestamp": "Mon Jun 20 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1337.5416666666666667",
+          "sellingPriceDelta": -0.00722138891895653,
+          "sellingCompletedDelta": 0.0904588295826402,
+          "buyingCompletedDelta": 0.180118594281068
+        },
+        {
+          "timestamp": "Tue Jun 21 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1372.7708333333333333",
+          "sellingPriceDelta": 0.0263387433413289,
+          "sellingCompletedDelta": -0.0447558487489598,
+          "buyingCompletedDelta": -0.0787044290204071
+        },
+        {
+          "timestamp": "Wed Jun 22 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1364.8333333333333333",
+          "sellingPriceDelta": -0.00578210128541727,
+          "sellingCompletedDelta": -0.163554326783622,
+          "buyingCompletedDelta": -0.109080938512136
+        },
+        {
+          "timestamp": "Thu Jun 23 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1345.8297872340425532",
+          "sellingPriceDelta": -0.013923711881273,
+          "sellingCompletedDelta": 0.0399231305461876,
+          "buyingCompletedDelta": -0.0363868591457257
+        },
+        {
+          "timestamp": "Fri Jun 24 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1300.6458333333333333",
+          "sellingPriceDelta": -0.0335733049820301,
+          "sellingCompletedDelta": -0.00244696173635771,
+          "buyingCompletedDelta": 0.057067131556204
+        },
+        {
+          "timestamp": "Sat Jun 25 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1263.1250000000000000",
+          "sellingPriceDelta": -0.0288478480242187,
+          "sellingCompletedDelta": 0.00751042878628792,
+          "buyingCompletedDelta": 0.130766800681505
+        },
+        {
+          "timestamp": "Sun Jun 26 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1301.9166666666666667",
+          "sellingPriceDelta": 0.0307108692066634,
+          "sellingCompletedDelta": -0.0381740924738464,
+          "buyingCompletedDelta": -0.0344298801730902
+        },
+        {
+          "timestamp": "Mon Jun 27 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1338.7083333333333333",
+          "sellingPriceDelta": 0.0282596172310056,
+          "sellingCompletedDelta": -0.175870335131957,
+          "buyingCompletedDelta": -0.124114483666635
+        },
+        {
+          "timestamp": "Tue Jun 28 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1359.9791666666666667",
+          "sellingPriceDelta": 0.0158890721777833,
+          "sellingCompletedDelta": 0.185894297127564,
+          "buyingCompletedDelta": -0.0949826162133104
+        },
+        {
+          "timestamp": "Wed Jun 29 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1366.6041666666666667",
+          "sellingPriceDelta": 0.00487139815254523,
+          "sellingCompletedDelta": -0.0169070617979986,
+          "buyingCompletedDelta": 0.0613721362352733
+        },
+        {
+          "timestamp": "Thu Jun 30 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1366.5833333333333333",
+          "sellingPriceDelta": -0.0000152445996005915,
+          "sellingCompletedDelta": -0.0685639360730705,
+          "buyingCompletedDelta": -0.0510458484979063
+        },
+        {
+          "timestamp": "Fri Jul 01 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1375.5208333333333333",
+          "sellingPriceDelta": 0.00654003292883712,
+          "sellingCompletedDelta": -0.0515320817345858,
+          "buyingCompletedDelta": -0.0688323265563022
+        },
+        {
+          "timestamp": "Sat Jul 02 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1373.4583333333333333",
+          "sellingPriceDelta": -0.00149943203332071,
+          "sellingCompletedDelta": -0.049334944251513,
+          "buyingCompletedDelta": 0.107796071627206
+        },
+        {
+          "timestamp": "Sun Jul 03 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1387.7291666666666667",
+          "sellingPriceDelta": 0.0103904377635531,
+          "sellingCompletedDelta": 0.268025231949728,
+          "buyingCompletedDelta": 0.066827773660688
+        },
+        {
+          "timestamp": "Mon Jul 04 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1417.8958333333333333",
+          "sellingPriceDelta": 0.0217381513563826,
+          "sellingCompletedDelta": -0.0978520436666026,
+          "buyingCompletedDelta": -0.0649664719684039
+        },
+        {
+          "timestamp": "Tue Jul 05 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1455.0416666666666667",
+          "sellingPriceDelta": 0.0261978577410776,
+          "sellingCompletedDelta": 0.0249311117357178,
+          "buyingCompletedDelta": -0.0706928771306237
+        },
+        {
+          "timestamp": "Wed Jul 06 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1463.3541666666666667",
+          "sellingPriceDelta": 0.00571289481973597,
+          "sellingCompletedDelta": -0.0825258434923428,
+          "buyingCompletedDelta": -0.00796129033929906
+        },
+        {
+          "timestamp": "Thu Jul 07 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1439.0416666666666667",
+          "sellingPriceDelta": -0.016614228157344,
+          "sellingCompletedDelta": 0.227968706248292,
+          "buyingCompletedDelta": 0.112681666944208
+        },
+        {
+          "timestamp": "Fri Jul 08 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1424.6250000000000000",
+          "sellingPriceDelta": -0.010018241306425,
+          "sellingCompletedDelta": -0.0560849340148158,
+          "buyingCompletedDelta": 0.0804845482743543
+        },
+        {
+          "timestamp": "Sat Jul 09 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1415.6666666666666667",
+          "sellingPriceDelta": -0.00628820449825978,
+          "sellingCompletedDelta": -0.0373937208725628,
+          "buyingCompletedDelta": 0.0233059513120393
+        },
+        {
+          "timestamp": "Sun Jul 10 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1427.5416666666666667",
+          "sellingPriceDelta": 0.00838827407581822,
+          "sellingCompletedDelta": -0.0635033900887978,
+          "buyingCompletedDelta": -0.126104161856154
+        },
+        {
+          "timestamp": "Mon Jul 11 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1433.9583333333333333",
+          "sellingPriceDelta": 0.00449490674527889,
+          "sellingCompletedDelta": 0.173550591748072,
+          "buyingCompletedDelta": 0.106560175129136
+        },
+        {
+          "timestamp": "Tue Jul 12 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1452.2708333333333333",
+          "sellingPriceDelta": 0.0127705942176377,
+          "sellingCompletedDelta": -0.0709250257786132,
+          "buyingCompletedDelta": -0.0587146173400353
+        },
+        {
+          "timestamp": "Wed Jul 13 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1449.4166666666666667",
+          "sellingPriceDelta": -0.00196531294380926,
+          "sellingCompletedDelta": -0.0427906679245886,
+          "buyingCompletedDelta": -0.145047489586231
+        },
+        {
+          "timestamp": "Thu Jul 14 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1438.6521739130434783",
+          "sellingPriceDelta": -0.00742677588935079,
+          "sellingCompletedDelta": -0.080891101421998,
+          "buyingCompletedDelta": -0.000101632254940078
+        },
+        {
+          "timestamp": "Fri Jul 15 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1423.6458333333333333",
+          "sellingPriceDelta": -0.0104308330059335,
+          "sellingCompletedDelta": 0.0320254297017786,
+          "buyingCompletedDelta": 0.0887196513318248
+        },
+        {
+          "timestamp": "Sat Jul 16 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1363.6041666666666667",
+          "sellingPriceDelta": -0.0421745811077779,
+          "sellingCompletedDelta": 0.0884871706061193,
+          "buyingCompletedDelta": 0.179948081958575
+        },
+        {
+          "timestamp": "Sun Jul 17 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1291.5625000000000000",
+          "sellingPriceDelta": -0.0528318029731258,
+          "sellingCompletedDelta": 0.152384525081514,
+          "buyingCompletedDelta": 0.187377135362182
+        },
+        {
+          "timestamp": "Mon Jul 18 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1256.9166666666666667",
+          "sellingPriceDelta": -0.0268247439309622,
+          "sellingCompletedDelta": 0.00911790721824788,
+          "buyingCompletedDelta": -0.0403755221859427
+        },
+        {
+          "timestamp": "Tue Jul 19 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1242.0212765957446809",
+          "sellingPriceDelta": -0.0118507379732854,
+          "sellingCompletedDelta": -0.135655477302206,
+          "buyingCompletedDelta": -0.123442970110246
+        },
+        {
+          "timestamp": "Wed Jul 20 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1260.5000000000000000",
+          "sellingPriceDelta": 0.0148779443254818,
+          "sellingCompletedDelta": -0.074967433070115,
+          "buyingCompletedDelta": -0.0443777733117689
+        },
+        {
+          "timestamp": "Thu Jul 21 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1286.9787234042553191",
+          "sellingPriceDelta": 0.0210065239224556,
+          "sellingCompletedDelta": 0.0806485813411052,
+          "buyingCompletedDelta": -0.0389350202096912
+        },
+        {
+          "timestamp": "Fri Jul 22 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1271.1666666666666667",
+          "sellingPriceDelta": -0.0122861834854296,
+          "sellingCompletedDelta": 0.0020916047743697,
+          "buyingCompletedDelta": 0.0827180140590927
+        },
+        {
+          "timestamp": "Sat Jul 23 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1248.1250000000000000",
+          "sellingPriceDelta": -0.0181263930772256,
+          "sellingCompletedDelta": -0.0867147558936085,
+          "buyingCompletedDelta": -0.103454931583607
+        },
+        {
+          "timestamp": "Sun Jul 24 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1213.1250000000000000",
+          "sellingPriceDelta": -0.028042063094642,
+          "sellingCompletedDelta": 0.213395016392844,
+          "buyingCompletedDelta": 0.2365753250649
+        },
+        {
+          "timestamp": "Mon Jul 25 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1205.2500000000000000",
+          "sellingPriceDelta": -0.00649149922720247,
+          "sellingCompletedDelta": -0.0219799695805728,
+          "buyingCompletedDelta": 0.0112442024718437
+        },
+        {
+          "timestamp": "Tue Jul 26 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1205.5416666666666667",
+          "sellingPriceDelta": 0.000241996819470373,
+          "sellingCompletedDelta": -0.0833665560706453,
+          "buyingCompletedDelta": -0.127677138992802
+        },
+        {
+          "timestamp": "Wed Jul 27 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1208.4583333333333333",
+          "sellingPriceDelta": 0.00241938271178239,
+          "sellingCompletedDelta": -0.0405456893845538,
+          "buyingCompletedDelta": -0.0377385516789304
+        },
+        {
+          "timestamp": "Thu Jul 28 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1223.0208333333333333",
+          "sellingPriceDelta": 0.0120504775368065,
+          "sellingCompletedDelta": -0.107093886664652,
+          "buyingCompletedDelta": -0.127813858778251
+        },
+        {
+          "timestamp": "Fri Jul 29 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1227.2291666666666667",
+          "sellingPriceDelta": 0.00344093348096414,
+          "sellingCompletedDelta": 0.0870791702563299,
+          "buyingCompletedDelta": 0.149431966230653
+        },
+        {
+          "timestamp": "Sat Jul 30 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1237.2916666666666667",
+          "sellingPriceDelta": 0.00819936510092179,
+          "sellingCompletedDelta": -0.105227337931425,
+          "buyingCompletedDelta": -0.103707192227217
+        },
+        {
+          "timestamp": "Sun Jul 31 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1232.4375000000000000",
+          "sellingPriceDelta": -0.00392321939720492,
+          "sellingCompletedDelta": 0.110557622848992,
+          "buyingCompletedDelta": 0.22033255286202
+        },
+        {
+          "timestamp": "Mon Aug 01 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1222.3191489361702128",
+          "sellingPriceDelta": -0.00821003179782325,
+          "sellingCompletedDelta": -0.0447247758388202,
+          "buyingCompletedDelta": -0.0507672602467171
+        },
+        {
+          "timestamp": "Tue Aug 02 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1257.3541666666666667",
+          "sellingPriceDelta": 0.0286627414460362,
+          "sellingCompletedDelta": 0.212071804671776,
+          "buyingCompletedDelta": 0.0556101405892127
+        },
+        {
+          "timestamp": "Wed Aug 03 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1259.1250000000000000",
+          "sellingPriceDelta": 0.00140838069358607,
+          "sellingCompletedDelta": -0.0384050702833137,
+          "buyingCompletedDelta": -0.039176123465651
+        },
+        {
+          "timestamp": "Thu Aug 04 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1263.3541666666666667",
+          "sellingPriceDelta": 0.00335881399119759,
+          "sellingCompletedDelta": -0.0503614690399471,
+          "buyingCompletedDelta": -0.0936075172755258
+        },
+        {
+          "timestamp": "Fri Aug 05 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1236.5000000000000000",
+          "sellingPriceDelta": -0.0212562457743111,
+          "sellingCompletedDelta": -0.0212005329062247,
+          "buyingCompletedDelta": -0.0645926281301471
+        },
+        {
+          "timestamp": "Sat Aug 06 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1180.6666666666666667",
+          "sellingPriceDelta": -0.0451543334681224,
+          "sellingCompletedDelta": 0.0881945804072232,
+          "buyingCompletedDelta": 0.159480766789387
+        },
+        {
+          "timestamp": "Sun Aug 07 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1125.1875000000000000",
+          "sellingPriceDelta": -0.0469896950875212,
+          "sellingCompletedDelta": 0.0894540132760353,
+          "buyingCompletedDelta": 0.225624997947057
+        },
+        {
+          "timestamp": "Mon Aug 08 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1099.2708333333333333",
+          "sellingPriceDelta": -0.0230331981706753,
+          "sellingCompletedDelta": 0.0801156758017345,
+          "buyingCompletedDelta": -0.100099920358516
+        },
+        {
+          "timestamp": "Tue Aug 09 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1038.5000000000000000",
+          "sellingPriceDelta": -0.0552828579550839,
+          "sellingCompletedDelta": -0.0125150209560655,
+          "buyingCompletedDelta": 0.164942737832937
+        },
+        {
+          "timestamp": "Wed Aug 10 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1078.9791666666666667",
+          "sellingPriceDelta": 0.0389784946236559,
+          "sellingCompletedDelta": -0.092645632989038,
+          "buyingCompletedDelta": -0.213649153723837
+        },
+        {
+          "timestamp": "Thu Aug 11 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1050.4375000000000000",
+          "sellingPriceDelta": -0.0264524724372961,
+          "sellingCompletedDelta": -0.0509553028919413,
+          "buyingCompletedDelta": 0.0434925843485649
+        },
+        {
+          "timestamp": "Fri Aug 12 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1057.1666666666666667",
+          "sellingPriceDelta": 0.00640606096666072,
+          "sellingCompletedDelta": -0.115794667994814,
+          "buyingCompletedDelta": -0.0857850977036323
+        },
+        {
+          "timestamp": "Sat Aug 13 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1045.7708333333333333",
+          "sellingPriceDelta": -0.0107795995585685,
+          "sellingCompletedDelta": 0.00206665934684209,
+          "buyingCompletedDelta": 0.114486001214347
+        },
+        {
+          "timestamp": "Sun Aug 14 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1016.2083333333333333",
+          "sellingPriceDelta": -0.0282686216307747,
+          "sellingCompletedDelta": 0.223774945214539,
+          "buyingCompletedDelta": 0.204509467261718
+        },
+        {
+          "timestamp": "Mon Aug 15 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1005.2916666666666667",
+          "sellingPriceDelta": -0.0107425478699414,
+          "sellingCompletedDelta": -0.0718485467220054,
+          "buyingCompletedDelta": -0.0737555998219565
+        },
+        {
+          "timestamp": "Tue Aug 16 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "984.1250000000000000",
+          "sellingPriceDelta": -0.021055249305757,
+          "sellingCompletedDelta": -0.0136274123670737,
+          "buyingCompletedDelta": 0.0358413246425894
+        },
+        {
+          "timestamp": "Wed Aug 17 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1000.4583333333333333",
+          "sellingPriceDelta": 0.0165968076548541,
+          "sellingCompletedDelta": -0.113070561029979,
+          "buyingCompletedDelta": -0.208223544514469
+        },
+        {
+          "timestamp": "Thu Aug 18 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1026.9166666666666667",
+          "sellingPriceDelta": 0.0264462121527633,
+          "sellingCompletedDelta": -0.00767887692265533,
+          "buyingCompletedDelta": -0.105373554463778
+        },
+        {
+          "timestamp": "Fri Aug 19 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1030.2708333333333333",
+          "sellingPriceDelta": 0.00326625010143634,
+          "sellingCompletedDelta": -0.0550379813752197,
+          "buyingCompletedDelta": 0.00454101450024249
+        },
+        {
+          "timestamp": "Sat Aug 20 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1011.0208333333333333",
+          "sellingPriceDelta": -0.0186844074171436,
+          "sellingCompletedDelta": 0.161689179645289,
+          "buyingCompletedDelta": 0.235595828558644
+        },
+        {
+          "timestamp": "Sun Aug 21 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "994.5208333333333333",
+          "sellingPriceDelta": -0.0163201384739022,
+          "sellingCompletedDelta": 0.0861982838448297,
+          "buyingCompletedDelta": 0.114430700506148
+        },
+        {
+          "timestamp": "Mon Aug 22 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "990.5416666666666667",
+          "sellingPriceDelta": -0.00400108930179944,
+          "sellingCompletedDelta": -0.0627282241992922,
+          "buyingCompletedDelta": 0.060881905243705
+        },
+        {
+          "timestamp": "Tue Aug 23 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1000.7916666666666667",
+          "sellingPriceDelta": 0.0103478736381609,
+          "sellingCompletedDelta": 0.0414713629381133,
+          "buyingCompletedDelta": -0.148091612769108
+        },
+        {
+          "timestamp": "Wed Aug 24 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1021.0416666666666667",
+          "sellingPriceDelta": 0.0202339814313668,
+          "sellingCompletedDelta": -0.125377360195956,
+          "buyingCompletedDelta": -0.162804919650065
+        },
+        {
+          "timestamp": "Thu Aug 25 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1008.8125000000000000",
+          "sellingPriceDelta": -0.0119771475209141,
+          "sellingCompletedDelta": 0.192305506216696,
+          "buyingCompletedDelta": 0.00517157690861763
+        },
+        {
+          "timestamp": "Fri Aug 26 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "975.3958333333333333",
+          "sellingPriceDelta": -0.0331247547652975,
+          "sellingCompletedDelta": -0.147405696789847,
+          "buyingCompletedDelta": 0.164178018068346
+        },
+        {
+          "timestamp": "Sat Aug 27 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "973.0000000000000000",
+          "sellingPriceDelta": -0.0024562677545441,
+          "sellingCompletedDelta": -0.0703116760002999,
+          "buyingCompletedDelta": -0.125245839973364
+        },
+        {
+          "timestamp": "Sun Aug 28 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "986.6041666666666667",
+          "sellingPriceDelta": 0.0139816718054128,
+          "sellingCompletedDelta": 0.193829892510743,
+          "buyingCompletedDelta": 0.141576212179235
+        },
+        {
+          "timestamp": "Mon Aug 29 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "998.0625000000000000",
+          "sellingPriceDelta": 0.0116139113541821,
+          "sellingCompletedDelta": -0.0368742024843846,
+          "buyingCompletedDelta": -0.120813773429888
+        },
+        {
+          "timestamp": "Tue Aug 30 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1017.4166666666666667",
+          "sellingPriceDelta": 0.0193917381593504,
+          "sellingCompletedDelta": -0.133906080415212,
+          "buyingCompletedDelta": -0.0657108680120106
+        },
+        {
+          "timestamp": "Wed Aug 31 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1024.8750000000000000",
+          "sellingPriceDelta": 0.00733065771152429,
+          "sellingCompletedDelta": -0.0587345552770785,
+          "buyingCompletedDelta": -0.017930778049763
+        },
+        {
+          "timestamp": "Thu Sep 01 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1040.2127659574468085",
+          "sellingPriceDelta": 0.0149654991657,
+          "sellingCompletedDelta": 0.0658788463837941,
+          "buyingCompletedDelta": -0.109783077851173
+        },
+        {
+          "timestamp": "Fri Sep 02 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1059.5833333333333333",
+          "sellingPriceDelta": 0.0186217358696393,
+          "sellingCompletedDelta": -0.141927924131817,
+          "buyingCompletedDelta": -0.0921069140260331
+        },
+        {
+          "timestamp": "Sat Sep 03 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1069.3750000000000000",
+          "sellingPriceDelta": 0.0092410538733779,
+          "sellingCompletedDelta": 0.181077454981151,
+          "buyingCompletedDelta": 0.194841201059961
+        },
+        {
+          "timestamp": "Sun Sep 04 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1097.4166666666666667",
+          "sellingPriceDelta": 0.0262224819793493,
+          "sellingCompletedDelta": 0.026725100333026,
+          "buyingCompletedDelta": 0.0211885477552594
+        },
+        {
+          "timestamp": "Mon Sep 05 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1117.6458333333333333",
+          "sellingPriceDelta": 0.0184334421748045,
+          "sellingCompletedDelta": 0.0662099541074219,
+          "buyingCompletedDelta": 0.0391360017814396
+        },
+        {
+          "timestamp": "Tue Sep 06 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1137.1666666666666667",
+          "sellingPriceDelta": 0.0174660279232762,
+          "sellingCompletedDelta": -0.171644335544557,
+          "buyingCompletedDelta": -0.0576282896802965
+        },
+        {
+          "timestamp": "Wed Sep 07 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1181.8125000000000000",
+          "sellingPriceDelta": 0.0392605891836436,
+          "sellingCompletedDelta": 0.136277801637674,
+          "buyingCompletedDelta": 0.106038002897363
+        },
+        {
+          "timestamp": "Thu Sep 08 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1185.2916666666666667",
+          "sellingPriceDelta": 0.002943924409893,
+          "sellingCompletedDelta": 0.0911272852567735,
+          "buyingCompletedDelta": -0.097090745601675
+        },
+        {
+          "timestamp": "Fri Sep 09 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1115.2083333333333333",
+          "sellingPriceDelta": -0.0591275002636482,
+          "sellingCompletedDelta": -0.0372007550015249,
+          "buyingCompletedDelta": 0.0561685120794821
+        },
+        {
+          "timestamp": "Sat Sep 10 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1077.5000000000000000",
+          "sellingPriceDelta": -0.0338128152437885,
+          "sellingCompletedDelta": 0.107673562894433,
+          "buyingCompletedDelta": 0.226828470463455
+        },
+        {
+          "timestamp": "Sun Sep 11 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1086.0000000000000000",
+          "sellingPriceDelta": 0.00788863109048724,
+          "sellingCompletedDelta": 0.0263064862424468,
+          "buyingCompletedDelta": -0.0139491220380272
+        },
+        {
+          "timestamp": "Mon Sep 12 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1067.0416666666666667",
+          "sellingPriceDelta": -0.0174570288520565,
+          "sellingCompletedDelta": -0.120007986234715,
+          "buyingCompletedDelta": -0.0238353617785107
+        },
+        {
+          "timestamp": "Tue Sep 13 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1063.3958333333333333",
+          "sellingPriceDelta": -0.00341676754266078,
+          "sellingCompletedDelta": -0.0459919493675304,
+          "buyingCompletedDelta": -0.226595834537798
+        },
+        {
+          "timestamp": "Wed Sep 14 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1050.3333333333333333",
+          "sellingPriceDelta": -0.0122837607507396,
+          "sellingCompletedDelta": -0.0818217396389162,
+          "buyingCompletedDelta": 0.0648594344818978
+        },
+        {
+          "timestamp": "Thu Sep 15 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1054.4166666666666667",
+          "sellingPriceDelta": 0.00388765471278959,
+          "sellingCompletedDelta": -0.0295689398758722,
+          "buyingCompletedDelta": -0.0949055391026772
+        },
+        {
+          "timestamp": "Fri Sep 16 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1058.7708333333333333",
+          "sellingPriceDelta": 0.00412945546510709,
+          "sellingCompletedDelta": 0.0242078587916455,
+          "buyingCompletedDelta": 0.0533959262960825
+        },
+        {
+          "timestamp": "Sat Sep 17 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1069.4166666666666667",
+          "sellingPriceDelta": 0.0100548985655536,
+          "sellingCompletedDelta": 0.0590534269387007,
+          "buyingCompletedDelta": 0.0956867372314567
+        },
+        {
+          "timestamp": "Sun Sep 18 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1088.0833333333333333",
+          "sellingPriceDelta": 0.0174549988311385,
+          "sellingCompletedDelta": -0.0260885260374874,
+          "buyingCompletedDelta": 0.0699786999077382
+        },
+        {
+          "timestamp": "Mon Sep 19 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1079.0625000000000000",
+          "sellingPriceDelta": -0.00829057210691583,
+          "sellingCompletedDelta": -0.0815476591246211,
+          "buyingCompletedDelta": -0.0819926629535003
+        },
+        {
+          "timestamp": "Tue Sep 20 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1091.8958333333333333",
+          "sellingPriceDelta": 0.0118930398687132,
+          "sellingCompletedDelta": 0.0517920639059247,
+          "buyingCompletedDelta": -0.0593908074805623
+        },
+        {
+          "timestamp": "Wed Sep 21 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1112.2500000000000000",
+          "sellingPriceDelta": 0.0186411249546851,
+          "sellingCompletedDelta": -0.0899695773449659,
+          "buyingCompletedDelta": 0.059727863498781
+        },
+        {
+          "timestamp": "Thu Sep 22 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1128.2083333333333333",
+          "sellingPriceDelta": 0.0143477935116506,
+          "sellingCompletedDelta": 0.194529388960082,
+          "buyingCompletedDelta": 0.0540284513679165
+        },
+        {
+          "timestamp": "Fri Sep 23 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1114.4375000000000000",
+          "sellingPriceDelta": -0.0122059312331499,
+          "sellingCompletedDelta": 0.110646730390307,
+          "buyingCompletedDelta": 0.0688615819509491
+        },
+        {
+          "timestamp": "Sat Sep 24 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1081.3958333333333333",
+          "sellingPriceDelta": -0.0296487390873572,
+          "sellingCompletedDelta": -0.0575962501554798,
+          "buyingCompletedDelta": 0.0185504490285559
+        },
+        {
+          "timestamp": "Sun Sep 25 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1092.1666666666666667",
+          "sellingPriceDelta": 0.00996012098560888,
+          "sellingCompletedDelta": 0.00832899169879476,
+          "buyingCompletedDelta": 0.0163162205332976
+        },
+        {
+          "timestamp": "Mon Sep 26 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1085.5416666666666667",
+          "sellingPriceDelta": -0.00606592400427285,
+          "sellingCompletedDelta": -0.028426862003615,
+          "buyingCompletedDelta": 0.0323654235488696
+        },
+        {
+          "timestamp": "Tue Sep 27 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1073.6875000000000000",
+          "sellingPriceDelta": -0.0109200475952865,
+          "sellingCompletedDelta": -0.0664279429254724,
+          "buyingCompletedDelta": -0.117981840829992
+        },
+        {
+          "timestamp": "Wed Sep 28 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1087.5000000000000000",
+          "sellingPriceDelta": 0.0128645439199022,
+          "sellingCompletedDelta": -0.00429206182612869,
+          "buyingCompletedDelta": 0.000375941172537644
+        },
+        {
+          "timestamp": "Thu Sep 29 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1087.8333333333333333",
+          "sellingPriceDelta": 0.000306513409961686,
+          "sellingCompletedDelta": 0.306412655968389,
+          "buyingCompletedDelta": 0.117611882546411
+        },
+        {
+          "timestamp": "Fri Sep 30 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1068.0416666666666667",
+          "sellingPriceDelta": -0.0181936571165926,
+          "sellingCompletedDelta": -0.1885287844671,
+          "buyingCompletedDelta": -0.0419418718410748
+        },
+        {
+          "timestamp": "Sat Oct 01 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1071.5833333333333333",
+          "sellingPriceDelta": 0.00331603791986892,
+          "sellingCompletedDelta": 0.218168818672243,
+          "buyingCompletedDelta": 0.14937490110061
+        },
+        {
+          "timestamp": "Sun Oct 02 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1081.2083333333333333",
+          "sellingPriceDelta": 0.00898203592814371,
+          "sellingCompletedDelta": -0.0121841857967512,
+          "buyingCompletedDelta": 0.0373325164994412
+        },
+        {
+          "timestamp": "Mon Oct 03 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1087.0833333333333333",
+          "sellingPriceDelta": 0.00543373540406181,
+          "sellingCompletedDelta": -0.0927678357868186,
+          "buyingCompletedDelta": -0.158631641645186
+        },
+        {
+          "timestamp": "Tue Oct 04 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1087.2708333333333333",
+          "sellingPriceDelta": 0.000172479877347643,
+          "sellingCompletedDelta": 0.0641832863165615,
+          "buyingCompletedDelta": 0.123869605655574
+        },
+        {
+          "timestamp": "Wed Oct 05 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1109.1875000000000000",
+          "sellingPriceDelta": 0.0201575044549618,
+          "sellingCompletedDelta": 0.0180622559154606,
+          "buyingCompletedDelta": -0.0763037834026049
+        },
+        {
+          "timestamp": "Thu Oct 06 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1112.3750000000000000",
+          "sellingPriceDelta": 0.00287372513664281,
+          "sellingCompletedDelta": -0.00278800488688974,
+          "buyingCompletedDelta": 0.0474343733454333
+        },
+        {
+          "timestamp": "Fri Oct 07 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1111.6458333333333333",
+          "sellingPriceDelta": -0.000655504363786193,
+          "sellingCompletedDelta": -0.032191350047863,
+          "buyingCompletedDelta": 0.0260698240594333
+        },
+        {
+          "timestamp": "Sat Oct 08 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1127.7708333333333333",
+          "sellingPriceDelta": 0.0145055192188759,
+          "sellingCompletedDelta": 0.00732026413465985,
+          "buyingCompletedDelta": -0.0905515181609375
+        },
+        {
+          "timestamp": "Sun Oct 09 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1147.5625000000000000",
+          "sellingPriceDelta": 0.0175493691463617,
+          "sellingCompletedDelta": 0.0914299920411561,
+          "buyingCompletedDelta": 0.132861930403068
+        },
+        {
+          "timestamp": "Mon Oct 10 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1156.3750000000000000",
+          "sellingPriceDelta": 0.00767932029845869,
+          "sellingCompletedDelta": -0.145894622279396,
+          "buyingCompletedDelta": -0.0828051941638544
+        },
+        {
+          "timestamp": "Tue Oct 11 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1187.9791666666666667",
+          "sellingPriceDelta": 0.0273303786977984,
+          "sellingCompletedDelta": -0.0523017097438802,
+          "buyingCompletedDelta": -0.15701651434852
+        },
+        {
+          "timestamp": "Wed Oct 12 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1185.7291666666666667",
+          "sellingPriceDelta": -0.00189397260754432,
+          "sellingCompletedDelta": 0.0658378549635329,
+          "buyingCompletedDelta": 0.0572314332546624
+        },
+        {
+          "timestamp": "Thu Oct 13 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1212.0000000000000000",
+          "sellingPriceDelta": 0.0221558464376702,
+          "sellingCompletedDelta": -0.110070048201186,
+          "buyingCompletedDelta": -0.0521251635936522
+        },
+        {
+          "timestamp": "Fri Oct 14 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1213.2083333333333333",
+          "sellingPriceDelta": 0.000996974697469747,
+          "sellingCompletedDelta": 0.108398440151966,
+          "buyingCompletedDelta": 0.061303820787151
+        },
+        {
+          "timestamp": "Sat Oct 15 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1210.9791666666666667",
+          "sellingPriceDelta": -0.0018374145688086,
+          "sellingCompletedDelta": -0.0265626464277599,
+          "buyingCompletedDelta": -0.0423988806963427
+        },
+        {
+          "timestamp": "Sun Oct 16 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1219.7916666666666667",
+          "sellingPriceDelta": 0.00727716895762726,
+          "sellingCompletedDelta": 0.191017980650163,
+          "buyingCompletedDelta": 0.230957599804627
+        },
+        {
+          "timestamp": "Mon Oct 17 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1251.2500000000000000",
+          "sellingPriceDelta": 0.0257899231426131,
+          "sellingCompletedDelta": -0.134711719203188,
+          "buyingCompletedDelta": -0.0911120287923299
+        },
+        {
+          "timestamp": "Tue Oct 18 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1263.7916666666666667",
+          "sellingPriceDelta": 0.01002331002331,
+          "sellingCompletedDelta": 0.00839940556362167,
+          "buyingCompletedDelta": -0.0452957691215237
+        },
+        {
+          "timestamp": "Wed Oct 19 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1297.1458333333333333",
+          "sellingPriceDelta": 0.0263921400547295,
+          "sellingCompletedDelta": -0.0201500232197533,
+          "buyingCompletedDelta": -0.0297164522717804
+        },
+        {
+          "timestamp": "Thu Oct 20 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1321.0227272727272727",
+          "sellingPriceDelta": 0.018407254855868,
+          "sellingCompletedDelta": -0.155367474268243,
+          "buyingCompletedDelta": -0.253443292155019
+        },
+        {
+          "timestamp": "Fri Oct 21 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1323.5000000000000000",
+          "sellingPriceDelta": 0.0018752688172043,
+          "sellingCompletedDelta": 0.150595327366038,
+          "buyingCompletedDelta": 0.386967602154141
+        },
+        {
+          "timestamp": "Sat Oct 22 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1327.3958333333333333",
+          "sellingPriceDelta": 0.00294358393149477,
+          "sellingCompletedDelta": 0.0500088062703188,
+          "buyingCompletedDelta": -0.0408325990991396
+        },
+        {
+          "timestamp": "Sun Oct 23 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1324.2500000000000000",
+          "sellingPriceDelta": -0.00236992858824453,
+          "sellingCompletedDelta": -0.0590325506814243,
+          "buyingCompletedDelta": 0.00808276678197854
+        },
+        {
+          "timestamp": "Mon Oct 24 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1324.3125000000000000",
+          "sellingPriceDelta": 0.0000471965263356617,
+          "sellingCompletedDelta": -0.077801259791442,
+          "buyingCompletedDelta": -0.104553680288151
+        },
+        {
+          "timestamp": "Tue Oct 25 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1329.5833333333333333",
+          "sellingPriceDelta": 0.00398005254298614,
+          "sellingCompletedDelta": 0.141351921686629,
+          "buyingCompletedDelta": 0.152195216925723
+        },
+        {
+          "timestamp": "Wed Oct 26 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1316.7083333333333333",
+          "sellingPriceDelta": -0.00968348480100282,
+          "sellingCompletedDelta": -0.0524514068786986,
+          "buyingCompletedDelta": -0.0815485310021629
+        },
+        {
+          "timestamp": "Thu Oct 27 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1323.2083333333333333",
+          "sellingPriceDelta": 0.00493655264073922,
+          "sellingCompletedDelta": 0.0886646711184727,
+          "buyingCompletedDelta": 0.131470849058802
+        },
+        {
+          "timestamp": "Fri Oct 28 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1318.6875000000000000",
+          "sellingPriceDelta": -0.00341656957521176,
+          "sellingCompletedDelta": -0.0897235291258741,
+          "buyingCompletedDelta": -0.124630072478693
+        },
+        {
+          "timestamp": "Sat Oct 29 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1307.1250000000000000",
+          "sellingPriceDelta": -0.00876818806578511,
+          "sellingCompletedDelta": 0.0141247664917539,
+          "buyingCompletedDelta": 0.00999988235432524
+        },
+        {
+          "timestamp": "Sun Oct 30 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1284.5000000000000000",
+          "sellingPriceDelta": -0.0173089796308693,
+          "sellingCompletedDelta": 0.197410475465263,
+          "buyingCompletedDelta": 0.181775769402189
+        },
+        {
+          "timestamp": "Mon Oct 31 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1260.6458333333333333",
+          "sellingPriceDelta": -0.0185707798105618,
+          "sellingCompletedDelta": -0.20058188478767,
+          "buyingCompletedDelta": 0.0135634826599491
+        },
+        {
+          "timestamp": "Tue Nov 01 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1247.6041666666666667",
+          "sellingPriceDelta": -0.010345226487746,
+          "sellingCompletedDelta": 0.00323497176861668,
+          "buyingCompletedDelta": -0.132603174700664
+        },
+        {
+          "timestamp": "Wed Nov 02 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1277.5416666666666667",
+          "sellingPriceDelta": 0.0239959923186107,
+          "sellingCompletedDelta": -0.0605321728642517,
+          "buyingCompletedDelta": 0.0213147865246507
+        },
+        {
+          "timestamp": "Thu Nov 03 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1321.9375000000000000",
+          "sellingPriceDelta": 0.0347509865953491,
+          "sellingCompletedDelta": 0.0744154833053179,
+          "buyingCompletedDelta": -0.0943766747435671
+        },
+        {
+          "timestamp": "Fri Nov 04 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1309.1666666666666667",
+          "sellingPriceDelta": -0.00966069374182466,
+          "sellingCompletedDelta": -0.118075569053052,
+          "buyingCompletedDelta": -0.0828288705200417
+        },
+        {
+          "timestamp": "Sat Nov 05 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1312.2083333333333333",
+          "sellingPriceDelta": 0.00232336091661362,
+          "sellingCompletedDelta": 0.226709205764108,
+          "buyingCompletedDelta": 0.287286964916942
+        },
+        {
+          "timestamp": "Sun Nov 06 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1306.3958333333333333",
+          "sellingPriceDelta": -0.00442955577429905,
+          "sellingCompletedDelta": 0.0105024061126281,
+          "buyingCompletedDelta": -0.00593883716368788
+        },
+        {
+          "timestamp": "Mon Nov 07 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1304.4166666666666667",
+          "sellingPriceDelta": -0.00151498237836286,
+          "sellingCompletedDelta": 0.0424503209342173,
+          "buyingCompletedDelta": -0.0870518582296756
+        },
+        {
+          "timestamp": "Tue Nov 08 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1302.3958333333333333",
+          "sellingPriceDelta": -0.00154922379096659,
+          "sellingCompletedDelta": -0.0151067270036814,
+          "buyingCompletedDelta": 0.0281193028165744
+        },
+        {
+          "timestamp": "Wed Nov 09 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1294.3125000000000000",
+          "sellingPriceDelta": -0.006206510437495,
+          "sellingCompletedDelta": -0.0857104414935742,
+          "buyingCompletedDelta": -0.101847594316841
+        },
+        {
+          "timestamp": "Thu Nov 10 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1289.0208333333333333",
+          "sellingPriceDelta": -0.00408839956862556,
+          "sellingCompletedDelta": 0.181437194544201,
+          "buyingCompletedDelta": 0.166239714955733
+        },
+        {
+          "timestamp": "Fri Nov 11 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1247.2500000000000000",
+          "sellingPriceDelta": -0.0324050878412232,
+          "sellingCompletedDelta": 0.0351578782897343,
+          "buyingCompletedDelta": 0.175865422412606
+        },
+        {
+          "timestamp": "Sat Nov 12 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1212.3750000000000000",
+          "sellingPriceDelta": -0.0279615153337342,
+          "sellingCompletedDelta": 0.178426764436877,
+          "buyingCompletedDelta": 0.138257956889953
+        },
+        {
+          "timestamp": "Sun Nov 13 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1220.7083333333333333",
+          "sellingPriceDelta": 0.00687356084819741,
+          "sellingCompletedDelta": -0.0195300831264614,
+          "buyingCompletedDelta": -0.0032583085215012
+        },
+        {
+          "timestamp": "Mon Nov 14 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1244.1250000000000000",
+          "sellingPriceDelta": 0.0191828514865003,
+          "sellingCompletedDelta": -0.0627903099456208,
+          "buyingCompletedDelta": -0.0840004144218815
+        },
+        {
+          "timestamp": "Tue Nov 15 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1284.5833333333333333",
+          "sellingPriceDelta": 0.0325195083559396,
+          "sellingCompletedDelta": -0.228279585981223,
+          "buyingCompletedDelta": -0.104608545328771
+        },
+        {
+          "timestamp": "Wed Nov 16 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1290.0000000000000000",
+          "sellingPriceDelta": 0.0042166720726565,
+          "sellingCompletedDelta": -0.0485585215190769,
+          "buyingCompletedDelta": -0.195999171336321
+        },
+        {
+          "timestamp": "Thu Nov 17 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1260.8333333333333333",
+          "sellingPriceDelta": -0.022609819121447,
+          "sellingCompletedDelta": 0.174444299150161,
+          "buyingCompletedDelta": 0.127075333555389
+        },
+        {
+          "timestamp": "Fri Nov 18 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1240.7708333333333333",
+          "sellingPriceDelta": -0.0159120951751487,
+          "sellingCompletedDelta": 0.167082927104969,
+          "buyingCompletedDelta": 0.107461786080113
+        },
+        {
+          "timestamp": "Sat Nov 19 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1220.4791666666666667",
+          "sellingPriceDelta": -0.0163540809644542,
+          "sellingCompletedDelta": 0.0146783286173169,
+          "buyingCompletedDelta": 0.221803201430735
+        },
+        {
+          "timestamp": "Sun Nov 20 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1194.5000000000000000",
+          "sellingPriceDelta": -0.021286038611884,
+          "sellingCompletedDelta": 0.117966800285788,
+          "buyingCompletedDelta": 0.0955313483098839
+        },
+        {
+          "timestamp": "Mon Nov 21 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1216.3125000000000000",
+          "sellingPriceDelta": 0.0182607785684387,
+          "sellingCompletedDelta": -0.148595689092097,
+          "buyingCompletedDelta": -0.209238212527713
+        },
+        {
+          "timestamp": "Tue Nov 22 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1221.3125000000000000",
+          "sellingPriceDelta": 0.00411078567391193,
+          "sellingCompletedDelta": -0.0673656395175383,
+          "buyingCompletedDelta": -0.102171194368585
+        },
+        {
+          "timestamp": "Wed Nov 23 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1215.3333333333333333",
+          "sellingPriceDelta": -0.00489568940518227,
+          "sellingCompletedDelta": 0.104997623661024,
+          "buyingCompletedDelta": 0.116156853104393
+        },
+        {
+          "timestamp": "Thu Nov 24 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1207.5319148936170213",
+          "sellingPriceDelta": -0.0064191594402493,
+          "sellingCompletedDelta": -0.0905021164793461,
+          "buyingCompletedDelta": -0.0175429435898264
+        },
+        {
+          "timestamp": "Fri Nov 25 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1204.6875000000000000",
+          "sellingPriceDelta": -0.00235556084152659,
+          "sellingCompletedDelta": 0.00298027433930833,
+          "buyingCompletedDelta": -0.0230806174028918
+        },
+        {
+          "timestamp": "Sat Nov 26 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1191.7083333333333333",
+          "sellingPriceDelta": -0.0107738867271941,
+          "sellingCompletedDelta": 0.0412883721575241,
+          "buyingCompletedDelta": 0.00936975130716562
+        },
+        {
+          "timestamp": "Sun Nov 27 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1173.1458333333333333",
+          "sellingPriceDelta": -0.015576378448306,
+          "sellingCompletedDelta": 0.0639859609726514,
+          "buyingCompletedDelta": 0.085901306154168
+        },
+        {
+          "timestamp": "Mon Nov 28 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1149.0208333333333333",
+          "sellingPriceDelta": -0.0205643657544707,
+          "sellingCompletedDelta": 0.0031552241248995,
+          "buyingCompletedDelta": -0.141195862630974
+        },
+        {
+          "timestamp": "Tue Nov 29 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1128.1875000000000000",
+          "sellingPriceDelta": -0.0181313799793302,
+          "sellingCompletedDelta": -0.153229955311209,
+          "buyingCompletedDelta": 0.138399410699668
+        },
+        {
+          "timestamp": "Wed Nov 30 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1109.3125000000000000",
+          "sellingPriceDelta": -0.0167303750484738,
+          "sellingCompletedDelta": 0.039541455364045,
+          "buyingCompletedDelta": -0.0535158301664385
+        },
+        {
+          "timestamp": "Thu Dec 01 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1093.1250000000000000",
+          "sellingPriceDelta": -0.0145923714012057,
+          "sellingCompletedDelta": 0.136324903051486,
+          "buyingCompletedDelta": 0.0842888448721287
+        },
+        {
+          "timestamp": "Fri Dec 02 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1087.5000000000000000",
+          "sellingPriceDelta": -0.00514579759862779,
+          "sellingCompletedDelta": 0.00194840306274952,
+          "buyingCompletedDelta": 0.0672862958425752
+        },
+        {
+          "timestamp": "Sat Dec 03 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1082.2500000000000000",
+          "sellingPriceDelta": -0.00482758620689655,
+          "sellingCompletedDelta": -0.0182312965562947,
+          "buyingCompletedDelta": 0.0136528449923205
+        },
+        {
+          "timestamp": "Sun Dec 04 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1114.8958333333333333",
+          "sellingPriceDelta": 0.0301647801647802,
+          "sellingCompletedDelta": 0.0573127590221528,
+          "buyingCompletedDelta": 0.117572453676953
+        },
+        {
+          "timestamp": "Mon Dec 05 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1107.3750000000000000",
+          "sellingPriceDelta": -0.00674577221339811,
+          "sellingCompletedDelta": -0.136148060329418,
+          "buyingCompletedDelta": -0.179195808422657
+        },
+        {
+          "timestamp": "Tue Dec 06 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1110.1458333333333333",
+          "sellingPriceDelta": 0.00250216352485232,
+          "sellingCompletedDelta": -0.0725808863265956,
+          "buyingCompletedDelta": -0.160709608362238
+        },
+        {
+          "timestamp": "Wed Dec 07 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1114.5625000000000000",
+          "sellingPriceDelta": 0.00397845628389664,
+          "sellingCompletedDelta": 0.196279058519235,
+          "buyingCompletedDelta": 0.205365738558471
+        },
+        {
+          "timestamp": "Thu Dec 08 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1108.0000000000000000",
+          "sellingPriceDelta": -0.00588796052262659,
+          "sellingCompletedDelta": -0.0605022836544825,
+          "buyingCompletedDelta": -0.0214971013181365
+        },
+        {
+          "timestamp": "Fri Dec 09 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1099.9166666666666667",
+          "sellingPriceDelta": -0.00729542719614922,
+          "sellingCompletedDelta": -0.0253098019767487,
+          "buyingCompletedDelta": -0.121754492300875
+        },
+        {
+          "timestamp": "Sat Dec 10 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1072.7500000000000000",
+          "sellingPriceDelta": -0.0246988408212743,
+          "sellingCompletedDelta": 0.232007526977803,
+          "buyingCompletedDelta": 0.241468211461065
+        },
+        {
+          "timestamp": "Sun Dec 11 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1074.2291666666666667",
+          "sellingPriceDelta": 0.00137885496776198,
+          "sellingCompletedDelta": -0.0859727580142686,
+          "buyingCompletedDelta": -0.0541007504767631
+        },
+        {
+          "timestamp": "Mon Dec 12 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1080.1304347826086957",
+          "sellingPriceDelta": 0.00549349086680793,
+          "sellingCompletedDelta": -0.0881462229715474,
+          "buyingCompletedDelta": -0.015167999431827
+        },
+        {
+          "timestamp": "Tue Dec 13 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1078.2083333333333333",
+          "sellingPriceDelta": -0.00177950864764052,
+          "sellingCompletedDelta": 0.0186708164195073,
+          "buyingCompletedDelta": -0.0262495808288231
+        },
+        {
+          "timestamp": "Wed Dec 14 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1087.5416666666666667",
+          "sellingPriceDelta": 0.00865633574216486,
+          "sellingCompletedDelta": 0.0964716653835872,
+          "buyingCompletedDelta": 0.0202923035976718
+        },
+        {
+          "timestamp": "Thu Dec 15 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1108.8750000000000000",
+          "sellingPriceDelta": 0.01961610666258,
+          "sellingCompletedDelta": -0.122238807543413,
+          "buyingCompletedDelta": -0.0226184238283509
+        },
+        {
+          "timestamp": "Fri Dec 16 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1131.7291666666666667",
+          "sellingPriceDelta": 0.0206102280840191,
+          "sellingCompletedDelta": 0.0700166034898656,
+          "buyingCompletedDelta": -0.0935853375962213
+        },
+        {
+          "timestamp": "Sat Dec 17 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1121.5625000000000000",
+          "sellingPriceDelta": -0.00898330357307218,
+          "sellingCompletedDelta": -0.00993383300152243,
+          "buyingCompletedDelta": 0.0923290660988628
+        },
+        {
+          "timestamp": "Sun Dec 18 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1133.8333333333333333",
+          "sellingPriceDelta": 0.0109408377449615,
+          "sellingCompletedDelta": 0.0403094723415748,
+          "buyingCompletedDelta": 0.0285900334069981
+        },
+        {
+          "timestamp": "Mon Dec 19 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1124.5208333333333333",
+          "sellingPriceDelta": -0.00821328825518154,
+          "sellingCompletedDelta": -0.0423016974687202,
+          "buyingCompletedDelta": -0.0978076826137349
+        },
+        {
+          "timestamp": "Tue Dec 20 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1112.3333333333333333",
+          "sellingPriceDelta": -0.010837949497008,
+          "sellingCompletedDelta": 0.0632505565174376,
+          "buyingCompletedDelta": 0.126671024726771
+        },
+        {
+          "timestamp": "Wed Dec 21 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1104.5000000000000000",
+          "sellingPriceDelta": -0.00704225352112676,
+          "sellingCompletedDelta": -0.0380499134393897,
+          "buyingCompletedDelta": -0.0297917331774142
+        },
+        {
+          "timestamp": "Thu Dec 22 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1096.4791666666666667",
+          "sellingPriceDelta": -0.00726195865399125,
+          "sellingCompletedDelta": -0.038065794857558,
+          "buyingCompletedDelta": -0.0716585928105246
+        },
+        {
+          "timestamp": "Fri Dec 23 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1080.7500000000000000",
+          "sellingPriceDelta": -0.0143451577967358,
+          "sellingCompletedDelta": 0.27054001409843,
+          "buyingCompletedDelta": 0.277660262425693
+        },
+        {
+          "timestamp": "Sat Dec 24 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1078.8541666666666667",
+          "sellingPriceDelta": -0.00175418305189298,
+          "sellingCompletedDelta": -0.0460963915306394,
+          "buyingCompletedDelta": -0.0297872987064298
+        },
+        {
+          "timestamp": "Sun Dec 25 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1083.3125000000000000",
+          "sellingPriceDelta": 0.00413247079270059,
+          "sellingCompletedDelta": -0.141725172072894,
+          "buyingCompletedDelta": -0.0441961193004861
+        },
+        {
+          "timestamp": "Mon Dec 26 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1067.7826086956521739",
+          "sellingPriceDelta": -0.0143355599647819,
+          "sellingCompletedDelta": 0.153463441796796,
+          "buyingCompletedDelta": 0.247945558886135
+        },
+        {
+          "timestamp": "Tue Dec 27 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1033.0217391304347826",
+          "sellingPriceDelta": -0.0325542570951586,
+          "sellingCompletedDelta": 0.0531686955151616,
+          "buyingCompletedDelta": 0.176330306242147
+        },
+        {
+          "timestamp": "Wed Dec 28 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1042.6041666666666667",
+          "sellingPriceDelta": 0.00927611411575721,
+          "sellingCompletedDelta": 0.237468700349792,
+          "buyingCompletedDelta": 0.0170351261283979
+        },
+        {
+          "timestamp": "Thu Dec 29 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1031.8125000000000000",
+          "sellingPriceDelta": -0.0103506843840543,
+          "sellingCompletedDelta": -0.250396219953923,
+          "buyingCompletedDelta": -0.020245979931883
+        },
+        {
+          "timestamp": "Fri Dec 30 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1000.6666666666666667",
+          "sellingPriceDelta": -0.0301855553536455,
+          "sellingCompletedDelta": 0.127665114299919,
+          "buyingCompletedDelta": 0.106652921072754
+        },
+        {
+          "timestamp": "Sat Dec 31 2016 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "958.6458333333333333",
+          "sellingPriceDelta": -0.0419928381079281,
+          "sellingCompletedDelta": -0.0845634413150433,
+          "buyingCompletedDelta": -0.106288520513776
+        },
+        {
+          "timestamp": "Sun Jan 01 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "911.8125000000000000",
+          "sellingPriceDelta": -0.0488536346843421,
+          "sellingCompletedDelta": -0.00832629364416833,
+          "buyingCompletedDelta": 0.18197284937508
+        },
+        {
+          "timestamp": "Mon Jan 02 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "926.7708333333333333",
+          "sellingPriceDelta": 0.016405054036146,
+          "sellingCompletedDelta": 0.279006769171463,
+          "buyingCompletedDelta": 0.0962394501445307
+        },
+        {
+          "timestamp": "Tue Jan 03 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "931.8125000000000000",
+          "sellingPriceDelta": 0.00544003596717995,
+          "sellingCompletedDelta": -0.106416548181443,
+          "buyingCompletedDelta": -0.161528509487622
+        },
+        {
+          "timestamp": "Wed Jan 04 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "915.7750000000000000",
+          "sellingPriceDelta": -0.0172110805553692,
+          "sellingCompletedDelta": 0.14947396824745,
+          "buyingCompletedDelta": -0.183318318519014
+        },
+        {
+          "timestamp": "Thu Jan 05 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "902.5625000000000000",
+          "sellingPriceDelta": -0.0144276705522645,
+          "sellingCompletedDelta": 0.176811057074037,
+          "buyingCompletedDelta": 0.231074153142944
+        },
+        {
+          "timestamp": "Fri Jan 06 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "882.9166666666666667",
+          "sellingPriceDelta": -0.0217667289892205,
+          "sellingCompletedDelta": -0.17160999780196,
+          "buyingCompletedDelta": 0.0539193189776795
+        },
+        {
+          "timestamp": "Sat Jan 07 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "883.8333333333333333",
+          "sellingPriceDelta": 0.00103822557810288,
+          "sellingCompletedDelta": 0.0780619472790507,
+          "buyingCompletedDelta": -0.0918538413778366
+        },
+        {
+          "timestamp": "Sun Jan 08 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "902.4375000000000000",
+          "sellingPriceDelta": 0.0210494059966057,
+          "sellingCompletedDelta": -0.142284641512274,
+          "buyingCompletedDelta": 0.0747533501979921
+        },
+        {
+          "timestamp": "Mon Jan 09 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "918.2500000000000000",
+          "sellingPriceDelta": 0.0175219890574139,
+          "sellingCompletedDelta": 0.0879352578543762,
+          "buyingCompletedDelta": -0.187580242886348
+        },
+        {
+          "timestamp": "Tue Jan 10 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "926.4791666666666667",
+          "sellingPriceDelta": 0.0089617932661766,
+          "sellingCompletedDelta": -0.184986301334221,
+          "buyingCompletedDelta": -0.19409664632216
+        },
+        {
+          "timestamp": "Wed Jan 11 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "935.6041666666666667",
+          "sellingPriceDelta": 0.00984911515369567,
+          "sellingCompletedDelta": 0.0835953415151449,
+          "buyingCompletedDelta": 0.0201979805572575
+        },
+        {
+          "timestamp": "Thu Jan 12 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "937.5625000000000000",
+          "sellingPriceDelta": 0.00209312164599523,
+          "sellingCompletedDelta": 0.0709207896143994,
+          "buyingCompletedDelta": 0.150677382816778
+        },
+        {
+          "timestamp": "Fri Jan 13 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "940.0208333333333333",
+          "sellingPriceDelta": 0.00262204741906095,
+          "sellingCompletedDelta": -0.178060160231964,
+          "buyingCompletedDelta": -0.135925983720239
+        },
+        {
+          "timestamp": "Sat Jan 14 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "940.9583333333333333",
+          "sellingPriceDelta": 0.000997318321845704,
+          "sellingCompletedDelta": 0.184056423045658,
+          "buyingCompletedDelta": 0.145517646422357
+        },
+        {
+          "timestamp": "Sun Jan 15 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "930.7291666666666667",
+          "sellingPriceDelta": -0.010871009166187,
+          "sellingCompletedDelta": -0.00952205630341118,
+          "buyingCompletedDelta": 0.0883282697078772
+        },
+        {
+          "timestamp": "Mon Jan 16 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "918.7500000000000000",
+          "sellingPriceDelta": -0.012870733072188,
+          "sellingCompletedDelta": -0.00666163197497732,
+          "buyingCompletedDelta": -0.0760203210369186
+        },
+        {
+          "timestamp": "Tue Jan 17 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "899.7291666666666667",
+          "sellingPriceDelta": -0.020702947845805,
+          "sellingCompletedDelta": -0.012676047739252,
+          "buyingCompletedDelta": 0.0650574589921329
+        },
+        {
+          "timestamp": "Wed Jan 18 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "895.2083333333333333",
+          "sellingPriceDelta": -0.0050246601986709,
+          "sellingCompletedDelta": -0.0757480414630048,
+          "buyingCompletedDelta": -0.105564799467043
+        },
+        {
+          "timestamp": "Thu Jan 19 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "896.5625000000000000",
+          "sellingPriceDelta": 0.00151268326739586,
+          "sellingCompletedDelta": -0.00721646157648418,
+          "buyingCompletedDelta": -0.0480712448230353
+        },
+        {
+          "timestamp": "Fri Jan 20 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "893.1666666666666667",
+          "sellingPriceDelta": -0.00378761473219473,
+          "sellingCompletedDelta": 0.0154095341463115,
+          "buyingCompletedDelta": -0.0856450587683863
+        },
+        {
+          "timestamp": "Sat Jan 21 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "892.6875000000000000",
+          "sellingPriceDelta": -0.000536480686695279,
+          "sellingCompletedDelta": 0.0728169704692348,
+          "buyingCompletedDelta": 0.163476376504089
+        },
+        {
+          "timestamp": "Sun Jan 22 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "897.4375000000000000",
+          "sellingPriceDelta": 0.0053210109920885,
+          "sellingCompletedDelta": -0.0340095085433152,
+          "buyingCompletedDelta": 0.00635042493771106
+        },
+        {
+          "timestamp": "Mon Jan 23 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "904.6250000000000000",
+          "sellingPriceDelta": 0.00800891426979595,
+          "sellingCompletedDelta": -0.0295156134928304,
+          "buyingCompletedDelta": -0.0320755321096384
+        },
+        {
+          "timestamp": "Tue Jan 24 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "906.0416666666666667",
+          "sellingPriceDelta": 0.00156602643821105,
+          "sellingCompletedDelta": -0.0539623009164896,
+          "buyingCompletedDelta": -0.0549189219508494
+        },
+        {
+          "timestamp": "Wed Jan 25 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "902.5000000000000000",
+          "sellingPriceDelta": -0.00390894458496206,
+          "sellingCompletedDelta": 0.144651104966595,
+          "buyingCompletedDelta": 0.0135656968241576
+        },
+        {
+          "timestamp": "Thu Jan 26 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "900.5000000000000000",
+          "sellingPriceDelta": -0.00221606648199446,
+          "sellingCompletedDelta": -0.156130433691666,
+          "buyingCompletedDelta": -0.0790886313517571
+        },
+        {
+          "timestamp": "Fri Jan 27 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "894.8750000000000000",
+          "sellingPriceDelta": -0.00624652970571904,
+          "sellingCompletedDelta": 0.158437976010555,
+          "buyingCompletedDelta": 0.149350927255512
+        },
+        {
+          "timestamp": "Sat Jan 28 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "887.3333333333333333",
+          "sellingPriceDelta": -0.00842762024491316,
+          "sellingCompletedDelta": 0.0594577509435512,
+          "buyingCompletedDelta": -0.0473327602519856
+        },
+        {
+          "timestamp": "Sun Jan 29 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "886.7916666666666667",
+          "sellingPriceDelta": -0.000610443275732532,
+          "sellingCompletedDelta": -0.12140239154135,
+          "buyingCompletedDelta": 0.0202585419076204
+        },
+        {
+          "timestamp": "Mon Jan 30 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "889.3333333333333333",
+          "sellingPriceDelta": 0.0028661372926749,
+          "sellingCompletedDelta": 0.0459418981350174,
+          "buyingCompletedDelta": -0.0643320642368364
+        },
+        {
+          "timestamp": "Tue Jan 31 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "888.5208333333333333",
+          "sellingPriceDelta": -0.000913605697151424,
+          "sellingCompletedDelta": -0.118609010309193,
+          "buyingCompletedDelta": -0.142997745346609
+        },
+        {
+          "timestamp": "Wed Feb 01 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "889.1250000000000000",
+          "sellingPriceDelta": 0.000679969049684635,
+          "sellingCompletedDelta": -0.0614761873833469,
+          "buyingCompletedDelta": 0.0588849555911473
+        },
+        {
+          "timestamp": "Thu Feb 02 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "889.8809523809523810",
+          "sellingPriceDelta": 0.000850220588727548,
+          "sellingCompletedDelta": -0.0825395726918718,
+          "buyingCompletedDelta": -0.19257425848937
+        },
+        {
+          "timestamp": "Fri Feb 03 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "882.7916666666666667",
+          "sellingPriceDelta": -0.00796655518394649,
+          "sellingCompletedDelta": 0.178104828964757,
+          "buyingCompletedDelta": 0.343799244393756
+        },
+        {
+          "timestamp": "Sat Feb 04 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "867.6041666666666667",
+          "sellingPriceDelta": -0.0172039458158305,
+          "sellingCompletedDelta": 0.238433504127191,
+          "buyingCompletedDelta": 0.0973542065094749
+        },
+        {
+          "timestamp": "Sun Feb 05 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "866.1666666666666667",
+          "sellingPriceDelta": -0.00165686156801537,
+          "sellingCompletedDelta": 0.0453790676095965,
+          "buyingCompletedDelta": 0.197131276370528
+        },
+        {
+          "timestamp": "Mon Feb 06 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "867.4166666666666667",
+          "sellingPriceDelta": 0.00144314027323456,
+          "sellingCompletedDelta": -0.190448720388954,
+          "buyingCompletedDelta": -0.227594232259193
+        },
+        {
+          "timestamp": "Tue Feb 07 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "868.7708333333333333",
+          "sellingPriceDelta": 0.00156114900566817,
+          "sellingCompletedDelta": -0.0465127682029987,
+          "buyingCompletedDelta": -0.0064965630078794
+        },
+        {
+          "timestamp": "Wed Feb 08 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "875.8958333333333333",
+          "sellingPriceDelta": 0.00820124217644661,
+          "sellingCompletedDelta": 0.0569532002137916,
+          "buyingCompletedDelta": 0.0173083337163654
+        },
+        {
+          "timestamp": "Thu Feb 09 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "875.6170212765957447",
+          "sellingPriceDelta": -0.000318316455138888,
+          "sellingCompletedDelta": -0.149950149948954,
+          "buyingCompletedDelta": -0.13638190919844
+        },
+        {
+          "timestamp": "Fri Feb 10 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "872.6041666666666667",
+          "sellingPriceDelta": -0.00344083604671883,
+          "sellingCompletedDelta": 0.12474355118913,
+          "buyingCompletedDelta": 0.13479293015336
+        },
+        {
+          "timestamp": "Sat Feb 11 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "877.8750000000000000",
+          "sellingPriceDelta": 0.00604034857347499,
+          "sellingCompletedDelta": 0.0361510963915225,
+          "buyingCompletedDelta": 0.0561155291671822
+        },
+        {
+          "timestamp": "Sun Feb 12 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "874.9166666666666667",
+          "sellingPriceDelta": -0.00336987991836347,
+          "sellingCompletedDelta": 0.145650762314725,
+          "buyingCompletedDelta": 0.131563385068962
+        },
+        {
+          "timestamp": "Mon Feb 13 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "875.0208333333333333",
+          "sellingPriceDelta": 0.000119058957996,
+          "sellingCompletedDelta": -0.0197021174769061,
+          "buyingCompletedDelta": -0.0900842738956011
+        },
+        {
+          "timestamp": "Tue Feb 14 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "875.9583333333333333",
+          "sellingPriceDelta": 0.00107140306183186,
+          "sellingCompletedDelta": -0.0464650548763593,
+          "buyingCompletedDelta": -0.0939330064062773
+        },
+        {
+          "timestamp": "Wed Feb 15 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "868.1250000000000000",
+          "sellingPriceDelta": -0.00894258669076725,
+          "sellingCompletedDelta": -0.0843008088150161,
+          "buyingCompletedDelta": 0.056458205354629
+        },
+        {
+          "timestamp": "Thu Feb 16 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "863.3750000000000000",
+          "sellingPriceDelta": -0.005471562275018,
+          "sellingCompletedDelta": 0.110994477678359,
+          "buyingCompletedDelta": -0.0160093277331602
+        },
+        {
+          "timestamp": "Fri Feb 17 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "846.6041666666666667",
+          "sellingPriceDelta": -0.0194247381883114,
+          "sellingCompletedDelta": 0.0970736135996397,
+          "buyingCompletedDelta": 0.276151417980645
+        },
+        {
+          "timestamp": "Sat Feb 18 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "835.8958333333333333",
+          "sellingPriceDelta": -0.0126485714988803,
+          "sellingCompletedDelta": -0.05089527917985,
+          "buyingCompletedDelta": -0.10972314923846
+        },
+        {
+          "timestamp": "Sun Feb 19 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "841.4791666666666667",
+          "sellingPriceDelta": 0.00667946065847519,
+          "sellingCompletedDelta": 0.150158149180829,
+          "buyingCompletedDelta": 0.0762556499336975
+        },
+        {
+          "timestamp": "Mon Feb 20 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "838.1875000000000000",
+          "sellingPriceDelta": -0.00391176252135377,
+          "sellingCompletedDelta": -0.198872214205251,
+          "buyingCompletedDelta": -0.0823320459676087
+        },
+        {
+          "timestamp": "Tue Feb 21 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "850.5000000000000000",
+          "sellingPriceDelta": 0.0146894340466781,
+          "sellingCompletedDelta": -0.118116471171829,
+          "buyingCompletedDelta": -0.225332376526882
+        },
+        {
+          "timestamp": "Wed Feb 22 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "855.8478260869565217",
+          "sellingPriceDelta": 0.00628786136032513,
+          "sellingCompletedDelta": -0.155008297667919,
+          "buyingCompletedDelta": -0.0815257994044521
+        },
+        {
+          "timestamp": "Thu Feb 23 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "868.0930232558139535",
+          "sellingPriceDelta": 0.0143076804025361,
+          "sellingCompletedDelta": -0.262798070353338,
+          "buyingCompletedDelta": -0.208705059198258
+        },
+        {
+          "timestamp": "Fri Feb 24 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "867.8750000000000000",
+          "sellingPriceDelta": -0.000251151950278611,
+          "sellingCompletedDelta": 0.145641706581117,
+          "buyingCompletedDelta": 0.150136500460685
+        },
+        {
+          "timestamp": "Sat Feb 25 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "867.8333333333333333",
+          "sellingPriceDelta": -0.0000480099860771041,
+          "sellingCompletedDelta": 0.385585558020347,
+          "buyingCompletedDelta": 0.240314169668352
+        },
+        {
+          "timestamp": "Sun Feb 26 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "846.8125000000000000",
+          "sellingPriceDelta": -0.0242222008834262,
+          "sellingCompletedDelta": 0.218470378320128,
+          "buyingCompletedDelta": 0.164982521057334
+        },
+        {
+          "timestamp": "Mon Feb 27 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "842.7083333333333333",
+          "sellingPriceDelta": -0.004846606145595,
+          "sellingCompletedDelta": -0.0505747793039579,
+          "buyingCompletedDelta": -0.0655105697670584
+        },
+        {
+          "timestamp": "Tue Feb 28 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "850.8723404255319149",
+          "sellingPriceDelta": 0.0096878205296794,
+          "sellingCompletedDelta": -0.0750623722252234,
+          "buyingCompletedDelta": -0.0326809610580375
+        },
+        {
+          "timestamp": "Wed Mar 01 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "852.4583333333333333",
+          "sellingPriceDelta": 0.0018639610579047,
+          "sellingCompletedDelta": 0.221781949363118,
+          "buyingCompletedDelta": 0.225853474439648
+        },
+        {
+          "timestamp": "Thu Mar 02 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "858.2291666666666667",
+          "sellingPriceDelta": 0.0067696368346449,
+          "sellingCompletedDelta": -0.14417714505787,
+          "buyingCompletedDelta": -0.154812003272441
+        },
+        {
+          "timestamp": "Fri Mar 03 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "851.2708333333333333",
+          "sellingPriceDelta": -0.00810778007039689,
+          "sellingCompletedDelta": -0.0138164369058855,
+          "buyingCompletedDelta": -0.0139865502503244
+        },
+        {
+          "timestamp": "Sat Mar 04 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "849.9166666666666667",
+          "sellingPriceDelta": -0.00159075891436822,
+          "sellingCompletedDelta": -0.0377142568945269,
+          "buyingCompletedDelta": -0.0265005539383589
+        },
+        {
+          "timestamp": "Sun Mar 05 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "855.8125000000000000",
+          "sellingPriceDelta": 0.00693695460339249,
+          "sellingCompletedDelta": 0.193270980609925,
+          "buyingCompletedDelta": 0.168591041396033
+        },
+        {
+          "timestamp": "Mon Mar 06 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "860.5625000000000000",
+          "sellingPriceDelta": 0.00555028116555904,
+          "sellingCompletedDelta": -0.0842932044852357,
+          "buyingCompletedDelta": -0.156301578952509
+        },
+        {
+          "timestamp": "Tue Mar 07 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "859.0416666666666667",
+          "sellingPriceDelta": -0.0017672549446825,
+          "sellingCompletedDelta": -0.173182802927722,
+          "buyingCompletedDelta": -0.00347106665845341
+        },
+        {
+          "timestamp": "Wed Mar 08 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "860.7291666666666667",
+          "sellingPriceDelta": 0.00196439831207256,
+          "sellingCompletedDelta": 0.105754395690154,
+          "buyingCompletedDelta": 0.0232304496616202
+        },
+        {
+          "timestamp": "Thu Mar 09 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "859.2553191489361702",
+          "sellingPriceDelta": -0.00171232435800711,
+          "sellingCompletedDelta": 0.0683354908769009,
+          "buyingCompletedDelta": 0.0599674917786798
+        },
+        {
+          "timestamp": "Fri Mar 10 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "852.9583333333333333",
+          "sellingPriceDelta": -0.00732842226899426,
+          "sellingCompletedDelta": 0.0595607009048749,
+          "buyingCompletedDelta": -0.0765166235713521
+        },
+        {
+          "timestamp": "Sat Mar 11 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "841.2500000000000000",
+          "sellingPriceDelta": -0.0137267353817596,
+          "sellingCompletedDelta": 0.094167266242623,
+          "buyingCompletedDelta": 0.330642442296334
+        },
+        {
+          "timestamp": "Sun Mar 12 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "831.5208333333333333",
+          "sellingPriceDelta": -0.0115651312530956,
+          "sellingCompletedDelta": 0.0434906995585946,
+          "buyingCompletedDelta": 0.0149250107545491
+        },
+        {
+          "timestamp": "Mon Mar 13 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "824.2708333333333333",
+          "sellingPriceDelta": -0.00871896374614787,
+          "sellingCompletedDelta": -0.0223218298449366,
+          "buyingCompletedDelta": -0.0530519159084594
+        },
+        {
+          "timestamp": "Tue Mar 14 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "819.0416666666666667",
+          "sellingPriceDelta": -0.00634399090104891,
+          "sellingCompletedDelta": 0.087282608230019,
+          "buyingCompletedDelta": 0.0438617628654823
+        },
+        {
+          "timestamp": "Wed Mar 15 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "827.1041666666666667",
+          "sellingPriceDelta": 0.00984382153940072,
+          "sellingCompletedDelta": -0.110461897019134,
+          "buyingCompletedDelta": -0.0280308036947058
+        },
+        {
+          "timestamp": "Thu Mar 16 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "826.1250000000000000",
+          "sellingPriceDelta": -0.00118384927331805,
+          "sellingCompletedDelta": -0.167342459518015,
+          "buyingCompletedDelta": -0.0795512548972163
+        },
+        {
+          "timestamp": "Fri Mar 17 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "821.0833333333333333",
+          "sellingPriceDelta": -0.00610278912593938,
+          "sellingCompletedDelta": -0.00605832704900223,
+          "buyingCompletedDelta": -0.0858030387998228
+        },
+        {
+          "timestamp": "Sat Mar 18 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "802.0833333333333333",
+          "sellingPriceDelta": -0.0231401603572516,
+          "sellingCompletedDelta": 0.181682291776018,
+          "buyingCompletedDelta": 0.218943768913363
+        },
+        {
+          "timestamp": "Sun Mar 19 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "795.8541666666666667",
+          "sellingPriceDelta": -0.00776623376623377,
+          "sellingCompletedDelta": 0.124251505350422,
+          "buyingCompletedDelta": 0.206073679126198
+        },
+        {
+          "timestamp": "Mon Mar 20 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "804.5625000000000000",
+          "sellingPriceDelta": 0.0109421219339808,
+          "sellingCompletedDelta": -0.2562778831533,
+          "buyingCompletedDelta": -0.240283981196942
+        },
+        {
+          "timestamp": "Tue Mar 21 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "812.5000000000000000",
+          "sellingPriceDelta": 0.00986561019187447,
+          "sellingCompletedDelta": 0.152640379191626,
+          "buyingCompletedDelta": -0.0496140139694064
+        },
+        {
+          "timestamp": "Wed Mar 22 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "816.6458333333333333",
+          "sellingPriceDelta": 0.0051025641025641,
+          "sellingCompletedDelta": -0.00986156005028922,
+          "buyingCompletedDelta": 0.0232280955813582
+        },
+        {
+          "timestamp": "Thu Mar 23 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "821.6458333333333333",
+          "sellingPriceDelta": 0.0061226051684992,
+          "sellingCompletedDelta": -0.153169068718131,
+          "buyingCompletedDelta": -0.0228464470493397
+        },
+        {
+          "timestamp": "Fri Mar 24 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "817.9583333333333333",
+          "sellingPriceDelta": -0.00448794340627298,
+          "sellingCompletedDelta": 0.128504476478173,
+          "buyingCompletedDelta": -0.00121887577475462
+        },
+        {
+          "timestamp": "Sat Mar 25 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "814.6875000000000000",
+          "sellingPriceDelta": -0.00399877744383883,
+          "sellingCompletedDelta": -0.0121070703273631,
+          "buyingCompletedDelta": -0.0421465509528496
+        },
+        {
+          "timestamp": "Sun Mar 26 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "809.0208333333333333",
+          "sellingPriceDelta": -0.00695563227208797,
+          "sellingCompletedDelta": -0.0116088775043002,
+          "buyingCompletedDelta": 0.0692591992025353
+        },
+        {
+          "timestamp": "Mon Mar 27 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "812.2083333333333333",
+          "sellingPriceDelta": 0.00393994798238611,
+          "sellingCompletedDelta": 0.148043844671924,
+          "buyingCompletedDelta": 0.144625877010454
+        },
+        {
+          "timestamp": "Tue Mar 28 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "811.0000000000000000",
+          "sellingPriceDelta": -0.0014877135381932,
+          "sellingCompletedDelta": -0.0147942182214495,
+          "buyingCompletedDelta": -0.0568690965827378
+        },
+        {
+          "timestamp": "Wed Mar 29 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "807.1458333333333333",
+          "sellingPriceDelta": -0.00475236333744349,
+          "sellingCompletedDelta": -0.124010043892738,
+          "buyingCompletedDelta": -0.200531030969146
+        },
+        {
+          "timestamp": "Thu Mar 30 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "801.3750000000000000",
+          "sellingPriceDelta": -0.00714967865162739,
+          "sellingCompletedDelta": -0.022135839826821,
+          "buyingCompletedDelta": 0.00346406718573692
+        },
+        {
+          "timestamp": "Fri Mar 31 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "802.3541666666666667",
+          "sellingPriceDelta": 0.00122185826444132,
+          "sellingCompletedDelta": -0.163308366500401,
+          "buyingCompletedDelta": -0.0387591613425137
+        },
+        {
+          "timestamp": "Sat Apr 01 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "801.6875000000000000",
+          "sellingPriceDelta": -0.000830888271492743,
+          "sellingCompletedDelta": 0.25286361642188,
+          "buyingCompletedDelta": 0.216716944654198
+        },
+        {
+          "timestamp": "Sun Apr 02 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "800.7916666666666667",
+          "sellingPriceDelta": -0.00111743457810348,
+          "sellingCompletedDelta": -0.0740867580788193,
+          "buyingCompletedDelta": -0.107337622105114
+        },
+        {
+          "timestamp": "Mon Apr 03 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "795.8333333333333333",
+          "sellingPriceDelta": -0.00619178937509756,
+          "sellingCompletedDelta": -0.0169100365585305,
+          "buyingCompletedDelta": 0.215704271427959
+        },
+        {
+          "timestamp": "Tue Apr 04 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "799.1666666666666667",
+          "sellingPriceDelta": 0.00418848167539267,
+          "sellingCompletedDelta": 0.0183643058801921,
+          "buyingCompletedDelta": -0.182624581855543
+        },
+        {
+          "timestamp": "Wed Apr 05 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "799.3333333333333333",
+          "sellingPriceDelta": 0.000208550573514077,
+          "sellingCompletedDelta": 0.104205973339894,
+          "buyingCompletedDelta": 0.0212900091900719
+        },
+        {
+          "timestamp": "Thu Apr 06 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "797.6046511627906977",
+          "sellingPriceDelta": -0.00216265492561631,
+          "sellingCompletedDelta": -0.35966687767826,
+          "buyingCompletedDelta": -0.294452578927226
+        },
+        {
+          "timestamp": "Fri Apr 07 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "798.7708333333333333",
+          "sellingPriceDelta": 0.00146210552915221,
+          "sellingCompletedDelta": 0.422184893310889,
+          "buyingCompletedDelta": 0.355828373176508
+        },
+        {
+          "timestamp": "Sat Apr 08 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "800.5416666666666667",
+          "sellingPriceDelta": 0.00221694791476487,
+          "sellingCompletedDelta": 0.019306160200422,
+          "buyingCompletedDelta": 0.0456180857712687
+        },
+        {
+          "timestamp": "Sun Apr 09 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "800.1041666666666667",
+          "sellingPriceDelta": -0.000546504970592828,
+          "sellingCompletedDelta": 0.0515624132088392,
+          "buyingCompletedDelta": 0.0524654461392266
+        },
+        {
+          "timestamp": "Mon Apr 10 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "799.6875000000000000",
+          "sellingPriceDelta": -0.000520765525322224,
+          "sellingCompletedDelta": 0.00418455858169953,
+          "buyingCompletedDelta": -0.0873991790715702
+        },
+        {
+          "timestamp": "Tue Apr 11 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "798.1041666666666667",
+          "sellingPriceDelta": -0.00197994008076071,
+          "sellingCompletedDelta": -0.167358307134443,
+          "buyingCompletedDelta": -0.068201006650489
+        },
+        {
+          "timestamp": "Wed Apr 12 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "792.8333333333333333",
+          "sellingPriceDelta": -0.00660419222636978,
+          "sellingCompletedDelta": 0.192543722522114,
+          "buyingCompletedDelta": 0.0428392823946948
+        },
+        {
+          "timestamp": "Thu Apr 13 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "785.6041666666666667",
+          "sellingPriceDelta": -0.00911814168593651,
+          "sellingCompletedDelta": -0.12164973966641,
+          "buyingCompletedDelta": 0.0792402756226065
+        },
+        {
+          "timestamp": "Fri Apr 14 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "781.2500000000000000",
+          "sellingPriceDelta": -0.00554244344851362,
+          "sellingCompletedDelta": 0.142801735940825,
+          "buyingCompletedDelta": 0.132590222030046
+        },
+        {
+          "timestamp": "Sat Apr 15 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "770.8541666666666667",
+          "sellingPriceDelta": -0.0133066666666667,
+          "sellingCompletedDelta": 0.0178378746945642,
+          "buyingCompletedDelta": -0.022446704844286
+        },
+        {
+          "timestamp": "Sun Apr 16 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "763.0833333333333333",
+          "sellingPriceDelta": -0.0100808086267939,
+          "sellingCompletedDelta": 0.0463487430483698,
+          "buyingCompletedDelta": 0.0117452952249341
+        },
+        {
+          "timestamp": "Mon Apr 17 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "760.4791666666666667",
+          "sellingPriceDelta": -0.00341268974554985,
+          "sellingCompletedDelta": 0.0473564808250454,
+          "buyingCompletedDelta": 0.14257491489417
+        },
+        {
+          "timestamp": "Tue Apr 18 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "757.2916666666666667",
+          "sellingPriceDelta": -0.00419143632030244,
+          "sellingCompletedDelta": -0.0830409328450475,
+          "buyingCompletedDelta": -0.047417656392536
+        },
+        {
+          "timestamp": "Wed Apr 19 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "759.8541666666666667",
+          "sellingPriceDelta": 0.0033837689133425,
+          "sellingCompletedDelta": 0.0225775021176059,
+          "buyingCompletedDelta": -0.0904796907033362
+        },
+        {
+          "timestamp": "Thu Apr 20 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "765.2291666666666667",
+          "sellingPriceDelta": 0.00707372576974748,
+          "sellingCompletedDelta": -0.0407268034269504,
+          "buyingCompletedDelta": -0.0642603107384111
+        },
+        {
+          "timestamp": "Fri Apr 21 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "761.7291666666666667",
+          "sellingPriceDelta": -0.00457379325365495,
+          "sellingCompletedDelta": 0.0905885257426499,
+          "buyingCompletedDelta": -0.00103378186401288
+        },
+        {
+          "timestamp": "Sat Apr 22 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "749.3958333333333333",
+          "sellingPriceDelta": -0.0161912315729016,
+          "sellingCompletedDelta": -0.0335755738219733,
+          "buyingCompletedDelta": 0.100426557254864
+        },
+        {
+          "timestamp": "Sun Apr 23 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "737.7083333333333333",
+          "sellingPriceDelta": -0.0155958966945595,
+          "sellingCompletedDelta": 0.116706781165724,
+          "buyingCompletedDelta": 0.0777358860692802
+        },
+        {
+          "timestamp": "Mon Apr 24 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "735.3541666666666667",
+          "sellingPriceDelta": -0.00319118892968088,
+          "sellingCompletedDelta": -0.157958143501099,
+          "buyingCompletedDelta": -0.028172798905925
+        },
+        {
+          "timestamp": "Tue Apr 25 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "732.4791666666666667",
+          "sellingPriceDelta": -0.00390968070940873,
+          "sellingCompletedDelta": 0.121975796688151,
+          "buyingCompletedDelta": -0.0231052411447995
+        },
+        {
+          "timestamp": "Wed Apr 26 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "725.6250000000000000",
+          "sellingPriceDelta": -0.00935749025853978,
+          "sellingCompletedDelta": -0.18534127192675,
+          "buyingCompletedDelta": -0.0128086089397289
+        },
+        {
+          "timestamp": "Thu Apr 27 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "722.5208333333333333",
+          "sellingPriceDelta": -0.0042779213321849,
+          "sellingCompletedDelta": 0.0878000833296953,
+          "buyingCompletedDelta": -0.0848463216365501
+        },
+        {
+          "timestamp": "Fri Apr 28 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "746.6250000000000000",
+          "sellingPriceDelta": 0.0333612064242669,
+          "sellingCompletedDelta": 0.22941650918584,
+          "buyingCompletedDelta": 0.165999483077603
+        },
+        {
+          "timestamp": "Sat Apr 29 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "768.2708333333333333",
+          "sellingPriceDelta": 0.0289915731904682,
+          "sellingCompletedDelta": -0.0932947646388416,
+          "buyingCompletedDelta": -0.052162278408083
+        },
+        {
+          "timestamp": "Sun Apr 30 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "779.8750000000000000",
+          "sellingPriceDelta": 0.015104265531361,
+          "sellingCompletedDelta": -0.138908142945378,
+          "buyingCompletedDelta": -0.136266372493465
+        },
+        {
+          "timestamp": "Mon May 01 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "778.0625000000000000",
+          "sellingPriceDelta": -0.00232409039910242,
+          "sellingCompletedDelta": -0.0805611269627286,
+          "buyingCompletedDelta": -0.0385567071478544
+        },
+        {
+          "timestamp": "Tue May 02 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "776.0212765957446809",
+          "sellingPriceDelta": -0.00262346971387944,
+          "sellingCompletedDelta": 0.112724397364958,
+          "buyingCompletedDelta": 0.0460782333956068
+        },
+        {
+          "timestamp": "Wed May 03 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "775.1666666666666667",
+          "sellingPriceDelta": -0.00110127126001883,
+          "sellingCompletedDelta": -0.0328412951780578,
+          "buyingCompletedDelta": 0.0263055409623173
+        },
+        {
+          "timestamp": "Thu May 04 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "767.4680851063829787",
+          "sellingPriceDelta": -0.00993151781588951,
+          "sellingCompletedDelta": 0.125771980363987,
+          "buyingCompletedDelta": 0.0212603942615818
+        },
+        {
+          "timestamp": "Fri May 05 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "762.4166666666666667",
+          "sellingPriceDelta": -0.00658192638592406,
+          "sellingCompletedDelta": -0.0592870842184015,
+          "buyingCompletedDelta": -0.0274125787431659
+        },
+        {
+          "timestamp": "Sat May 06 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "761.4791666666666667",
+          "sellingPriceDelta": -0.00122964258388895,
+          "sellingCompletedDelta": 0.0996448890873994,
+          "buyingCompletedDelta": 0.0542976132917234
+        },
+        {
+          "timestamp": "Sun May 07 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "772.0416666666666667",
+          "sellingPriceDelta": 0.0138710295203962,
+          "sellingCompletedDelta": -0.000228627792896334,
+          "buyingCompletedDelta": -0.0107311144996159
+        },
+        {
+          "timestamp": "Mon May 08 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "789.8750000000000000",
+          "sellingPriceDelta": 0.0230989260078795,
+          "sellingCompletedDelta": 0.0454315781462185,
+          "buyingCompletedDelta": 0.00243619689190864
+        },
+        {
+          "timestamp": "Tue May 09 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "811.8541666666666667",
+          "sellingPriceDelta": 0.0278261328269241,
+          "sellingCompletedDelta": 0.0149573873881769,
+          "buyingCompletedDelta": 0.00553985274704948
+        },
+        {
+          "timestamp": "Wed May 10 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "823.1041666666666667",
+          "sellingPriceDelta": 0.013857168518566,
+          "sellingCompletedDelta": -0.0278032370971063,
+          "buyingCompletedDelta": -0.0289758175415761
+        },
+        {
+          "timestamp": "Thu May 11 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "814.5625000000000000",
+          "sellingPriceDelta": -0.0103773823685742,
+          "sellingCompletedDelta": 0.0416021232300012,
+          "buyingCompletedDelta": 0.0886039524171401
+        },
+        {
+          "timestamp": "Fri May 12 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "830.5833333333333333",
+          "sellingPriceDelta": 0.0196680222000563,
+          "sellingCompletedDelta": -0.0257925303583316,
+          "buyingCompletedDelta": -0.0855369713493549
+        },
+        {
+          "timestamp": "Sat May 13 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "827.1666666666666667",
+          "sellingPriceDelta": -0.00411357479682954,
+          "sellingCompletedDelta": -0.134852788412924,
+          "buyingCompletedDelta": -0.091322010366631
+        },
+        {
+          "timestamp": "Sun May 14 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "837.8541666666666667",
+          "sellingPriceDelta": 0.0129206125327423,
+          "sellingCompletedDelta": 0.14404996142238,
+          "buyingCompletedDelta": 0.127430875630873
+        },
+        {
+          "timestamp": "Mon May 15 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "839.9583333333333333",
+          "sellingPriceDelta": 0.002511375786359,
+          "sellingCompletedDelta": -0.125589211161037,
+          "buyingCompletedDelta": -0.0392136857381591
+        },
+        {
+          "timestamp": "Tue May 16 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "832.0416666666666667",
+          "sellingPriceDelta": -0.00942507068803016,
+          "sellingCompletedDelta": 0.161935410348828,
+          "buyingCompletedDelta": 0.177829408824515
+        },
+        {
+          "timestamp": "Wed May 17 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "825.8125000000000000",
+          "sellingPriceDelta": -0.00748660423656668,
+          "sellingCompletedDelta": -0.262543833457631,
+          "buyingCompletedDelta": -0.193488244555039
+        },
+        {
+          "timestamp": "Thu May 18 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "826.9791666666666667",
+          "sellingPriceDelta": 0.00141275006937612,
+          "sellingCompletedDelta": 0.198682861356383,
+          "buyingCompletedDelta": 0.144930184292805
+        },
+        {
+          "timestamp": "Fri May 19 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "828.1666666666666667",
+          "sellingPriceDelta": 0.00143594911197884,
+          "sellingCompletedDelta": -0.109932524976059,
+          "buyingCompletedDelta": -0.120213941120403
+        },
+        {
+          "timestamp": "Sat May 20 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "822.2500000000000000",
+          "sellingPriceDelta": -0.00714429462668545,
+          "sellingCompletedDelta": 0.135453662089516,
+          "buyingCompletedDelta": 0.028689208406235
+        },
+        {
+          "timestamp": "Sun May 21 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "816.7291666666666667",
+          "sellingPriceDelta": -0.00671430019256106,
+          "sellingCompletedDelta": 0.0959255903738691,
+          "buyingCompletedDelta": 0.035964384935545
+        },
+        {
+          "timestamp": "Mon May 22 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "814.4375000000000000",
+          "sellingPriceDelta": -0.00280590771114456,
+          "sellingCompletedDelta": -0.198866771649667,
+          "buyingCompletedDelta": -0.0646912416944998
+        },
+        {
+          "timestamp": "Tue May 23 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "812.7708333333333333",
+          "sellingPriceDelta": -0.0020464021691863,
+          "sellingCompletedDelta": -0.0667095131588662,
+          "buyingCompletedDelta": -0.0681919924810009
+        },
+        {
+          "timestamp": "Wed May 24 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "825.2708333333333333",
+          "sellingPriceDelta": 0.0153794888883193,
+          "sellingCompletedDelta": 0.296111630357048,
+          "buyingCompletedDelta": 0.239701951677572
+        },
+        {
+          "timestamp": "Thu May 25 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "891.8000000000000000",
+          "sellingPriceDelta": 0.0806149496377452,
+          "sellingCompletedDelta": 0.387548033027248,
+          "buyingCompletedDelta": 0.595815927116407
+        },
+        {
+          "timestamp": "Fri May 26 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "990.6875000000000000",
+          "sellingPriceDelta": 0.110885288181207,
+          "sellingCompletedDelta": -0.0648499777270166,
+          "buyingCompletedDelta": -0.25230661890282
+        },
+        {
+          "timestamp": "Sat May 27 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "964.5833333333333333",
+          "sellingPriceDelta": -0.0263495468214413,
+          "sellingCompletedDelta": -0.122155760258404,
+          "buyingCompletedDelta": -0.202766593082125
+        },
+        {
+          "timestamp": "Sun May 28 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "942.9791666666666667",
+          "sellingPriceDelta": -0.0223974082073434,
+          "sellingCompletedDelta": -0.258808873978064,
+          "buyingCompletedDelta": -0.206794225673364
+        },
+        {
+          "timestamp": "Mon May 29 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "919.7500000000000000",
+          "sellingPriceDelta": -0.024633806862117,
+          "sellingCompletedDelta": 0.0107222283046101,
+          "buyingCompletedDelta": -0.0539676582563685
+        },
+        {
+          "timestamp": "Tue May 30 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "891.2083333333333333",
+          "sellingPriceDelta": -0.0310319833288031,
+          "sellingCompletedDelta": -0.111748958645567,
+          "buyingCompletedDelta": 0.0824742652057387
+        },
+        {
+          "timestamp": "Wed May 31 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "900.5000000000000000",
+          "sellingPriceDelta": 0.0104259198653513,
+          "sellingCompletedDelta": -0.216618608428926,
+          "buyingCompletedDelta": -0.208407676518106
+        },
+        {
+          "timestamp": "Thu Jun 01 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "916.2765957446808511",
+          "sellingPriceDelta": 0.0175198175954257,
+          "sellingCompletedDelta": 0.208509106119626,
+          "buyingCompletedDelta": -0.0215611936551546
+        },
+        {
+          "timestamp": "Fri Jun 02 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "901.9166666666666667",
+          "sellingPriceDelta": -0.0156720461318162,
+          "sellingCompletedDelta": -0.104474786796685,
+          "buyingCompletedDelta": -0.163809314357626
+        },
+        {
+          "timestamp": "Sat Jun 03 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "901.4375000000000000",
+          "sellingPriceDelta": -0.000531275986325418,
+          "sellingCompletedDelta": -0.110206288859304,
+          "buyingCompletedDelta": 0.20878950094975
+        },
+        {
+          "timestamp": "Sun Jun 04 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "920.6875000000000000",
+          "sellingPriceDelta": 0.0213547805588296,
+          "sellingCompletedDelta": -0.0690870881580417,
+          "buyingCompletedDelta": -0.092948122719126
+        },
+        {
+          "timestamp": "Mon Jun 05 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "948.8541666666666667",
+          "sellingPriceDelta": 0.030593080352092,
+          "sellingCompletedDelta": -0.0406219656474004,
+          "buyingCompletedDelta": 0.0131489201372862
+        },
+        {
+          "timestamp": "Tue Jun 06 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "984.9583333333333333",
+          "sellingPriceDelta": 0.0380502799429136,
+          "sellingCompletedDelta": 0.00000414514644802401,
+          "buyingCompletedDelta": -0.0974132544923516
+        },
+        {
+          "timestamp": "Wed Jun 07 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1013.1875000000000000",
+          "sellingPriceDelta": 0.0286602648166166,
+          "sellingCompletedDelta": -0.0894201102328043,
+          "buyingCompletedDelta": -0.060637173886403
+        },
+        {
+          "timestamp": "Thu Jun 08 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1018.0217391304347826",
+          "sellingPriceDelta": 0.00477131738245367,
+          "sellingCompletedDelta": -0.0911590473184588,
+          "buyingCompletedDelta": 0.00611242547220038
+        },
+        {
+          "timestamp": "Fri Jun 09 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1012.4791666666666667",
+          "sellingPriceDelta": -0.00544445393523956,
+          "sellingCompletedDelta": -0.0178037158484543,
+          "buyingCompletedDelta": 0.0225160030082081
+        },
+        {
+          "timestamp": "Sat Jun 10 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1012.2708333333333333",
+          "sellingPriceDelta": -0.000205765550731497,
+          "sellingCompletedDelta": 0.352665249551875,
+          "buyingCompletedDelta": 0.144192014739994
+        },
+        {
+          "timestamp": "Sun Jun 11 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "977.6250000000000000",
+          "sellingPriceDelta": -0.0342258535882607,
+          "sellingCompletedDelta": 0.00747029225185736,
+          "buyingCompletedDelta": 0.101111997737904
+        },
+        {
+          "timestamp": "Mon Jun 12 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "955.9583333333333333",
+          "sellingPriceDelta": -0.0221625538081234,
+          "sellingCompletedDelta": -0.0999486713488209,
+          "buyingCompletedDelta": -0.0182880683601837
+        },
+        {
+          "timestamp": "Tue Jun 13 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "954.0416666666666667",
+          "sellingPriceDelta": -0.00200496883581049,
+          "sellingCompletedDelta": 0.115121513149142,
+          "buyingCompletedDelta": -0.0164696037219819
+        },
+        {
+          "timestamp": "Wed Jun 14 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "966.1458333333333333",
+          "sellingPriceDelta": 0.0126872516050138,
+          "sellingCompletedDelta": -0.0322965912536849,
+          "buyingCompletedDelta": -0.145354390073348
+        },
+        {
+          "timestamp": "Thu Jun 15 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "983.9361702127659574",
+          "sellingPriceDelta": 0.0184137179560704,
+          "sellingCompletedDelta": -0.241926079658485,
+          "buyingCompletedDelta": -0.0904131698508047
+        },
+        {
+          "timestamp": "Fri Jun 16 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "991.5208333333333333",
+          "sellingPriceDelta": 0.0077084910080369,
+          "sellingCompletedDelta": 0.125573145330089,
+          "buyingCompletedDelta": -0.11884714744231
+        },
+        {
+          "timestamp": "Sat Jun 17 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "994.9375000000000000",
+          "sellingPriceDelta": 0.00344588489903977,
+          "sellingCompletedDelta": -0.259902226985111,
+          "buyingCompletedDelta": 0.0152947989621945
+        },
+        {
+          "timestamp": "Sun Jun 18 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1003.6041666666666667",
+          "sellingPriceDelta": 0.00871076491404401,
+          "sellingCompletedDelta": 0.132862738398838,
+          "buyingCompletedDelta": 0.191617479653389
+        },
+        {
+          "timestamp": "Mon Jun 19 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1032.0833333333333333",
+          "sellingPriceDelta": 0.028376891619787,
+          "sellingCompletedDelta": 0.152668795743283,
+          "buyingCompletedDelta": 0.0893906180307003
+        },
+        {
+          "timestamp": "Tue Jun 20 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1071.4375000000000000",
+          "sellingPriceDelta": 0.038130803391199,
+          "sellingCompletedDelta": -0.0675883400068214,
+          "buyingCompletedDelta": 0.0120477641451848
+        },
+        {
+          "timestamp": "Wed Jun 21 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1072.8958333333333333",
+          "sellingPriceDelta": 0.00136109976861304,
+          "sellingCompletedDelta": 0.0543799430427847,
+          "buyingCompletedDelta": -0.0497746235142697
+        },
+        {
+          "timestamp": "Thu Jun 22 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1087.3541666666666667",
+          "sellingPriceDelta": 0.0134759898250451,
+          "sellingCompletedDelta": -0.197943135229671,
+          "buyingCompletedDelta": -0.14202306725277
+        },
+        {
+          "timestamp": "Fri Jun 23 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1095.7083333333333333",
+          "sellingPriceDelta": 0.00768302262755542,
+          "sellingCompletedDelta": 0.0107159786687735,
+          "buyingCompletedDelta": -0.186177447294568
+        },
+        {
+          "timestamp": "Sat Jun 24 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1101.1458333333333333",
+          "sellingPriceDelta": 0.0049625432558847,
+          "sellingCompletedDelta": 0.275862742818171,
+          "buyingCompletedDelta": 0.208828562372601
+        },
+        {
+          "timestamp": "Sun Jun 25 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1117.1666666666666667",
+          "sellingPriceDelta": 0.0145492384826412,
+          "sellingCompletedDelta": -0.144653437822364,
+          "buyingCompletedDelta": 0.0990590665097034
+        },
+        {
+          "timestamp": "Mon Jun 26 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1153.0416666666666667",
+          "sellingPriceDelta": 0.0321124869461435,
+          "sellingCompletedDelta": 0.14751494542469,
+          "buyingCompletedDelta": -0.108201308991181
+        },
+        {
+          "timestamp": "Tue Jun 27 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1152.2291666666666667",
+          "sellingPriceDelta": -0.000704657969862321,
+          "sellingCompletedDelta": -0.262611028232225,
+          "buyingCompletedDelta": -0.0105131608676005
+        },
+        {
+          "timestamp": "Wed Jun 28 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1148.0416666666666667",
+          "sellingPriceDelta": -0.00363425967779847,
+          "sellingCompletedDelta": 0.225635105636672,
+          "buyingCompletedDelta": 0.00840252852839996
+        },
+        {
+          "timestamp": "Thu Jun 29 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1099.3260869565217391",
+          "sellingPriceDelta": -0.0424336338345544,
+          "sellingCompletedDelta": -0.0523792175232794,
+          "buyingCompletedDelta": 0.069194148842073
+        },
+        {
+          "timestamp": "Fri Jun 30 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1100.5000000000000000",
+          "sellingPriceDelta": 0.00106784789100042,
+          "sellingCompletedDelta": 0.229077574818931,
+          "buyingCompletedDelta": 0.104566392037015
+        },
+        {
+          "timestamp": "Sat Jul 01 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1097.2916666666666667",
+          "sellingPriceDelta": -0.0029153415114342,
+          "sellingCompletedDelta": -0.22004792835504,
+          "buyingCompletedDelta": 0.00156515151212543
+        },
+        {
+          "timestamp": "Sun Jul 02 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1113.6041666666666667",
+          "sellingPriceDelta": 0.0148661477121701,
+          "sellingCompletedDelta": 0.189114367472542,
+          "buyingCompletedDelta": -0.0482604181483899
+        },
+        {
+          "timestamp": "Mon Jul 03 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1109.2083333333333333",
+          "sellingPriceDelta": -0.00394739303687351,
+          "sellingCompletedDelta": 0.0397099477870851,
+          "buyingCompletedDelta": -0.0462929788795792
+        },
+        {
+          "timestamp": "Tue Jul 04 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1066.0208333333333333",
+          "sellingPriceDelta": -0.0389354269185981,
+          "sellingCompletedDelta": -0.0193065003009434,
+          "buyingCompletedDelta": 0.0435567129214318
+        },
+        {
+          "timestamp": "Wed Jul 05 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "1060.2500000000000000",
+          "sellingPriceDelta": -0.00541343391506576,
+          "sellingCompletedDelta": 0.198429525792977,
+          "buyingCompletedDelta": 0.140388426365162
+        },
+        {
+          "timestamp": "Thu Jul 06 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "928.5000000000000000",
+          "sellingPriceDelta": -0.124263145484556,
+          "sellingCompletedDelta": 0.604176858859817,
+          "buyingCompletedDelta": 0.530966284944218
+        },
+        {
+          "timestamp": "Fri Jul 07 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "791.0208333333333333",
+          "sellingPriceDelta": -0.148065876862323,
+          "sellingCompletedDelta": 0.1495130066706,
+          "buyingCompletedDelta": 0.191719876300163
+        },
+        {
+          "timestamp": "Sat Jul 08 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "792.1875000000000000",
+          "sellingPriceDelta": 0.00147488740814875,
+          "sellingCompletedDelta": -0.0283129756750871,
+          "buyingCompletedDelta": 0.0196617209941891
+        },
+        {
+          "timestamp": "Sun Jul 09 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "812.2708333333333333",
+          "sellingPriceDelta": 0.0253517422748192,
+          "sellingCompletedDelta": 0.0153607038722611,
+          "buyingCompletedDelta": -0.000297362602104692
+        },
+        {
+          "timestamp": "Mon Jul 10 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "899.8541666666666667",
+          "sellingPriceDelta": 0.107825284054477,
+          "sellingCompletedDelta": -0.289655854217071,
+          "buyingCompletedDelta": -0.284638158569535
+        },
+        {
+          "timestamp": "Tue Jul 11 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "942.0208333333333333",
+          "sellingPriceDelta": 0.0468594448174473,
+          "sellingCompletedDelta": -0.148734553577709,
+          "buyingCompletedDelta": -0.19714939981157
+        },
+        {
+          "timestamp": "Wed Jul 12 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "937.4375000000000000",
+          "sellingPriceDelta": -0.00486542672003892,
+          "sellingCompletedDelta": -0.139433858168475,
+          "buyingCompletedDelta": -0.153750388865205
+        },
+        {
+          "timestamp": "Thu Jul 13 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "934.5957446808510638",
+          "sellingPriceDelta": -0.00303140776761004,
+          "sellingCompletedDelta": 0.0638044320032165,
+          "buyingCompletedDelta": 0.112959235147593
+        },
+        {
+          "timestamp": "Fri Jul 14 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "918.6041666666666667",
+          "sellingPriceDelta": -0.0171106899482463,
+          "sellingCompletedDelta": -0.133074437860216,
+          "buyingCompletedDelta": -0.0893436591478084
+        },
+        {
+          "timestamp": "Sat Jul 15 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "921.5208333333333333",
+          "sellingPriceDelta": 0.00317510715986665,
+          "sellingCompletedDelta": 0.165119176123276,
+          "buyingCompletedDelta": 0.0352645952920536
+        },
+        {
+          "timestamp": "Sun Jul 16 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "902.0625000000000000",
+          "sellingPriceDelta": -0.0211154567856578,
+          "sellingCompletedDelta": 0.237116364833379,
+          "buyingCompletedDelta": 0.24106470884394
+        },
+        {
+          "timestamp": "Mon Jul 17 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "894.6041666666666667",
+          "sellingPriceDelta": -0.00826808933231714,
+          "sellingCompletedDelta": -0.138387509348084,
+          "buyingCompletedDelta": 0.0655234209753155
+        },
+        {
+          "timestamp": "Tue Jul 18 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "899.8958333333333333",
+          "sellingPriceDelta": 0.00591509280175124,
+          "sellingCompletedDelta": -0.0771961274064227,
+          "buyingCompletedDelta": -0.153315556166118
+        },
+        {
+          "timestamp": "Wed Jul 19 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "900.6250000000000000",
+          "sellingPriceDelta": 0.000810278967473087,
+          "sellingCompletedDelta": -0.0979631001037307,
+          "buyingCompletedDelta": -0.106899313209419
+        },
+        {
+          "timestamp": "Thu Jul 20 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "900.5000000000000000",
+          "sellingPriceDelta": -0.000138792505204719,
+          "sellingCompletedDelta": 0.0731062058031357,
+          "buyingCompletedDelta": -0.0490445624309399
+        },
+        {
+          "timestamp": "Fri Jul 21 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "903.8333333333333333",
+          "sellingPriceDelta": 0.00370164723301869,
+          "sellingCompletedDelta": -0.129305297929622,
+          "buyingCompletedDelta": -0.148152823131433
+        },
+        {
+          "timestamp": "Sat Jul 22 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "903.5000000000000000",
+          "sellingPriceDelta": -0.000368799557440531,
+          "sellingCompletedDelta": 0.0651676226342517,
+          "buyingCompletedDelta": 0.0492445753033833
+        },
+        {
+          "timestamp": "Sun Jul 23 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "897.2500000000000000",
+          "sellingPriceDelta": -0.00691754288876591,
+          "sellingCompletedDelta": 0.287177624039479,
+          "buyingCompletedDelta": 0.353218548303988
+        },
+        {
+          "timestamp": "Mon Jul 24 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "890.5416666666666667",
+          "sellingPriceDelta": -0.00747654871366212,
+          "sellingCompletedDelta": -0.0813273337651062,
+          "buyingCompletedDelta": -0.0311852680888319
+        },
+        {
+          "timestamp": "Tue Jul 25 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "887.7083333333333333",
+          "sellingPriceDelta": -0.0031815842418004,
+          "sellingCompletedDelta": -0.0733280545967493,
+          "buyingCompletedDelta": -0.123697605818981
+        },
+        {
+          "timestamp": "Wed Jul 26 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "883.7291666666666667",
+          "sellingPriceDelta": -0.00448251584135179,
+          "sellingCompletedDelta": 0.0708875293017026,
+          "buyingCompletedDelta": 0.245584973561005
+        },
+        {
+          "timestamp": "Thu Jul 27 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "886.3750000000000000",
+          "sellingPriceDelta": 0.00299394139418657,
+          "sellingCompletedDelta": 0.0894398530762167,
+          "buyingCompletedDelta": -0.0660811822212312
+        },
+        {
+          "timestamp": "Fri Jul 28 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "881.4583333333333333",
+          "sellingPriceDelta": -0.00554693743242608,
+          "sellingCompletedDelta": -0.187934541925607,
+          "buyingCompletedDelta": -0.0736351594420286
+        },
+        {
+          "timestamp": "Sat Jul 29 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "886.3750000000000000",
+          "sellingPriceDelta": 0.00557787757031435,
+          "sellingCompletedDelta": -0.121838187284651,
+          "buyingCompletedDelta": -0.17452302584928
+        },
+        {
+          "timestamp": "Sun Jul 30 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "889.5416666666666667",
+          "sellingPriceDelta": 0.00357260377003714,
+          "sellingCompletedDelta": 0.341582837921154,
+          "buyingCompletedDelta": 0.353343835691135
+        },
+        {
+          "timestamp": "Mon Jul 31 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "891.4375000000000000",
+          "sellingPriceDelta": 0.00213124736521617,
+          "sellingCompletedDelta": 0.136938491110329,
+          "buyingCompletedDelta": -0.0222565039450045
+        },
+        {
+          "timestamp": "Tue Aug 01 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "899.1250000000000000",
+          "sellingPriceDelta": 0.00862371170160555,
+          "sellingCompletedDelta": -0.171367237199659,
+          "buyingCompletedDelta": -0.0144203005315951
+        },
+        {
+          "timestamp": "Wed Aug 02 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "906.7083333333333333",
+          "sellingPriceDelta": 0.00843412577042495,
+          "sellingCompletedDelta": 0.103104104980747,
+          "buyingCompletedDelta": -0.0548606003954371
+        },
+        {
+          "timestamp": "Thu Aug 03 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "910.1041666666666667",
+          "sellingPriceDelta": 0.00374523229630991,
+          "sellingCompletedDelta": -0.0336581532236446,
+          "buyingCompletedDelta": -0.00351971415654729
+        },
+        {
+          "timestamp": "Fri Aug 04 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "923.6666666666666667",
+          "sellingPriceDelta": 0.0149021403227653,
+          "sellingCompletedDelta": -0.151643007703488,
+          "buyingCompletedDelta": -0.0609909470506457
+        },
+        {
+          "timestamp": "Sat Aug 05 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "935.7708333333333333",
+          "sellingPriceDelta": 0.0131044749188019,
+          "sellingCompletedDelta": 0.0176753526057118,
+          "buyingCompletedDelta": -0.105288927661708
+        },
+        {
+          "timestamp": "Sun Aug 06 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "927.5000000000000000",
+          "sellingPriceDelta": -0.00883852438942939,
+          "sellingCompletedDelta": 0.182727897513146,
+          "buyingCompletedDelta": 0.207205818162866
+        },
+        {
+          "timestamp": "Mon Aug 07 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "916.2708333333333333",
+          "sellingPriceDelta": -0.0121069182389937,
+          "sellingCompletedDelta": -0.0995929508278563,
+          "buyingCompletedDelta": -0.0854072788216212
+        },
+        {
+          "timestamp": "Tue Aug 08 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "905.8125000000000000",
+          "sellingPriceDelta": -0.0114140196903208,
+          "sellingCompletedDelta": 0.0964954073905971,
+          "buyingCompletedDelta": 0.0835990768908004
+        },
+        {
+          "timestamp": "Wed Aug 09 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "906.2708333333333333",
+          "sellingPriceDelta": 0.000505991398146231,
+          "sellingCompletedDelta": -0.0432285502110538,
+          "buyingCompletedDelta": 0.0105258253912168
+        },
+        {
+          "timestamp": "Thu Aug 10 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "903.9166666666666667",
+          "sellingPriceDelta": -0.00259764143353026,
+          "sellingCompletedDelta": -0.0896382195510161,
+          "buyingCompletedDelta": -0.0982218180098181
+        },
+        {
+          "timestamp": "Fri Aug 11 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "899.6041666666666667",
+          "sellingPriceDelta": -0.00477090439752927,
+          "sellingCompletedDelta": 0.0259503377958752,
+          "buyingCompletedDelta": 0.131104678183967
+        },
+        {
+          "timestamp": "Sat Aug 12 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "898.0625000000000000",
+          "sellingPriceDelta": -0.00171371668094764,
+          "sellingCompletedDelta": -0.0378692073351274,
+          "buyingCompletedDelta": -0.0872275331914379
+        },
+        {
+          "timestamp": "Sun Aug 13 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "899.0000000000000000",
+          "sellingPriceDelta": 0.00104391398148793,
+          "sellingCompletedDelta": 0.111277368668687,
+          "buyingCompletedDelta": 0.148900868874039
+        },
+        {
+          "timestamp": "Mon Aug 14 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "904.4583333333333333",
+          "sellingPriceDelta": 0.0060715609936967,
+          "sellingCompletedDelta": -0.0997709498994444,
+          "buyingCompletedDelta": -0.0619755930730988
+        },
+        {
+          "timestamp": "Tue Aug 15 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "902.7083333333333333",
+          "sellingPriceDelta": -0.00193485972267011,
+          "sellingCompletedDelta": 0.00711079149083944,
+          "buyingCompletedDelta": -0.0651060376412741
+        },
+        {
+          "timestamp": "Wed Aug 16 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "899.1041666666666667",
+          "sellingPriceDelta": -0.00399261481652435,
+          "sellingCompletedDelta": -0.00895096484029516,
+          "buyingCompletedDelta": 0.0605088101593526
+        },
+        {
+          "timestamp": "Thu Aug 17 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "898.9166666666666667",
+          "sellingPriceDelta": -0.000208540908774938,
+          "sellingCompletedDelta": 0.0353115141685764,
+          "buyingCompletedDelta": -0.0300629425933215
+        },
+        {
+          "timestamp": "Fri Aug 18 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "901.7500000000000000",
+          "sellingPriceDelta": 0.00315194215259108,
+          "sellingCompletedDelta": -0.104909372004454,
+          "buyingCompletedDelta": -0.0432399830227034
+        },
+        {
+          "timestamp": "Sat Aug 19 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "901.4791666666666667",
+          "sellingPriceDelta": -0.000300341927733112,
+          "sellingCompletedDelta": 0.028427920617042,
+          "buyingCompletedDelta": -0.057935118167432
+        },
+        {
+          "timestamp": "Sun Aug 20 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "896.1250000000000000",
+          "sellingPriceDelta": -0.00593931270365834,
+          "sellingCompletedDelta": -0.0139295724038807,
+          "buyingCompletedDelta": 0.109446759528581
+        },
+        {
+          "timestamp": "Mon Aug 21 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "873.6875000000000000",
+          "sellingPriceDelta": -0.0250383596038499,
+          "sellingCompletedDelta": 0.0222750683797373,
+          "buyingCompletedDelta": 0.0234380041798839
+        },
+        {
+          "timestamp": "Tue Aug 22 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "884.6250000000000000",
+          "sellingPriceDelta": 0.0125187781672509,
+          "sellingCompletedDelta": 0.110471304594559,
+          "buyingCompletedDelta": 0.0224962241534131
+        },
+        {
+          "timestamp": "Wed Aug 23 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "878.7291666666666667",
+          "sellingPriceDelta": -0.00666478262917432,
+          "sellingCompletedDelta": -0.145987158753933,
+          "buyingCompletedDelta": -0.0757571445005402
+        },
+        {
+          "timestamp": "Thu Aug 24 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "880.1739130434782609",
+          "sellingPriceDelta": 0.00164413158412851,
+          "sellingCompletedDelta": 0.177321870757351,
+          "buyingCompletedDelta": -0.0551928117050387
+        },
+        {
+          "timestamp": "Fri Aug 25 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "888.7500000000000000",
+          "sellingPriceDelta": 0.00974362774155305,
+          "sellingCompletedDelta": -0.199163794925431,
+          "buyingCompletedDelta": -0.0198768316855887
+        },
+        {
+          "timestamp": "Sat Aug 26 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "896.9583333333333333",
+          "sellingPriceDelta": 0.00923581809657759,
+          "sellingCompletedDelta": 0.139661045057917,
+          "buyingCompletedDelta": -0.0431545268362169
+        },
+        {
+          "timestamp": "Sun Aug 27 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "895.4375000000000000",
+          "sellingPriceDelta": -0.00169554512937242,
+          "sellingCompletedDelta": -0.000200787478696938,
+          "buyingCompletedDelta": 0.0383726714460838
+        },
+        {
+          "timestamp": "Mon Aug 28 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "892.4791666666666667",
+          "sellingPriceDelta": -0.00330378539354599,
+          "sellingCompletedDelta": 0.16742671009772,
+          "buyingCompletedDelta": 0.200845015815282
+        },
+        {
+          "timestamp": "Tue Aug 29 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "889.1458333333333333",
+          "sellingPriceDelta": -0.00373491444711595,
+          "sellingCompletedDelta": -0.167894425157281,
+          "buyingCompletedDelta": -0.13954063663746
+        },
+        {
+          "timestamp": "Wed Aug 30 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "891.2708333333333333",
+          "sellingPriceDelta": 0.00238993415965697,
+          "sellingCompletedDelta": -0.0213262068294862,
+          "buyingCompletedDelta": 0.0783949563328944
+        },
+        {
+          "timestamp": "Thu Aug 31 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "888.5208333333333333",
+          "sellingPriceDelta": -0.003085481872794,
+          "sellingCompletedDelta": -0.0348819664384726,
+          "buyingCompletedDelta": 0.0896139599472572
+        },
+        {
+          "timestamp": "Fri Sep 01 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "887.2083333333333333",
+          "sellingPriceDelta": -0.00147717414241835,
+          "sellingCompletedDelta": 0.0901950585968929,
+          "buyingCompletedDelta": -0.00431843256806887
+        },
+        {
+          "timestamp": "Sat Sep 02 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "887.3333333333333333",
+          "sellingPriceDelta": 0.000140891372751609,
+          "sellingCompletedDelta": 0.220874212582589,
+          "buyingCompletedDelta": -0.0393447937324284
+        },
+        {
+          "timestamp": "Sun Sep 03 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "874.3125000000000000",
+          "sellingPriceDelta": -0.0146741172051089,
+          "sellingCompletedDelta": -0.0667792383704873,
+          "buyingCompletedDelta": 0.247281004771789
+        },
+        {
+          "timestamp": "Mon Sep 04 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "846.0625000000000000",
+          "sellingPriceDelta": -0.0323111015798127,
+          "sellingCompletedDelta": 0.478276993278734,
+          "buyingCompletedDelta": 0.216665591521049
+        },
+        {
+          "timestamp": "Tue Sep 05 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "853.5625000000000000",
+          "sellingPriceDelta": 0.00886459333678068,
+          "sellingCompletedDelta": -0.179369319753489,
+          "buyingCompletedDelta": -0.170407279852364
+        },
+        {
+          "timestamp": "Wed Sep 06 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "857.8750000000000000",
+          "sellingPriceDelta": 0.00505235410412243,
+          "sellingCompletedDelta": -0.359842313650882,
+          "buyingCompletedDelta": -0.123530441426802
+        },
+        {
+          "timestamp": "Thu Sep 07 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "864.7708333333333333",
+          "sellingPriceDelta": 0.00803827286415076,
+          "sellingCompletedDelta": 0.274065353875638,
+          "buyingCompletedDelta": -0.169084720306263
+        },
+        {
+          "timestamp": "Fri Sep 08 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "860.2500000000000000",
+          "sellingPriceDelta": -0.00522778192681105,
+          "sellingCompletedDelta": -0.0561016701986056,
+          "buyingCompletedDelta": 0.251596843054543
+        },
+        {
+          "timestamp": "Sat Sep 09 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "861.6875000000000000",
+          "sellingPriceDelta": 0.00167102586457425,
+          "sellingCompletedDelta": 0.0860291188223089,
+          "buyingCompletedDelta": -0.0424067559457
+        },
+        {
+          "timestamp": "Sun Sep 10 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "874.6666666666666667",
+          "sellingPriceDelta": 0.0150624984889147,
+          "sellingCompletedDelta": 0.0671975592259986,
+          "buyingCompletedDelta": 0.143775231633775
+        },
+        {
+          "timestamp": "Mon Sep 11 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "882.2708333333333333",
+          "sellingPriceDelta": 0.0086937881097561,
+          "sellingCompletedDelta": -0.0940695122525371,
+          "buyingCompletedDelta": -0.00288702387157402
+        },
+        {
+          "timestamp": "Tue Sep 12 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "888.0208333333333333",
+          "sellingPriceDelta": 0.00651727313513896,
+          "sellingCompletedDelta": -0.246677419476026,
+          "buyingCompletedDelta": -0.373236561839399
+        },
+        {
+          "timestamp": "Wed Sep 13 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "903.8541666666666667",
+          "sellingPriceDelta": 0.0178299120234604,
+          "sellingCompletedDelta": -0.176131815850783,
+          "buyingCompletedDelta": -0.0707209080456958
+        },
+        {
+          "timestamp": "Thu Sep 14 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "900.1875000000000000",
+          "sellingPriceDelta": -0.00405670162498559,
+          "sellingCompletedDelta": 0.0842857762582184,
+          "buyingCompletedDelta": -0.0258412195956618
+        },
+        {
+          "timestamp": "Fri Sep 15 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "894.6250000000000000",
+          "sellingPriceDelta": -0.00617926820801222,
+          "sellingCompletedDelta": 0.126832835707022,
+          "buyingCompletedDelta": 0.131328834667705
+        },
+        {
+          "timestamp": "Sat Sep 16 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "874.2083333333333333",
+          "sellingPriceDelta": -0.0228214801359974,
+          "sellingCompletedDelta": 0.00878798763092599,
+          "buyingCompletedDelta": -0.0369337542163567
+        },
+        {
+          "timestamp": "Sun Sep 17 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "867.9583333333333333",
+          "sellingPriceDelta": -0.00714932558028693,
+          "sellingCompletedDelta": -0.170398812174232,
+          "buyingCompletedDelta": 0.196766188048444
+        },
+        {
+          "timestamp": "Mon Sep 18 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "869.2916666666666667",
+          "sellingPriceDelta": 0.00153617205126974,
+          "sellingCompletedDelta": 0.350071580301653,
+          "buyingCompletedDelta": 0.0847247425391065
+        },
+        {
+          "timestamp": "Tue Sep 19 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "881.0833333333333333",
+          "sellingPriceDelta": 0.0135646838901404,
+          "sellingCompletedDelta": -0.17807946879515,
+          "buyingCompletedDelta": -0.206549118387909
+        },
+        {
+          "timestamp": "Wed Sep 20 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "884.8541666666666667",
+          "sellingPriceDelta": 0.00427976922349381,
+          "sellingCompletedDelta": -0.0965231122697575,
+          "buyingCompletedDelta": -0.0878181469316809
+        },
+        {
+          "timestamp": "Thu Sep 21 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "883.3541666666666667",
+          "sellingPriceDelta": -0.00169519459421279,
+          "sellingCompletedDelta": 0.48372642762807,
+          "buyingCompletedDelta": 0.297430618110067
+        },
+        {
+          "timestamp": "Fri Sep 22 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "882.6666666666666667",
+          "sellingPriceDelta": -0.000778283531048796,
+          "sellingCompletedDelta": -0.290087971171085,
+          "buyingCompletedDelta": -0.201432564195813
+        },
+        {
+          "timestamp": "Sat Sep 23 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "874.0625000000000000",
+          "sellingPriceDelta": -0.00974792296072508,
+          "sellingCompletedDelta": 0.154727501889655,
+          "buyingCompletedDelta": 0.186132090043009
+        },
+        {
+          "timestamp": "Sun Sep 24 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "873.5625000000000000",
+          "sellingPriceDelta": -0.000572041473006793,
+          "sellingCompletedDelta": 0.167404317156806,
+          "buyingCompletedDelta": 0.159533980217585
+        },
+        {
+          "timestamp": "Mon Sep 25 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "852.8297872340425532",
+          "sellingPriceDelta": -0.0237335196576747,
+          "sellingCompletedDelta": 0.0216530057485365,
+          "buyingCompletedDelta": -0.0411865123998326
+        },
+        {
+          "timestamp": "Tue Sep 26 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "851.3541666666666667",
+          "sellingPriceDelta": -0.0017302638691382,
+          "sellingCompletedDelta": 0.00954721130930373,
+          "buyingCompletedDelta": 0.0554640549550996
+        },
+        {
+          "timestamp": "Wed Sep 27 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "840.5625000000000000",
+          "sellingPriceDelta": -0.0126758840083201,
+          "sellingCompletedDelta": 0.11766555833013,
+          "buyingCompletedDelta": 0.322044204299162
+        },
+        {
+          "timestamp": "Thu Sep 28 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "834.1041666666666667",
+          "sellingPriceDelta": -0.00768334696507795,
+          "sellingCompletedDelta": 0.0122094785042953,
+          "buyingCompletedDelta": -0.170874078779023
+        },
+        {
+          "timestamp": "Fri Sep 29 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "808.6666666666666667",
+          "sellingPriceDelta": -0.0304967904688163,
+          "sellingCompletedDelta": 0.160516963534208,
+          "buyingCompletedDelta": 0.0354108883119594
+        },
+        {
+          "timestamp": "Sat Sep 30 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "795.9583333333333333",
+          "sellingPriceDelta": -0.0157151690024732,
+          "sellingCompletedDelta": -0.221948788923085,
+          "buyingCompletedDelta": -0.00863551416942018
+        },
+        {
+          "timestamp": "Sun Oct 01 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "760.7173913043478261",
+          "sellingPriceDelta": -0.0442748578074466,
+          "sellingCompletedDelta": 0.214091885985542,
+          "buyingCompletedDelta": 0.0321891532172376
+        },
+        {
+          "timestamp": "Mon Oct 02 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "740.6875000000000000",
+          "sellingPriceDelta": -0.0263302660532106,
+          "sellingCompletedDelta": -0.309268848794058,
+          "buyingCompletedDelta": -0.261374348992323
+        },
+        {
+          "timestamp": "Tue Oct 03 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "751.8958333333333333",
+          "sellingPriceDelta": 0.0151323376367676,
+          "sellingCompletedDelta": 0.208772882164306,
+          "buyingCompletedDelta": 0.146657002137844
+        },
+        {
+          "timestamp": "Wed Oct 04 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "770.7083333333333333",
+          "sellingPriceDelta": 0.0250200881106093,
+          "sellingCompletedDelta": 0.148555356686269,
+          "buyingCompletedDelta": 0.0787898172513557
+        },
+        {
+          "timestamp": "Thu Oct 05 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "774.1041666666666667",
+          "sellingPriceDelta": 0.00440611991133697,
+          "sellingCompletedDelta": 0.142269279621753,
+          "buyingCompletedDelta": 0.184092158744192
+        },
+        {
+          "timestamp": "Fri Oct 06 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "773.1041666666666667",
+          "sellingPriceDelta": -0.00129181580859596,
+          "sellingCompletedDelta": -0.122657660130894,
+          "buyingCompletedDelta": -0.0538746459239484
+        },
+        {
+          "timestamp": "Sat Oct 07 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "767.1458333333333333",
+          "sellingPriceDelta": -0.00770702524993937,
+          "sellingCompletedDelta": 0.146800453071113,
+          "buyingCompletedDelta": 0.167118254393297
+        },
+        {
+          "timestamp": "Sun Oct 08 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "763.1666666666666667",
+          "sellingPriceDelta": -0.0051869755315971,
+          "sellingCompletedDelta": 0.0220958295498289,
+          "buyingCompletedDelta": 0.00274249113184242
+        },
+        {
+          "timestamp": "Mon Oct 09 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "759.4146341463414634",
+          "sellingPriceDelta": -0.00491639989559974,
+          "sellingCompletedDelta": -0.218247969088881,
+          "buyingCompletedDelta": -0.293749157136138
+        },
+        {
+          "timestamp": "Tue Oct 10 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "756.3541666666666667",
+          "sellingPriceDelta": -0.00403003490065091,
+          "sellingCompletedDelta": -0.13566408266508,
+          "buyingCompletedDelta": -0.0266549147364082
+        },
+        {
+          "timestamp": "Wed Oct 11 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "749.5416666666666667",
+          "sellingPriceDelta": -0.0090070238259193,
+          "sellingCompletedDelta": 0.593543560217773,
+          "buyingCompletedDelta": 0.445762004275258
+        },
+        {
+          "timestamp": "Thu Oct 12 2017 00:00:00 GMT+0000 (UTC)",
+          "sellingPrice": "743.8181818181818182",
+          "sellingPriceDelta": -0.00763597956326846,
+          "sellingCompletedDelta": -0.555367091061705,
+          "buyingCompletedDelta": -0.605707096866007
+        }
+      ]
+    }
+  }
+}

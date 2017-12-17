@@ -11,6 +11,8 @@ import Reveal from "reveal.js"
 export const API_URL = "http://192.168.27.170/graphql"
 
 Reveal.initialize({
+  backgroundTransition: "slide",
+  transition: "slide",
   width: "100%",
   height: "100%",
   history: true,
@@ -31,59 +33,87 @@ const convertItem = item => {
 }
 
 async function start() {
+  const chartRatio = 16 / 9
+  const chartWidth = 0.9
+  const chartHeight = chartWidth / chartRatio
+
   const updates = await import("./data/updates.json")
+  let itemDaily = convertItem(
+    (await import("./data/item-daily.json")).data.item
+  )
+  let itemWeekly = convertItem(
+    (await import("./data/item-weekly.json")).data.item
+  )
 
-  let itemDaily = await fetch(API_URL, {
-    method: "POST",
-    mode: "cors",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ query: itemQuery("d") })
-  })
-    .then(response => response.json())
-    .then(data => data.data.item)
-    .then(convertItem)
+  const updateChartElement = select("#price-update-chart")
+  const supplyDemandChartElement = select("#supply-demand-chart")
 
-  let itemWeekly = await fetch(API_URL, {
-    method: "POST",
-    mode: "cors",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ query: itemQuery("w") })
-  })
-    .then(response => response.json())
-    .then(data => data.data.item)
-    .then(convertItem)
+  const clear = element => {
+    while (element.firstNode) element.removeChild(element.firstNode)
+  }
 
-  console.log(itemWeekly)
+  const updateChart = () =>
+    drawUpdateChart(itemDaily.rsbuddy, updates, {
+      chartWidth,
+      chartHeight,
+      element: updateChartElement,
+      lineMargin: {
+        y: 25
+      },
+      margin: {
+        top: 20,
+        right: 20,
+        bottom: 20,
+        left: 50
+      },
+      xMap: d => d.timestamp,
+      yMap: d => d.sellingPrice
+    })
 
-  drawUpdateChart(itemDaily.rsbuddy, updates, {
-    element: select("#price-update-chart"),
-    lineMargin: {
-      y: 25
-    },
-    margin: {
-      top: 20,
-      right: 20,
-      bottom: 30,
-      left: 50
-    },
-    xMap: d => d.timestamp,
-    yMap: d => d.sellingPrice
-  })
+  const supplyDemandChart = () =>
+    drawSupplyDemandChart(itemWeekly.rsbuddy, updates, {
+      chartWidth,
+      chartHeight,
+      element: supplyDemandChartElement,
+      lineMargin: {
+        y: 0.02
+      },
+      stroke: 1,
+      margin: {
+        top: 20,
+        right: 20,
+        bottom: 30,
+        left: 50
+      },
+      xMap: d => d.timestamp,
+      yMap: d => d.sellingCompletedDelta
+    })
+  // await fetch(API_URL, {
+  //   method: "POST",
+  //   mode: "cors",
+  //   headers: { "Content-Type": "application/json" },
+  //   body: JSON.stringify({ query: itemQuery("w") })
+  // })
+  //   .then(response => response.json())
+  //   .then(data => data.data.item)
+  //   .then(convertItem)
 
-  drawSupplyDemandChart(itemWeekly.rsbuddy, updates, {
-    element: select("#supply-demand-chart"),
-    lineMargin: {
-      y: 0
-    },
-    stroke: 1,
-    margin: {
-      top: 20,
-      right: 20,
-      bottom: 30,
-      left: 50
-    },
-    xMap: d => d.timestamp,
-    yMap: d => d.sellingPriceDelta
+  updateChart()
+  supplyDemandChart()
+
+  Reveal.addEventListener("slidechanged", event => {
+    switch (event.currentSlide.id) {
+      case "update-price-influence":
+        clear(updateChartElement)
+        updateChart()
+        break
+      case "supply-demand-influence":
+        clear(supplyDemandChartElement)
+        supplyDemandChart()
+        break
+      default:
+        break
+    }
   })
 }
 

@@ -1,7 +1,7 @@
 @import "../styles.scss";
 @import "../variables.scss";
 
-.update-price-influence {
+#update-price-influence {
   .axis.y,
   .axis.x {
     text {
@@ -41,10 +41,10 @@
   }
 
   .left {
-    @extend .bg-indigo-500;
+    @extend .bg-indigo-700;
   }
 
   .right {
-    @extend .bg-indigo-a400;
+    @extend .bg-indigo-500;
   }
 }

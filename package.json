@@ -6,7 +6,7 @@
   "author": "Ivo Huntjens, I.J.",
   "license": "MIT",
   "scripts": {
-    "build": "NODE_ENV=production webpack",
+    "build": "webpack -p",
     "format": "prettier --write './**/*.{js,jsx}'",
     "lint": "eslint '**/*.{js,jsx}'",
     "start": "webpack-dev-server"
@@ -14,6 +14,7 @@
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "d3": "^4.11.0",
+    "d3-svg-legend": "^2.25.0",
     "lodash": "^4.17.4",
     "reveal.js": "^3.5.0"
   },

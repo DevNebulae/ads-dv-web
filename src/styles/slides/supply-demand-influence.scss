@@ -1,12 +1,13 @@
+@import "./../variables.scss";
 @import "./../styles.scss";
 
-.supply-demand-influence {
+#supply-demand-influence {
   .left {
-    @extend .bg-teal-500;
+    @extend .bg-indigo-700;
   }
 
   .right {
-    @extend .bg-teal-a400;
+    @extend .bg-indigo-500;
   }
 
   .axis.y,
@@ -31,6 +32,28 @@
   }
 
   .zero-line {
-    stroke: black;
+    stroke: $white-1;
+  }
+
+  .update-line {
+    stroke-width: 1.5;
+    stroke: $updates;
+    fill: none;
+  }
+
+  .bars {
+    .bar {
+      &.sellingPriceDelta {
+        fill: $prices;
+      }
+
+      &.sellingCompletedDelta {
+        fill: $sold;
+      }
+
+      &.buyingCompletedDelta {
+        fill: $bought;
+      }
+    }
   }
 }

@@ -1,15 +1,22 @@
 import * as d3 from "d3"
+import { legendColor } from "d3-svg-legend"
 
 export default function drawSupplyDemandChart(
   item,
   updates,
-  { element, lineMargin, margin, xMap, yMap }
+  { chartWidth, chartHeight, element, lineMargin, margin, xMap, yMap }
 ) {
   item = item.filter(
     transaction =>
       transaction.timestamp >
       new Date("Thu Jan 01 2017 23:00:00 GMT+0000 (UTC)")
   )
+
+  const parent = element.node().parentNode.getBoundingClientRect()
+  const chartWidthPixels = parent.width * chartWidth
+
+  element.attr("width", chartWidthPixels)
+  element.attr("height", chartWidthPixels * chartHeight)
 
   const width = element.attr("width") - margin.left - margin.right
   const height = element.attr("height") - margin.top - margin.bottom
@@ -69,15 +76,18 @@ export default function drawSupplyDemandChart(
   svg
     .append("path")
     .datum(item)
+    .attr("data-legend", "Price")
     .attr("class", "graph-line")
     .attr("fill", "none")
     .attr("stroke-linejoin", "round")
     .attr("stroke-linecap", "round")
     .attr("d", line)
 
+  const updateGroup = svg.append("g").attr("class", "updates")
+
   updates.forEach(update => {
     const x = xScale(new Date(update.date))
-    svg
+    updateGroup
       .append("line")
       .attr("class", "update-line")
       .attr("x1", x)

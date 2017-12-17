@@ -9,8 +9,8 @@ export const itemQuery = resample =>
           timestamp
           sellingPrice
           sellingPriceDelta
-          sellingCompleted
           sellingCompletedDelta
+          buyingCompletedDelta
         }
       }
     }
