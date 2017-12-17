@@ -54,7 +54,7 @@
 .cover-image {
   width: auto;
   height: 100%;
-  background-size: cover;
+  object-fit: cover;
 }
 
 .left {
