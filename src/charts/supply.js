@@ -96,8 +96,6 @@ export default function(
       const value = data[column]
       const barWidth = xScale2.bandwidth()
 
-      console.log(column, value)
-
       const barHeight = Math.abs(zeroY - yScale(value))
       const x = xScale1(xMap(data))
       const y = value < 0 ? zeroY : zeroY - barHeight
