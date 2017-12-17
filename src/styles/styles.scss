@@ -60,6 +60,10 @@
   filter: grayscale(1);
 }
 
+.cover-image {
+  width: auto;
+  height: 100%;
+  object-fit: cover;
 .legend-table {
   width: 100%;
   border-collapse: collapse;
