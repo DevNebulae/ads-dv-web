@@ -4,8 +4,11 @@ import _ from "lodash"
 export default function(
   item,
   updates,
-  { chartWidth, chartHeight, element, lineMargin, stroke, margin, xMap, yMap }
+  noteworthyUpdates,
+  { chartWidth, chartHeight, element, stroke, margin, xMap, yMap }
 ) {
+  const drawDate = new Date("Sat Apr 01 2017 00:00:00 GMT+0200 (CEST)")
+
   const parent = element.node().parentNode.getBoundingClientRect()
   const chartWidthPixels = parent.width * chartWidth
   const columns = [
@@ -14,7 +17,7 @@ export default function(
     "buyingCompletedDelta"
   ]
 
-  const max = 0.85
+  const max = 0.82
   const min = d3.min(
     _.map(
       _.map(columns, column => _.map(item, item => _.get(item, column))),
@@ -28,11 +31,8 @@ export default function(
   const width = element.attr("width") - margin.left - margin.right
   const height = element.attr("height") - margin.top - margin.bottom
 
-  item = item.filter(
-    transaction =>
-      transaction.timestamp >
-      new Date("Thu Jan 01 2017 23:00:00 GMT+0000 (UTC)")
-  )
+  item = item.filter(transaction => transaction.timestamp > drawDate)
+  updates = updates.filter(update => new Date(update.date) > drawDate)
 
   const xScale1 = d3
     .scaleBand()
@@ -53,7 +53,7 @@ export default function(
     .range([height, 0])
     .domain([min, max])
 
-  const xAxis = d3.axisBottom(xScale3).tickFormat(d3.timeFormat("%Y %B"))
+  // const xAxis = d3.axisBottom(xScale3).tickFormat(d3.timeFormat("%Y %B"))
   const yAxis = d3.axisLeft(yScale).tickFormat(d3.format(".0%"))
 
   const zeroY = yScale(0)
@@ -63,11 +63,11 @@ export default function(
     .append("g")
     .attr("transform", `translate(${margin.left}, ${margin.top})`)
 
-  svg
-    .append("g")
-    .attr("class", "axis x")
-    .attr("transform", "translate(0," + height + ")")
-    .call(xAxis)
+  // svg
+  //   .append("g")
+  //   .attr("class", "axis x")
+  //   .attr("transform", "translate(0," + height + ")")
+  //   .call(xAxis)
 
   svg
     .append("g")
@@ -95,6 +95,9 @@ export default function(
     columns.forEach(column => {
       const value = data[column]
       const barWidth = xScale2.bandwidth()
+
+      console.log(column, value)
+
       const barHeight = Math.abs(zeroY - yScale(value))
       const x = xScale1(xMap(data))
       const y = value < 0 ? zeroY : zeroY - barHeight
@@ -124,5 +127,18 @@ export default function(
       .attr("y1", 0)
       .attr("x2", x)
       .attr("y2", height)
+  })
+
+  noteworthyUpdates.forEach(({ start, end, index }) => {
+    const x1 = xScale3(new Date(start))
+    const x2 = xScale3(new Date(end))
+    svg
+      .append("rect")
+      .attr("class", "area-of-interest pulsate updates fragment")
+      .attr("data-fragment-index", index)
+      .attr("x", x1)
+      .attr("width", x2 - x1)
+      .attr("y", 0)
+      .attr("height", height)
   })
 }

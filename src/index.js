@@ -45,6 +45,9 @@ async function start() {
     (await import("./data/item-weekly.json")).data.item
   )
 
+  const noteworthyUpdatesUpdatePrice = await import("./data/noteworthy-updates-update-price.json")
+  const noteworthyUpdatesSupplyDemand = await import("./data/noteworthy-updates-supply-demand.json")
+
   const updateChartElement = select("#price-update-chart")
   const supplyDemandChartElement = select("#supply-demand-chart")
 
@@ -53,7 +56,7 @@ async function start() {
   }
 
   const updateChart = () =>
-    drawUpdateChart(itemDaily.rsbuddy, updates, {
+    drawUpdateChart(itemDaily.rsbuddy, updates, noteworthyUpdatesUpdatePrice, {
       chartWidth,
       chartHeight,
       element: updateChartElement,
@@ -71,23 +74,25 @@ async function start() {
     })
 
   const supplyDemandChart = () =>
-    drawSupplyDemandChart(itemWeekly.rsbuddy, updates, {
-      chartWidth,
-      chartHeight,
-      element: supplyDemandChartElement,
-      lineMargin: {
-        y: 0.02
-      },
-      stroke: 1,
-      margin: {
-        top: 20,
-        right: 20,
-        bottom: 30,
-        left: 50
-      },
-      xMap: d => d.timestamp,
-      yMap: d => d.sellingCompletedDelta
-    })
+    drawSupplyDemandChart(
+      itemWeekly.rsbuddy,
+      updates,
+      noteworthyUpdatesSupplyDemand,
+      {
+        chartWidth,
+        chartHeight,
+        element: supplyDemandChartElement,
+        stroke: 1,
+        margin: {
+          top: 20,
+          right: 20,
+          bottom: 30,
+          left: 50
+        },
+        xMap: d => d.timestamp,
+        yMap: d => d.sellingCompletedDelta
+      }
+    )
 
   updateChart()
   supplyDemandChart()

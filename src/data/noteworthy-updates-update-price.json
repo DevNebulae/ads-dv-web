@@ -1,0 +1,27 @@
+[
+  {
+    "start": "May 21 2017 22:00:00 GMT+0000 (UTC)",
+    "end": "May 29 2017 22:00:00 GMT+0000 (UTC)",
+    "index": 4
+  },
+  {
+    "start": "May 27 2017 22:00:00 GMT+0000 (UTC)",
+    "end": "June 5 2017 22:00:00 GMT+0000 (UTC)",
+    "index": 5
+  },
+  {
+    "start": "July 1 2017 22:00:00 GMT+0000 (UTC)",
+    "end": "July 9 2017 22:00:00 GMT+0000 (UTC)",
+    "index": 6
+  },
+  {
+    "start": "May 25 2017 22:00:00 GMT+0000 (UTC)",
+    "end": "May 31 2017 22:00:00 GMT+0000 (UTC)",
+    "index": 7
+  },
+  {
+    "start": "July 4 2017 22:00:00 GMT+0000 (UTC)",
+    "end": "July 11 2017 22:00:00 GMT+0000 (UTC)",
+    "index": 7
+  }
+]

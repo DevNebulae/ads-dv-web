@@ -98,3 +98,35 @@
   background-color: $updates;
   color: $white-1;
 }
+
+.area-of-interest {
+  fill: rgba(white, 0.3);
+
+  &.pulsate.current-fragment {
+    animation: pulsating 2s infinite;
+  }
+
+  &.pulsate.fragment.visible:not(.current-fragment) {
+    animation: pulsating-done 2s forwards;
+  }
+}
+
+@keyframes pulsating-done {
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes pulsating {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}

@@ -4,13 +4,13 @@ import { legendColor } from "d3-svg-legend"
 export default function drawSupplyDemandChart(
   item,
   updates,
+  noteworthyUpdates,
   { chartWidth, chartHeight, element, lineMargin, margin, xMap, yMap }
 ) {
-  item = item.filter(
-    transaction =>
-      transaction.timestamp >
-      new Date("Thu Jan 01 2017 23:00:00 GMT+0000 (UTC)")
-  )
+  const drawDate = new Date("Sat Apr 01 2017 00:00:00 GMT+0200 (CEST)")
+
+  item = item.filter(transaction => transaction.timestamp > drawDate)
+  updates = updates.filter(update => new Date(update.date) > drawDate)
 
   const parent = element.node().parentNode.getBoundingClientRect()
   const chartWidthPixels = parent.width * chartWidth
@@ -67,13 +67,6 @@ export default function drawSupplyDemandChart(
     .call(xAxis)
 
   svg
-    .append("g")
-    .attr("class", "grid y")
-    .call(yAxis.tickSize(-width).tickFormat(""))
-    .select(".grid .y > .domain")
-    .remove()
-
-  svg
     .append("path")
     .datum(item)
     .attr("data-legend", "Price")
@@ -94,5 +87,18 @@ export default function drawSupplyDemandChart(
       .attr("y1", height)
       .attr("x2", x)
       .attr("y2", 0 + margin.top)
+  })
+
+  noteworthyUpdates.forEach(({ start, end, index }) => {
+    const x1 = xScale(new Date(start))
+    const x2 = xScale(new Date(end))
+    svg
+      .append("rect")
+      .attr("class", "area-of-interest pulsate updates fragment")
+      .attr("data-fragment-index", index)
+      .attr("x", x1)
+      .attr("width", x2 - x1)
+      .attr("y", 0)
+      .attr("height", height)
   })
 }
