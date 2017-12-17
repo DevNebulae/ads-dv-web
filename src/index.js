@@ -34,7 +34,7 @@ const convertItem = item => {
 
 async function start() {
   const chartRatio = 16 / 9
-  const chartWidth = 0.9
+  const chartWidth = 0.97
   const chartHeight = chartWidth / chartRatio
 
   const updates = await import("./data/updates.json")
@@ -49,7 +49,7 @@ async function start() {
   const supplyDemandChartElement = select("#supply-demand-chart")
 
   const clear = element => {
-    while (element.firstNode) element.removeChild(element.firstNode)
+    element.selectAll("*").remove()
   }
 
   const updateChart = () =>
@@ -88,15 +88,6 @@ async function start() {
       xMap: d => d.timestamp,
       yMap: d => d.sellingCompletedDelta
     })
-  // await fetch(API_URL, {
-  //   method: "POST",
-  //   mode: "cors",
-  //   headers: { "Content-Type": "application/json" },
-  //   body: JSON.stringify({ query: itemQuery("w") })
-  // })
-  //   .then(response => response.json())
-  //   .then(data => data.data.item)
-  //   .then(convertItem)
 
   updateChart()
   supplyDemandChart()
