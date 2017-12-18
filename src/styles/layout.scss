@@ -9,6 +9,38 @@
   overflow-y: auto;
 }
 
+.right {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.explanation-area {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  div {
+    position: absolute;
+    top: 16px;
+    left: 0;
+    width: 100%;
+    margin-top: 16px;
+    box-sizing: border-box;
+    padding: 0 32px;
+    text-align: center;
+
+    &.text-reveal.current-fragment {
+      animation: fade-in 0.5s forwards;
+    }
+
+    &.text-reveal.fragment.visible:not(.current-fragment) {
+      animation: fade-out 0.5s forwards;
+    }
+  }
+}
+
 .video-container {
   min-height: 100%;
   width: 100%;
@@ -26,4 +58,16 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+@keyframes fade-in {
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-out {
+  to {
+    opacity: 0;
+  }
 }
